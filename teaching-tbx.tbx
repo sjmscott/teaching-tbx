@@ -844,7 +844,7 @@
 <attribute name="Modified" >2016-08-08T09:59:24-07:00</attribute>
 <attribute name="Name" >ROW</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >91</attribute>
+<attribute name="SelectionCount" >93</attribute>
 <attribute name="Width" >17.24878072</attribute>
 <attribute name="Xpos" >-19.40617737</attribute>
 <attribute name="Year" >2016</attribute>
@@ -861,10 +861,11 @@
 <attribute name="KeyAttributes" >CourseName;CourseFullName;CourseStartDate;Season;Year;Teacher;StartDate;EndDate</attribute>
 <attribute name="MapScrollX" >11.94550004</attribute>
 <attribute name="MapScrollY" >2.678546419</attribute>
-<attribute name="Modified" >2016-08-11T12:00:44-07:00</attribute>
+<attribute name="Modified" >2016-08-11T16:55:26-07:00</attribute>
 <attribute name="Name" >row-fall-2016</attribute>
+<attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >101</attribute>
+<attribute name="SelectionCount" >108</attribute>
 <attribute name="StartDate" >2016-08-15T14:34:07-07:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
@@ -873,17 +874,58 @@
 <attribute name="Ypos" >2.608384229</attribute>
 <text >Welcome!  Please let me know if you have any questions!
 
-^include(&quot;ROW Resource List&quot;,&quot;/system/templates/resourcex&quot;)^
+&lt;nav class=&quot;navbar navbar-default&quot;&gt;
+  &lt;div class=&quot;container-fluid&quot;&gt;
+    &lt;!-- Brand and toggle get grouped for better mobile display --&gt;
+    &lt;div class=&quot;navbar-header&quot;&gt;
+      &lt;button type=&quot;button&quot; class=&quot;navbar-toggle collapsed&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#bs-example-navbar-collapse-1&quot; aria-expanded=&quot;false&quot;&gt;
+        &lt;span class=&quot;sr-only&quot;&gt;Toggle navigation&lt;/span&gt;
+        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+        &lt;span class=&quot;icon-bar&quot;&gt;&lt;/span&gt;
+      &lt;/button&gt;
+      &lt;a class=&quot;navbar-brand&quot; href=&quot;#&quot;&gt;Brand&lt;/a&gt;
+    &lt;/div&gt;
 
-  
-
-
-
-
+    &lt;!-- Collect the nav links, forms, and other content for toggling --&gt;
+    &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;bs-example-navbar-collapse-1&quot;&gt;
+      &lt;ul class=&quot;nav navbar-nav&quot;&gt;
+        &lt;li class=&quot;active&quot;&gt;&lt;a href=&quot;#&quot;&gt;Link &lt;span class=&quot;sr-only&quot;&gt;(current)&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;dropdown&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+          &lt;ul class=&quot;dropdown-menu&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+            &lt;li role=&quot;separator&quot; class=&quot;divider&quot;&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+            &lt;li role=&quot;separator&quot; class=&quot;divider&quot;&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;One more separated link&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;form class=&quot;navbar-form navbar-left&quot;&gt;
+              &lt;ul class=&quot;nav navbar-nav navbar-right&quot;&gt;
+        &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Link&lt;/a&gt;&lt;/li&gt;
+        &lt;li class=&quot;dropdown&quot;&gt;
+          &lt;a href=&quot;#&quot; class=&quot;dropdown-toggle&quot; data-toggle=&quot;dropdown&quot; role=&quot;button&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;Dropdown &lt;span class=&quot;caret&quot;&gt;&lt;/span&gt;&lt;/a&gt;
+          &lt;ul class=&quot;dropdown-menu&quot;&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Action&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Another action&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Something else here&lt;/a&gt;&lt;/li&gt;
+            &lt;li role=&quot;separator&quot; class=&quot;divider&quot;&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Separated link&lt;/a&gt;&lt;/li&gt;
+          &lt;/ul&gt;
+        &lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/div&gt;&lt;!-- /.navbar-collapse --&gt;
+  &lt;/div&gt;&lt;!-- /.container-fluid --&gt;
+&lt;/nav&gt;
 
 
          </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6KAQAAKwAAAAEAAACCAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgV2VsY29tZSEgIFBsZWFzZSBsZXQgbWUga25vdyBpZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIVwKXApeaW5jbHVkZSgiUk9XIFJlc291cmNlIExpc3QiLCIvc3lzdGVtL3RlbXBsYXRlcy9yZXNvdXJjZXgiKV5cClwKICBcClwKXApcClwKXApcCiAgICAgICAgIH0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABcy6xXtgEAAAAAAAAAAAAA</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5dCgAAKwAAAAEAAABVCgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgV2VsY29tZSEgIFBsZWFzZSBsZXQgbWUga25vdyBpZiB5b3UgaGF2ZSBhbnkgcXVlc3Rpb25zIVwKXAo8bmF2IGNsYXNzPSJuYXZiYXIgbmF2YmFyLWRlZmF1bHQiPlwKICA8ZGl2IGNsYXNzPSJjb250YWluZXItZmx1aWQiPlwKICAgIDwhLS0gQnJhbmQgYW5kIHRvZ2dsZSBnZXQgZ3JvdXBlZCBmb3IgYmV0dGVyIG1vYmlsZSBkaXNwbGF5IC0tPlwKICAgIDxkaXYgY2xhc3M9Im5hdmJhci1oZWFkZXIiPlwKICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJuYXZiYXItdG9nZ2xlIGNvbGxhcHNlZCIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXRhcmdldD0iI2JzLWV4YW1wbGUtbmF2YmFyLWNvbGxhcHNlLTEiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5cCiAgICAgICAgPHNwYW4gY2xhc3M9InNyLW9ubHkiPlRvZ2dsZSBuYXZpZ2F0aW9uPC9zcGFuPlwKICAgICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj5cCiAgICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+XAogICAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPlwKICAgICAgPC9idXR0b24+XAogICAgICA8YSBjbGFzcz0ibmF2YmFyLWJyYW5kIiBocmVmPSIjIj5CcmFuZDwvYT5cCiAgICA8L2Rpdj5cClwKICAgIDwhLS0gQ29sbGVjdCB0aGUgbmF2IGxpbmtzLCBmb3JtcywgYW5kIG90aGVyIGNvbnRlbnQgZm9yIHRvZ2dsaW5nIC0tPlwKICAgIDxkaXYgY2xhc3M9ImNvbGxhcHNlIG5hdmJhci1jb2xsYXBzZSIgaWQ9ImJzLWV4YW1wbGUtbmF2YmFyLWNvbGxhcHNlLTEiPlwKICAgICAgPHVsIGNsYXNzPSJuYXYgbmF2YmFyLW5hdiI+XAogICAgICAgIDxsaSBjbGFzcz0iYWN0aXZlIj48YSBocmVmPSIjIj5MaW5rIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij4oY3VycmVudCk8L3NwYW4+PC9hPjwvbGk+XAogICAgICAgIDxsaT48YSBocmVmPSIjIj5MaW5rPC9hPjwvbGk+XAogICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24iPlwKICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIiBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+RHJvcGRvd24gPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9hPlwKICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+XAogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QWN0aW9uPC9hPjwvbGk+XAogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT5cCiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Tb21ldGhpbmcgZWxzZSBoZXJlPC9hPjwvbGk+XAogICAgICAgICAgICA8bGkgcm9sZT0ic2VwYXJhdG9yIiBjbGFzcz0iZGl2aWRlciI+PC9saT5cCiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5TZXBhcmF0ZWQgbGluazwvYT48L2xpPlwKICAgICAgICAgICAgPGxpIHJvbGU9InNlcGFyYXRvciIgY2xhc3M9ImRpdmlkZXIiPjwvbGk+XAogICAgICAgICAgICA8bGk+PGEgaHJlZj0iIyI+T25lIG1vcmUgc2VwYXJhdGVkIGxpbms8L2E+PC9saT5cCiAgICAgICAgICA8L3VsPlwKICAgICAgICA8L2xpPlwKICAgICAgPC91bD5cCiAgICAgIDxmb3JtIGNsYXNzPSJuYXZiYXItZm9ybSBuYXZiYXItbGVmdCI+XAogICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IG5hdmJhci1uYXYgbmF2YmFyLXJpZ2h0Ij5cCiAgICAgICAgPGxpPjxhIGhyZWY9IiMiPkxpbms8L2E+PC9saT5cCiAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93biI+XAogICAgICAgICAgPGEgaHJlZj0iIyIgY2xhc3M9ImRyb3Bkb3duLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImRyb3Bkb3duIiByb2xlPSJidXR0b24iIGFyaWEtaGFzcG9wdXA9InRydWUiIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj5Ecm9wZG93biA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L2E+XAogICAgICAgICAgPHVsIGNsYXNzPSJkcm9wZG93bi1tZW51Ij5cCiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5BY3Rpb248L2E+PC9saT5cCiAgICAgICAgICAgIDxsaT48YSBocmVmPSIjIj5Bbm90aGVyIGFjdGlvbjwvYT48L2xpPlwKICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT5cCiAgICAgICAgICAgIDxsaSByb2xlPSJzZXBhcmF0b3IiIGNsYXNzPSJkaXZpZGVyIj48L2xpPlwKICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+XAogICAgICAgICAgPC91bD5cCiAgICAgICAgPC9saT5cCiAgICAgIDwvdWw+XAogICAgPC9kaXY+PCEtLSAvLm5hdmJhci1jb2xsYXBzZSAtLT5cCiAgPC9kaXY+PCEtLSAvLmNvbnRhaW5lci1mbHVpZCAtLT5cCjwvbmF2PlwKXApcCiAgICAgICAgIH0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABuEK1XtgEAAAAAAAAAAAAA</rtfd>
 <item ID="1470689191" Creator="sscott" proto="pWeek" >
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T13:46:30-07:00</attribute>
@@ -938,7 +980,7 @@
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >35</attribute>
+<attribute name="SelectionCount" >37</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -1089,9 +1131,10 @@
 <attribute name="Created" >2016-08-08T14:33:39-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-02T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Modified" >2016-08-08T14:33:39-07:00</attribute>
 <attribute name="Name" >3</attribute>
-<attribute name="SelectionCount" >21</attribute>
+<attribute name="SelectionCount" >22</attribute>
 <attribute name="StartDate" >2016-08-29T14:34:00-07:00</attribute>
 <attribute name="WeekName" >3-8/29/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >3</attribute>
@@ -1144,9 +1187,10 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-08T16:19:10-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-09T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Modified" >2016-08-08T16:19:10-07:00</attribute>
 <attribute name="Name" >4</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="StartDate" >2016-09-05T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >4</attribute>
 <attribute name="Width" >10</attribute>
@@ -1194,9 +1238,10 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-08T15:22:01-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-16T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Modified" >2016-08-08T15:22:01-07:00</attribute>
 <attribute name="Name" >5</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="StartDate" >2016-09-12T14:34:00-07:00</attribute>
 <attribute name="WeekName" >4-9/5/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >5</attribute>
@@ -1245,9 +1290,10 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-08T16:07:15-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-23T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Modified" >2016-08-08T16:07:15-07:00</attribute>
 <attribute name="Name" >6</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="StartDate" >2016-09-19T14:34:00-07:00</attribute>
 <attribute name="WeekName" >5-9/12/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >6</attribute>
@@ -1296,9 +1342,10 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-10T20:40:31-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-30T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Modified" >2016-08-10T20:40:31-07:00</attribute>
 <attribute name="Name" >7</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="StartDate" >2016-09-26T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >7</attribute>
 <attribute name="Xpos" >14.86881118</attribute>
@@ -1340,6 +1387,160 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
+<item ID="1470952595" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:56:34-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-10-07T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:56:34-07:00</attribute>
+<attribute name="Name" >8</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-10-03T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >8</attribute>
+<attribute name="Xpos" >18.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952599" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:56:38-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-10-14T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:56:38-07:00</attribute>
+<attribute name="Name" >9</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="StartDate" >2016-10-10T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >9</attribute>
+<attribute name="Xpos" >21.86881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952601" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:56:40-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-10-21T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:56:40-07:00</attribute>
+<attribute name="Name" >10</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="StartDate" >2016-10-17T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >10</attribute>
+<attribute name="Xpos" >25.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952607" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:56:46-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-10-28T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:56:46-07:00</attribute>
+<attribute name="Name" >11</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="StartDate" >2016-10-24T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >11</attribute>
+<attribute name="Xpos" >28.86881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952622" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:01-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-11-04T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:01-07:00</attribute>
+<attribute name="Name" >12</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="StartDate" >2016-10-31T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >12</attribute>
+<attribute name="Xpos" >32.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952630" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:09-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-11-11T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:09-07:00</attribute>
+<attribute name="Name" >13</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-11-07T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >13</attribute>
+<attribute name="Xpos" >35.86881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952633" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:12-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-11-18T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:12-07:00</attribute>
+<attribute name="Name" >14</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="StartDate" >2016-11-14T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >14</attribute>
+<attribute name="Xpos" >39.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952636" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:15-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-11-25T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:15-07:00</attribute>
+<attribute name="Name" >15</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-11-21T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >15</attribute>
+<attribute name="Xpos" >42.86881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952639" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:18-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-12-02T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:18-07:00</attribute>
+<attribute name="Name" >16</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-11-28T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >16</attribute>
+<attribute name="Xpos" >46.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952643" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:22-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-12-09T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:22-07:00</attribute>
+<attribute name="Name" >17</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-12-05T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >17</attribute>
+<attribute name="Xpos" >49.86881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
+<item ID="1470952645" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T14:57:24-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-12-16T14:34:00-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="Modified" >2016-08-11T14:57:24-07:00</attribute>
+<attribute name="Name" >18</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="StartDate" >2016-12-12T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >18</attribute>
+<attribute name="Xpos" >53.36881118</attribute>
+<attribute name="Ypos" >10.11114881</attribute>
+</item>
 </item>
 <agent ID="1470935348" Creator="sscott" proto="pAgent" >
 <attribute name="Agent" >true</attribute>
@@ -1354,13 +1555,13 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2016-08-11T09:31:45-07:00</attribute>
 <attribute name="Name" >ROW Resource List</attribute>
-<attribute name="SelectionCount" >61</attribute>
+<attribute name="SelectionCount" >71</attribute>
 <attribute name="Sort" >Unit</attribute>
 <attribute name="SortAlso" >ResourceNumber</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
-<item ID="1470945678" Creator="sscott" >
+<item ID="1470952946" Creator="sscott" >
 <attribute name="Alias" >1470853604</attribute>
 <attribute name="Created" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
@@ -1413,208 +1614,378 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2016-08-09T09:03:26-07:00</attribute>
 <attribute name="Name" >row vocab</attribute>
-<attribute name="SelectionCount" >58</attribute>
+<attribute name="SelectionCount" >66</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
-<item ID="1470928533" Creator="sscott" >
-<attribute name="Alias" >1470710215</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >0.5</attribute>
-</item>
-<item ID="1470928532" Creator="sscott" >
-<attribute name="Alias" >1470710211</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >0.5</attribute>
-</item>
-<item ID="1470928538" Creator="sscott" >
-<attribute name="Alias" >1470710223</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >0.5</attribute>
-</item>
-<item ID="1470928529" Creator="sscott" >
+<item ID="1470959789" Creator="sscott" >
 <attribute name="Alias" >1470710176</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
-<item ID="1470928540" Creator="sscott" >
-<attribute name="Alias" >1470710227</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2</attribute>
-</item>
-<item ID="1470928528" Creator="sscott" >
-<attribute name="Alias" >1470710174</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2</attribute>
-</item>
-<item ID="1470928530" Creator="sscott" >
-<attribute name="Alias" >1470710180</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >2</attribute>
-</item>
-<item ID="1470928531" Creator="sscott" >
-<attribute name="Alias" >1470710209</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >2</attribute>
-</item>
-<item ID="1470928534" Creator="sscott" >
-<attribute name="Alias" >1470710217</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470928536" Creator="sscott" >
-<attribute name="Alias" >1470710178</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470928539" Creator="sscott" >
+<item ID="1470959785" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >3.5</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
-<item ID="1470928526" Creator="sscott" >
-<attribute name="Alias" >1470707951</attribute>
-<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470928541" Creator="sscott" >
+<item ID="1470959786" Creator="sscott" >
 <attribute name="Alias" >1470710229</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470928535" Creator="sscott" >
-<attribute name="Alias" >1470710219</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470928542" Creator="sscott" >
-<attribute name="Alias" >1470763701</attribute>
-<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >5.86</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
-<item ID="1470928524" Creator="sscott" >
-<attribute name="Alias" >1470710182</attribute>
+<item ID="1470959787" Creator="sscott" >
+<attribute name="Alias" >1470707951</attribute>
+<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470959788" Creator="sscott" >
+<attribute name="Alias" >1470710174</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >27</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470928527" Creator="sscott" >
-<attribute name="Alias" >1470763705</attribute>
-<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >8.22</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
-<item ID="1470928525" Creator="sscott" >
+<item ID="1470959795" Creator="sscott" >
 <attribute name="Alias" >1470710213</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >8.22</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
-<item ID="1470928537" Creator="sscott" >
+<item ID="1470959790" Creator="sscott" >
+<attribute name="Alias" >1470710178</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470959791" Creator="sscott" >
+<attribute name="Alias" >1470710180</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470959792" Creator="sscott" >
+<attribute name="Alias" >1470710182</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959793" Creator="sscott" >
+<attribute name="Alias" >1470710209</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959794" Creator="sscott" >
+<attribute name="Alias" >1470710211</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959796" Creator="sscott" >
+<attribute name="Alias" >1470710215</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959797" Creator="sscott" >
+<attribute name="Alias" >1470710217</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.86</attribute>
+</item>
+<item ID="1470959798" Creator="sscott" >
+<attribute name="Alias" >1470710219</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >5.86</attribute>
+</item>
+<item ID="1470959799" Creator="sscott" >
+<attribute name="Alias" >1470763705</attribute>
+<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >5.86</attribute>
+</item>
+<item ID="1470959800" Creator="sscott" >
 <attribute name="Alias" >1470710221</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >5.86</attribute>
+</item>
+<item ID="1470959801" Creator="sscott" >
+<attribute name="Alias" >1470710223</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >8.22</attribute>
+</item>
+<item ID="1470959802" Creator="sscott" >
+<attribute name="Alias" >1470710227</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >8.22</attribute>
+</item>
+<item ID="1470959803" Creator="sscott" >
+<attribute name="Alias" >1470763701</attribute>
+<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >8.22</attribute>
 </item>
 </agent>
+<agent ID="1470953402" Creator="sscott" proto="pAgent" >
+<attribute name="Agent" >true</attribute>
+<attribute name="AgentAction" >$Width=&quot;10&quot;;</attribute>
+<attribute name="AgentQuery" >$Prototype==&quot;pVocabulary&quot; &amp; $CourseName == $CourseName(agent)</attribute>
+<attribute name="Color" >normal</attribute>
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-11T15:10:01-07:00</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="HTMLExportTemplate" >/system/templates/vocab-table</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="IsPrototype" >false</attribute>
+<attribute name="Modified" >2016-08-11T15:10:01-07:00</attribute>
+<attribute name="Name" >ROW Glossary</attribute>
+<attribute name="SelectionCount" >65</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="1470953412" Creator="sscott" >
+<attribute name="Alias" >1470710174</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470953411" Creator="sscott" >
+<attribute name="Alias" >1470707951</attribute>
+<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470953413" Creator="sscott" >
+<attribute name="Alias" >1470710176</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470953415" Creator="sscott" >
+<attribute name="Alias" >1470710180</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470953417" Creator="sscott" >
+<attribute name="Alias" >1470710209</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470953418" Creator="sscott" >
+<attribute name="Alias" >1470710211</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470953419" Creator="sscott" >
+<attribute name="Alias" >1470710213</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470953420" Creator="sscott" >
+<attribute name="Alias" >1470710215</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470953422" Creator="sscott" >
+<attribute name="Alias" >1470710219</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470953427" Creator="sscott" >
+<attribute name="Alias" >1470763701</attribute>
+<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470953409" Creator="sscott" >
+<attribute name="Alias" >1470710225</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470953410" Creator="sscott" >
+<attribute name="Alias" >1470710229</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470953414" Creator="sscott" >
+<attribute name="Alias" >1470710178</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470953416" Creator="sscott" >
+<attribute name="Alias" >1470710182</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470953421" Creator="sscott" >
+<attribute name="Alias" >1470710217</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470953423" Creator="sscott" >
+<attribute name="Alias" >1470763705</attribute>
+<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470953424" Creator="sscott" >
+<attribute name="Alias" >1470710221</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.08</attribute>
+</item>
+<item ID="1470953425" Creator="sscott" >
+<attribute name="Alias" >1470710223</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >9.08</attribute>
+</item>
+<item ID="1470953426" Creator="sscott" >
+<attribute name="Alias" >1470710227</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >9.08</attribute>
+</item>
+</agent>
 <item ID="1470757954" Creator="sscott" proto="pMap" >
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-09T08:52:33-07:00</attribute>
+<attribute name="HTMLExportTemplate" >none</attribute>
 <attribute name="Modified" >2016-08-09T08:52:33-07:00</attribute>
 <attribute name="Name" >row-map</attribute>
-<attribute name="SelectionCount" >41</attribute>
+<attribute name="SelectionCount" >43</attribute>
 <attribute name="Xpos" >-4.673286732</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
 <item ID="1470757981" Creator="sscott" proto="pUnit" >
@@ -2114,7 +2485,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="MapScrollY" >6.449901853</attribute>
 <attribute name="Modified" >2016-08-08T09:59:12-07:00</attribute>
 <attribute name="Name" >ICC</attribute>
-<attribute name="SelectionCount" >37</attribute>
+<attribute name="SelectionCount" >38</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >13.35451802</attribute>
 <attribute name="Xpos" >-1.791316931</attribute>
@@ -5235,6 +5606,17 @@ $Unit = Unit(parent);</attribute>
 </item>
 </agent>
 </item>
+<item ID="1470953108" Creator="sscott" >
+<attribute name="Created" >2016-08-11T15:05:07-07:00</attribute>
+<attribute name="HTMLExportTemplate" >/system/templates/body_text_only</attribute>
+<attribute name="Modified" >2016-08-11T15:05:19-07:00</attribute>
+<attribute name="Name" >Colophon</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >12.06320109</attribute>
+<attribute name="Ypos" >10.80205972</attribute>
+<text >This site was made in Tinderbox</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4iAQAAKwAAAAEAAAAaAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoaXMgc2l0ZSB3YXMgbWFkZSBpbiBUaW5kZXJib3h9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAn/asV7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
 <item ID="1470752620" Creator="sscott" >
 <attribute name="Created" >2016-08-09T07:19:19-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
@@ -5274,10 +5656,10 @@ $Unit = Unit(parent);</attribute>
 <item ID="1470861821" Creator="sscott" proto="pHTML" >
 <attribute name="Color" >#009999</attribute>
 <attribute name="Created" >2016-08-10T13:43:40-07:00</attribute>
-<attribute name="Modified" >2016-08-11T12:10:44-07:00</attribute>
+<attribute name="Modified" >2016-08-11T15:12:01-07:00</attribute>
 <attribute name="Name" >html-map</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;pHTML&quot;;$IsTemplate=true;</attribute>
-<attribute name="SelectionCount" >151</attribute>
+<attribute name="SelectionCount" >157</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >2.36</attribute>
 <text >&lt;!DOCTYPE html&gt;
@@ -5353,7 +5735,7 @@ $Unit = Unit(parent);</attribute>
 &lt;/html&gt;
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC78CwAAKwAAAAEAAAD0CwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMlxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzN1xncmVlbjkxXGJsdWUxNDE7XHJlZDM4XGdyZWVuMzhcYmx1ZTM4O1xyZWQ2NVxncmVlbjE0MVxibHVlMTk2OwpccmVkMjAwXGdyZWVuNTFcYmx1ZTYzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8IURPQ1RZUEUgaHRtbD5cCjxodG1sIGxhbmc9ImVuIj5cCiAgPGhlYWQ+XAogICAgPG1ldGEgY2hhcnNldD0idXRmLTgiPlwKICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSI+XAogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIj5cCiAgICA8IS0tIFRoZSBhYm92ZSAzIG1ldGEgdGFncyAqbXVzdCogY29tZSBmaXJzdCBpbiB0aGUgaGVhZDsgYW55IG90aGVyIGhlYWQgY29udGVudCBtdXN0IGNvbWUgKmFmdGVyKiB0aGVzZSB0YWdzIC0tPlwKICAgIDx0aXRsZT5edGl0bGVePC90aXRsZT5cClwKICAgIDwhLS0gQm9vdHN0cmFwIC0tPlwKXAo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Il5yb290XmNzcy9zdXBlcmhlcm8uY3NzIj5cCiA8bGluayBocmVmPSJecm9vdF5jc3MvZm9udGF3ZXNvbWUuY3NzIiByZWw9InN0eWxlc2hlZXQiPlwKXApcCiAgICA8IS0tIEhUTUw1IHNoaW0gYW5kIFJlc3BvbmQuanMgZm9yIElFOCBzdXBwb3J0IG9mIEhUTUw1IGVsZW1lbnRzIGFuZCBtZWRpYSBxdWVyaWVzIC0tPlwKICAgIDwhLS0gV0FSTklORzogUmVzcG9uZC5qcyBkb2Vzbid0IHdvcmsgaWYgeW91IHZpZXcgdGhlIHBhZ2UgdmlhIGZpbGU6Ly8gLS0+XAogICAgPCEtLVtpZiBsdCBJRSA5XT5cCiAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2h0bWw1c2hpdi8zLjcuMy9odG1sNXNoaXYubWluLmpzIj48L3NjcmlwdD5cCiAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL3Jlc3BvbmQvMS40LjIvcmVzcG9uZC5taW4uanMiPjwvc2NyaXB0PlwKICAgIDwhW2VuZGlmXS0tPlwKICA8L2hlYWQ+XApcClwKPGJvZHkgaWQ9InRvcCI+XApcCl5pbmNsdWRlKG5hdmJhcileXApcCjwhLS0gIENsb3NlZDogXmluY2x1ZGUodGh1bWJuYWlsLWdhbGxlcnkpXi0tPlwKXApcCjxkaXYgY2xhc3M9ImNvbnRhaW5lciI+XApcCjxkaXZcY2YzICBcY2Y0IGNsYXNzPVxjZjUgInJvdyJcY2YyID5cClwKXApcClwKXApcCjxkaXYgY2xhc3M9InBhZ2UtaGVhZGVyIj5cCiAgICAgICAgPGgyPgpcZjFcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXnZhbHVlKCRDb3Vyc2VGdWxsTmFtZSleClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAogPHNtYWxsPndpdGggClxmMVxmczMyIFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBedmFsdWUoJFRlYWNoZXIpXgpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKPC9zbWFsbD48L2gyPlwKXApccGFyZFx0eDcyMFx0eDEwODBcdHgxNDQwXHR4MTgwMFx0eDIxNjBcdHgyNTIwXHR4Mjg4MFx0eDMyNDBccGFyZGVmdGFiNzIwXGxpMzYwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcCjwvZGl2PiA8IS0tIGVuZCBwYWdlIGhlYWRlciAtLT5cClwKXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMyAgIApcZjJcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgPHA+XnRleHRePC9wPlwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCAgICAgIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC13ZWVrKQpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiA8L2Rpdj4KXGYyXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClwKXApeaW5jbHVkZSgicm93IHZvY2FiIiwiL3N5c3RlbS90ZW1wbGF0ZXMvdm9jYWItc25pcHBldCIpXlwKXApcClwKPC9kaXY+PCEtLSBlbmQgcGFnZSBkaXYgLS0+XGNmMyBcClwKXAogPCEtLSBqUXVlcnkgKG5lY2Vzc2FyeSBmb3IgQm9vdHN0cmFwJ3MgSmF2YVNjcmlwdCBwbHVnaW5zKSAtLT5cCiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMi40L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0PlwKICAgIDwhLS0gSW5jbHVkZSBhbGwgY29tcGlsZWQgcGx1Z2lucyAoYmVsb3cpLCBvciBpbmNsdWRlIGluZGl2aWR1YWwgZmlsZXMgYXMgbmVlZGVkIC0tPlwKICAgIDxzY3JpcHQgc3JjPSJecm9vdF5qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD5cClwKICBcY2YyIDwvYm9keT5cY2YzIFwKXGNmMiA8L2h0bWw+XGNmMyBcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjJcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAtM2sV7YBAAAAAAAAAAAAAA==</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC78CwAAKwAAAAEAAAD0CwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMlxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzN1xncmVlbjkxXGJsdWUxNDE7XHJlZDM4XGdyZWVuMzhcYmx1ZTM4O1xyZWQ2NVxncmVlbjE0MVxibHVlMTk2OwpccmVkMjAwXGdyZWVuNTFcYmx1ZTYzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8IURPQ1RZUEUgaHRtbD5cCjxodG1sIGxhbmc9ImVuIj5cCiAgPGhlYWQ+XAogICAgPG1ldGEgY2hhcnNldD0idXRmLTgiPlwKICAgIDxtZXRhIGh0dHAtZXF1aXY9IlgtVUEtQ29tcGF0aWJsZSIgY29udGVudD0iSUU9ZWRnZSI+XAogICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIj5cCiAgICA8IS0tIFRoZSBhYm92ZSAzIG1ldGEgdGFncyAqbXVzdCogY29tZSBmaXJzdCBpbiB0aGUgaGVhZDsgYW55IG90aGVyIGhlYWQgY29udGVudCBtdXN0IGNvbWUgKmFmdGVyKiB0aGVzZSB0YWdzIC0tPlwKICAgIDx0aXRsZT5edGl0bGVePC90aXRsZT5cClwKICAgIDwhLS0gQm9vdHN0cmFwIC0tPlwKXAo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Il5yb290XmNzcy9zdXBlcmhlcm8uY3NzIj5cCiA8bGluayBocmVmPSJecm9vdF5jc3MvZm9udGF3ZXNvbWUuY3NzIiByZWw9InN0eWxlc2hlZXQiPlwKXApcCiAgICA8IS0tIEhUTUw1IHNoaW0gYW5kIFJlc3BvbmQuanMgZm9yIElFOCBzdXBwb3J0IG9mIEhUTUw1IGVsZW1lbnRzIGFuZCBtZWRpYSBxdWVyaWVzIC0tPlwKICAgIDwhLS0gV0FSTklORzogUmVzcG9uZC5qcyBkb2Vzbid0IHdvcmsgaWYgeW91IHZpZXcgdGhlIHBhZ2UgdmlhIGZpbGU6Ly8gLS0+XAogICAgPCEtLVtpZiBsdCBJRSA5XT5cCiAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL2h0bWw1c2hpdi8zLjcuMy9odG1sNXNoaXYubWluLmpzIj48L3NjcmlwdD5cCiAgICAgIDxzY3JpcHQgc3JjPSJodHRwczovL29zcy5tYXhjZG4uY29tL3Jlc3BvbmQvMS40LjIvcmVzcG9uZC5taW4uanMiPjwvc2NyaXB0PlwKICAgIDwhW2VuZGlmXS0tPlwKICA8L2hlYWQ+XApcClwKPGJvZHkgaWQ9InRvcCI+XApcCl5pbmNsdWRlKG5hdmJhcileXApcCjwhLS0gIENsb3NlZDogXmluY2x1ZGUodGh1bWJuYWlsLWdhbGxlcnkpXi0tPlwKXApcCjxkaXYgY2xhc3M9ImNvbnRhaW5lciI+XApcCjxkaXZcY2YzICBcY2Y0IGNsYXNzPVxjZjUgInJvdyJcY2YyID5cClwKXApcClwKXApcCjxkaXYgY2xhc3M9InBhZ2UtaGVhZGVyIj5cCiAgICAgICAgPGgyPgpcZjFcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXnZhbHVlKCRDb3Vyc2VGdWxsTmFtZSleClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAogPHNtYWxsPndpdGggClxmMVxmczMyIFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBedmFsdWUoJFRlYWNoZXIpXgpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKPC9zbWFsbD48L2gyPlwKXApccGFyZFx0eDcyMFx0eDEwODBcdHgxNDQwXHR4MTgwMFx0eDIxNjBcdHgyNTIwXHR4Mjg4MFx0eDMyNDBccGFyZGVmdGFiNzIwXGxpMzYwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcCjwvZGl2PiA8IS0tIGVuZCBwYWdlIGhlYWRlciAtLT5cClwKXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMyAgIApcZjJcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgPHA+XnRleHRePC9wPlwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCAgICAgIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC13ZWVrKQpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiA8L2Rpdj4KXGYyXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClwKXApeaW5jbHVkZSgicm93IHZvY2FiIiwiL3N5c3RlbS90ZW1wbGF0ZXMvdm9jYWItc25pcHBldCIpXlwKXApcClwKPC9kaXY+PCEtLSBlbmQgcGFnZSBkaXYgLS0+XGNmMyBcClwKXAogPCEtLSBqUXVlcnkgKG5lY2Vzc2FyeSBmb3IgQm9vdHN0cmFwJ3MgSmF2YVNjcmlwdCBwbHVnaW5zKSAtLT5cCiAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9hamF4Lmdvb2dsZWFwaXMuY29tL2FqYXgvbGlicy9qcXVlcnkvMS4xMi40L2pxdWVyeS5taW4uanMiPjwvc2NyaXB0PlwKICAgIDwhLS0gSW5jbHVkZSBhbGwgY29tcGlsZWQgcGx1Z2lucyAoYmVsb3cpLCBvciBpbmNsdWRlIGluZGl2aWR1YWwgZmlsZXMgYXMgbmVlZGVkIC0tPlwKICAgIDxzY3JpcHQgc3JjPSJecm9vdF5qcy9ib290c3RyYXAubWluLmpzIj48L3NjcmlwdD5cClwKICBcY2YyIDwvYm9keT5cY2YzIFwKXGNmMiA8L2h0bWw+XGNmMyBcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjJcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAMfisV7YBAAAAAAAAAAAAAA==</rtfd>
 <item ID="1470861923" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-10T13:45:22-07:00</attribute>
 <attribute name="Modified" >2016-08-11T11:09:46-07:00</attribute>
@@ -5387,7 +5769,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:48:51-07:00</attribute>
 <attribute name="Modified" >2016-08-11T14:08:59-07:00</attribute>
 <attribute name="Name" >html-map-day</attribute>
-<attribute name="SelectionCount" >81</attribute>
+<attribute name="SelectionCount" >82</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;col-md-12&quot;&gt;
@@ -5446,7 +5828,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:47:48-07:00</attribute>
 <attribute name="Modified" >2016-08-11T14:11:08-07:00</attribute>
 <attribute name="Name" >html-map-child</attribute>
-<attribute name="SelectionCount" >41</attribute>
+<attribute name="SelectionCount" >42</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;li&gt; 
@@ -9175,7 +9557,7 @@ Islam
 <attribute name="Height" >5</attribute>
 <attribute name="Modified" >2016-08-08T21:33:33-07:00</attribute>
 <attribute name="Name" >Simplenote</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >6.720000023</attribute>
 <attribute name="Ypos" >33.46753224</attribute>
@@ -9282,7 +9664,7 @@ This is cool!</text>
 <attribute name="Created" >2016-08-11T11:30:16-07:00</attribute>
 <attribute name="Modified" >2016-08-11T11:50:10-07:00</attribute>
 <attribute name="Name" >working model</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >5.826713268</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
 <text >  
@@ -9310,6 +9692,16 @@ This is cool!</text>
 &lt;/div&gt;
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6kBAAAKwAAAAEAAACcBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgICBcCjwhLS0gQnV0dG9uIHRyaWdnZXIgbW9kYWwgLS0+XAo8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI3VuaXQxcmVzb3VyY2UiPlwKICBVbml0IDEgUmVzb3VyY2VzXAo8L2J1dHRvbj5cCiBcCjwhLS0gTW9kYWwgLS0+XAo8ZGl2IGNsYXNzPSJtb2RhbCBmYWRlIiBpZD0idW5pdDFyZXNvdXJjZSIgdGFiaW5kZXg9Ii0xIiByb2xlPSJkaWFsb2ciIGFyaWEtbGFiZWxsZWRieT0idW5pdDFyZXNvdXJjZUxhYmVsIiBhcmlhLWhpZGRlbj0idHJ1ZSI+XAogIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyBtb2RhbC1sZyI+XAogICAgPGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCI+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPlwKICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+PHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+PC9idXR0b24+XAogICAgICAgIDxoNCBjbGFzcz0ibW9kYWwtdGl0bGUiIGlkPSJ1bml0MXJlc291cmNlTGFiZWwiPlVuaXQgMSBSZXNvdXJjZXM8L2g0PlwKICAgICAgPC9kaXY+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1ib2R5Ij5cCiAgICAgICAgXmluY2x1ZGUoXCc5M1VuaXQgMSBSZXNvdXJjZXMiLCIvc3lzdGVtL3RlbXBsYXRlcy9yZXNvdXJjZXgiKV5cCiAgICAgIDwvZGl2PlwKICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtZm9vdGVyIj5cCiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIG9uY2xpY2s9JycgZGF0YS1kaXNtaXNzPSJtb2RhbCI+Q2xvc2U8L2J1dHRvbj5cCiAgICAgIDwvZGl2PlwKICAgIDwvZGl2PlwKICA8L2Rpdj5cCjwvZGl2PlwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOLIrFe2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1470958666" Creator="sscott" >
+<attribute name="Created" >2016-08-11T16:37:45-07:00</attribute>
+<attribute name="Modified" >2016-08-11T16:37:53-07:00</attribute>
+<attribute name="Name" >resource list- works</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >9.326713268</attribute>
+<attribute name="Ypos" >4.968384229</attribute>
+<text >^include(&quot;ROW Resource List&quot;,&quot;/system/templates/resourcex&quot;)^</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5FAQAAKwAAAAEAAAA9AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIF5pbmNsdWRlKCJST1cgUmVzb3VyY2UgTGlzdCIsIi9zeXN0ZW0vdGVtcGxhdGVzL3Jlc291cmNleCIpXn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABRDK1XtgEAAAAAAAAAAAAA</rtfd>
 </item>
 <item ID="1470852026" Creator="sscott" >
 <attribute name="Created" >2016-08-10T10:57:32-07:00</attribute>
@@ -9656,6 +10048,18 @@ This is cool!</text>
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470940023" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470943964" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470943966" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952595" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952599" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952601" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952607" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952622" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952630" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952633" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952636" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952639" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952643" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470952645" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470756739" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470953402" destcreator="sscott" color="#993333"  />
 </links>
 <macros >
 </macros>
@@ -9768,7 +10172,7 @@ This is cool!</text>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1308</InspectorX>
-<InspectorY > -61</InspectorY>
+<InspectorY > 234</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -9811,15 +10215,20 @@ This is cool!</text>
 <windows >
 <window bounds="Rect[ 0 0 1676 1027]" ruler="1" >
 <tabs >
-<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="0" selection="1470935368 " expanded="1470675565 1470690280 1470689191 1470683554 1470757981 1470757994 1470675553 1470701632 1470754765 1470939979 1470675649 1470935346 1470940211 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.662291" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470862069 " expanded="1470689191 1470692020 1470698351 1470694922 1470697636 1470886832 1470757954 1470757981 1470928543 1470757994 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="0" selection="1470690280 " expanded="1470675565 1470690280 1470689191 1470683554 1470935348 1470757981 1470757994 1470701632 1470754765 1470939979 1470679051 1470675649 1470935346 1470940211 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.662291" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="744" selection="1470861821 " expanded="1470675565 1470690280 1470757981 1470928543 1470757994 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470689191 " expanded="1470675565 1470690280 1470757954 1470757981 1470675553 1470701631 1470751130 1470754765 1470679051 1470675649 1470861821 1470766882 1470935346 1470877935 1470675651 1470940211 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.750597" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
 <utilityWindows >
+<window bounds="Rect[ -0 -0 1676 1027]" ID="1470690280" >
+</window>
+<window bounds="Rect[ 294 228 1630 1027]" ID="1470861821" >
+</window>
 </utilityWindows>
 <searches >
+<search>row vocab</search>
 <search>unit 1 resources</search>
 <search>header123</search>
 <search>header</search>
@@ -9829,6 +10238,5 @@ This is cool!</text>
 <search>abraham</search>
 <search>aaron</search>
 <search>ecumenism</search>
-<search>dimension</search>
 </searches>
 </tinderbox>
