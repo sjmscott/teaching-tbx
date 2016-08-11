@@ -5385,9 +5385,9 @@ $Unit = Unit(parent);</attribute>
 </item>
 <item ID="1470862132" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-10T13:48:51-07:00</attribute>
-<attribute name="Modified" >2016-08-10T19:47:22-07:00</attribute>
+<attribute name="Modified" >2016-08-11T14:08:59-07:00</attribute>
 <attribute name="Name" >html-map-day</attribute>
-<attribute name="SelectionCount" >78</attribute>
+<attribute name="SelectionCount" >81</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;col-md-12&quot;&gt;
@@ -5417,7 +5417,7 @@ $Unit = Unit(parent);</attribute>
 
  
 &lt;ol&gt;
-^children(/system/templates/html_page/html_content)
+^children(/system/templates/html-map/html-map-child)
 &lt;/ol&gt;
 
 
@@ -5440,27 +5440,25 @@ $Unit = Unit(parent);</attribute>
 
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6HCQAAKwAAAAEAAAB/CQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlLU1lZGl1bTsKfQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzdcZ3JlZW45MVxibHVlMTQxO1xyZWQyNDVcZ3JlZW4yNDVcYmx1ZTI0NztccmVkMzhcZ3JlZW4zOFxibHVlMzg7ClxyZWQ2NVxncmVlbjE0MVxibHVlMTk2O1xyZWQyMDBcZ3JlZW41MVxibHVlNjM7XHJlZDE4OVxncmVlbjU0XGJsdWUxOTt9ClxkZWZ0YWI3MjAKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKPGRpdiBjbGFzcz0iY29sLW1kLTEyIj5cClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFxjYjMgPGRpdlxjZjQgXGNiMyAgXGNmNSBcY2IzIGNsYXNzPVxjZjYgInBhbmVsIHBhbmVsLWRlZmF1bHQiXGNmMiA+XGNmNCBcY2IzIFwKICBcY2YyIFxjYjMgPGRpdlxjZjQgXGNiMyAgXGNmNSBcY2IzIGNsYXNzPVxjZjYgInBhbmVsLWhlYWRpbmciXGNmMiA+XGNmNCBcY2IzIFwKICAgIFxjZjIgXGNiMyA8aDNcY2Y0IFxjYjMgIFxjZjUgXGNiMyBjbGFzcz1cY2Y2ICJwYW5lbC10aXRsZSJcY2YyID5cY2Y0IFxjYjEgXnRpdGxlXGNmMiBcY2IzIDwvaDM+XGNmNCBcY2IzIFwKICBcY2YyIFxjYjMgPC9kaXY+XGNmNCBcY2IzIFwKICBcY2YyIFxjYjMgPGRpdlxjZjQgXGNiMyAgXGNmNSBcY2IzIGNsYXNzPVxjZjYgInBhbmVsLWJvZHkiXGNmMiA+XGNmNCBcY2IzIFwKPGRpdiBjbGFzcz0icm93Ij5cY2Y0IFxjYjEgXAo8ZGl2IGNsYXNzPSJjb2wtbWQtOCI+XGNmMiBcCjxpbWcgc3JjPSJodHRwczovL2RsLmRyb3Bib3h1c2VyY29udGVudC5jb20vdS85MTYxMDcvdGVhY2hkb2NzL152YWx1ZSgkQ291cnNlTmFtZSleLV52YWx1ZSgkV2Vla051bWJlcileLV52YWx1ZSgkQ2xhc3NOdW0pXi1vcmRvLnBuZyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIGNlbnRlci1ibG9jayI+XApcClwKXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IDwvZGl2PlwKXAo8ZGl2IGNsYXNzPSJjb2wtbWQtNCI+XAo8cD5edGV4dDwvcD5cClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmNyBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKIFwKPC9kaXY+XAo8L2Rpdj5cClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFxjYjMgXAogXApccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxXGZzMzIgXGNmMCBcY2IxIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgPG9sPlwKXmNoaWxkcmVuKC9zeXN0ZW0vdGVtcGxhdGVzL2h0bWxfcGFnZS9odG1sX2NvbnRlbnQpXAo8L29sPgpcZjBcZnMyNiBcY2Y0IFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFxjYjMgXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFxjYjMgPC9kaXY+XGNmNCBcY2IzIFwKXGNmMiBcY2IzIDwvZGl2PlxjZjQgXGNiMSBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiA8L2Rpdj5cClwKXApccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjJcZnM2MCBcY2Y0IFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNiBcY2YyIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcClwKXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAADrnq1e2AQAAAAAAAAAAAAA=</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4fCQAAKwAAAAEAAAAXCQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlLU1lZGl1bTsKfQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzdcZ3JlZW45MVxibHVlMTQxO1xyZWQyNDVcZ3JlZW4yNDVcYmx1ZTI0NztccmVkMzhcZ3JlZW4zOFxibHVlMzg7ClxyZWQ2NVxncmVlbjE0MVxibHVlMTk2O1xyZWQyMDBcZ3JlZW41MVxibHVlNjM7XHJlZDE4OVxncmVlbjU0XGJsdWUxOTt9ClxkZWZ0YWI3MjAKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKPGRpdiBjbGFzcz0iY29sLW1kLTEyIj5cClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFxjYjMgPGRpdlxjZjQgIFxjZjUgY2xhc3M9XGNmNiAicGFuZWwgcGFuZWwtZGVmYXVsdCJcY2YyID5cY2Y0IFwKICBcY2YyIDxkaXZcY2Y0ICBcY2Y1IGNsYXNzPVxjZjYgInBhbmVsLWhlYWRpbmciXGNmMiA+XGNmNCBcCiAgICBcY2YyIDxoM1xjZjQgIFxjZjUgY2xhc3M9XGNmNiAicGFuZWwtdGl0bGUiXGNmMiA+XGNmNCBcY2IxIF50aXRsZVxjZjIgXGNiMyA8L2gzPlxjZjQgXAogIFxjZjIgPC9kaXY+XGNmNCBcCiAgXGNmMiA8ZGl2XGNmNCAgXGNmNSBjbGFzcz1cY2Y2ICJwYW5lbC1ib2R5IlxjZjIgPlxjZjQgXAo8ZGl2IGNsYXNzPSJyb3ciPlxjZjQgXGNiMSBcCjxkaXYgY2xhc3M9ImNvbC1tZC04Ij5cY2YyIFwKPGltZyBzcmM9Imh0dHBzOi8vZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbS91LzkxNjEwNy90ZWFjaGRvY3MvXnZhbHVlKCRDb3Vyc2VOYW1lKV4tXnZhbHVlKCRXZWVrTnVtYmVyKV4tXnZhbHVlKCRDbGFzc051bSleLW9yZG8ucG5nIiBjbGFzcz0iaW1nLXJlc3BvbnNpdmUgY2VudGVyLWJsb2NrIj5cClwKXApcClwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgPC9kaXY+XApcCjxkaXYgY2xhc3M9ImNvbC1tZC00Ij5cCjxwPl50ZXh0PC9wPlwKXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y3IFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXAogXAo8L2Rpdj5cCjwvZGl2PlwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXGNiMyBcCiBcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjFcZnMzMiBcY2YwIFxjYjEgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCA8b2w+XApeY2hpbGRyZW4oL3N5c3RlbS90ZW1wbGF0ZXMvaHRtbC1tYXAvaHRtbC1tYXAtY2hpbGQpXAo8L29sPgpcZjBcZnMyNiBcY2Y0IFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiA8L2Rpdj5cY2Y0IFwKXGNmMiA8L2Rpdj5cY2Y0IFxjYjEgXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKXApcClwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgPC9kaXY+XApcClwKXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxwYXJkZWZ0YWI3MjBccmk0MDBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYyXGZzNjAgXGNmNCBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjYgXGNmMiBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmNCBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABr6axXtgEAAAAAAAAAAAAA</rtfd>
 </item>
 <item ID="1470862069" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-10T13:47:48-07:00</attribute>
-<attribute name="Modified" >2016-08-11T13:05:04-07:00</attribute>
+<attribute name="Modified" >2016-08-11T14:11:08-07:00</attribute>
 <attribute name="Name" >html-map-child</attribute>
-<attribute name="SelectionCount" >38</attribute>
+<attribute name="SelectionCount" >41</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >This should repeat
-
-&lt;li&gt; 
+<text >&lt;li&gt; 
 ^title^
 ^text^
-^children(/system/templates/html_page/html_content)
+^children(/system/templates/html-map/html-map-child)
 &lt;/li&gt;
 
 
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7SAwAAKwAAAAEAAADKAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzOFxncmVlbjM4XGJsdWUzODt9ClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgVGhpcyBzaG91bGQgcmVwZWF0XApcCjxsaT4gXApedGl0bGVeXApedGV4dF5cClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjEgXGNmMCBeY2hpbGRyZW4oL3N5c3RlbS90ZW1wbGF0ZXMvaHRtbF9wYWdlL2h0bWxfY29udGVudCkKXGYwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIDwvbGk+XApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMlxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAHDarFe2AQAAAAAAAAAAAAA=</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC69AwAAKwAAAAEAAAC1AwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzOFxncmVlbjM4XGJsdWUzODt9ClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgPGxpPiBcCl50aXRsZV5cCl50ZXh0XlwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMSBcY2YwIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC1jaGlsZCkKXGYwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIDwvbGk+XApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMlxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOzprFe2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 </item>
 <item ID="1470675650" Creator="sscott" proto="pHTML" >
@@ -5610,7 +5608,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-09T14:22:51-07:00</attribute>
 <attribute name="Name" >html_content</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;pHTML&quot;;$IsTemplate=true;</attribute>
-<attribute name="SelectionCount" >29</attribute>
+<attribute name="SelectionCount" >31</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;li&gt; 
@@ -6148,7 +6146,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="HTMLExportTemplate" >/system/templates/body_text_only</attribute>
 <attribute name="Modified" >2016-08-11T10:52:40-07:00</attribute>
 <attribute name="Name" >resourcex</attribute>
-<attribute name="SelectionCount" >22</attribute>
+<attribute name="SelectionCount" >23</attribute>
 <attribute name="Xpos" >45.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;row&quot;&gt;
@@ -9273,11 +9271,51 @@ This is cool!</text>
 </text>
 </item>
 </item>
+<item ID="1470940211" Creator="sscott" >
+<attribute name="Created" >2016-08-11T11:30:10-07:00</attribute>
+<attribute name="Modified" >2016-08-11T11:30:10-07:00</attribute>
+<attribute name="Name" >Things to add</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >2.326713268</attribute>
+<attribute name="Ypos" >4.968384229</attribute>
+<item ID="1470940217" Creator="sscott" >
+<attribute name="Created" >2016-08-11T11:30:16-07:00</attribute>
+<attribute name="Modified" >2016-08-11T11:50:10-07:00</attribute>
+<attribute name="Name" >working model</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Xpos" >5.826713268</attribute>
+<attribute name="Ypos" >4.968384229</attribute>
+<text >  
+&lt;!-- Button trigger modal --&gt;
+&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-toggle=&quot;modal&quot; data-target=&quot;#unit1resource&quot;&gt;
+  Unit 1 Resources
+&lt;/button&gt;
+ 
+&lt;!-- Modal --&gt;
+&lt;div class=&quot;modal fade&quot; id=&quot;unit1resource&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;unit1resourceLabel&quot; aria-hidden=&quot;true&quot;&gt;
+  &lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
+    &lt;div class=&quot;modal-content&quot;&gt;
+      &lt;div class=&quot;modal-header&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;/button&gt;
+        &lt;h4 class=&quot;modal-title&quot; id=&quot;unit1resourceLabel&quot;&gt;Unit 1 Resources&lt;/h4&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-body&quot;&gt;
+        ^include(“Unit 1 Resources&quot;,&quot;/system/templates/resourcex&quot;)^
+      &lt;/div&gt;
+      &lt;div class=&quot;modal-footer&quot;&gt;
+        &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; onclick=&apos;&apos; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6kBAAAKwAAAAEAAACcBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgICBcCjwhLS0gQnV0dG9uIHRyaWdnZXIgbW9kYWwgLS0+XAo8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI3VuaXQxcmVzb3VyY2UiPlwKICBVbml0IDEgUmVzb3VyY2VzXAo8L2J1dHRvbj5cCiBcCjwhLS0gTW9kYWwgLS0+XAo8ZGl2IGNsYXNzPSJtb2RhbCBmYWRlIiBpZD0idW5pdDFyZXNvdXJjZSIgdGFiaW5kZXg9Ii0xIiByb2xlPSJkaWFsb2ciIGFyaWEtbGFiZWxsZWRieT0idW5pdDFyZXNvdXJjZUxhYmVsIiBhcmlhLWhpZGRlbj0idHJ1ZSI+XAogIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyBtb2RhbC1sZyI+XAogICAgPGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCI+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPlwKICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+PHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+PC9idXR0b24+XAogICAgICAgIDxoNCBjbGFzcz0ibW9kYWwtdGl0bGUiIGlkPSJ1bml0MXJlc291cmNlTGFiZWwiPlVuaXQgMSBSZXNvdXJjZXM8L2g0PlwKICAgICAgPC9kaXY+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1ib2R5Ij5cCiAgICAgICAgXmluY2x1ZGUoXCc5M1VuaXQgMSBSZXNvdXJjZXMiLCIvc3lzdGVtL3RlbXBsYXRlcy9yZXNvdXJjZXgiKV5cCiAgICAgIDwvZGl2PlwKICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtZm9vdGVyIj5cCiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIG9uY2xpY2s9JycgZGF0YS1kaXNtaXNzPSJtb2RhbCI+Q2xvc2U8L2J1dHRvbj5cCiAgICAgIDwvZGl2PlwKICAgIDwvZGl2PlwKICA8L2Rpdj5cCjwvZGl2PlwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOLIrFe2AQAAAAAAAAAAAAA=</rtfd>
+</item>
 <item ID="1470852026" Creator="sscott" >
 <attribute name="Created" >2016-08-10T10:57:32-07:00</attribute>
 <attribute name="Modified" >2016-08-10T15:25:54-07:00</attribute>
 <attribute name="Name" >experiments</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
 <text > ^children(vocab-table)^  
@@ -9359,46 +9397,6 @@ This is cool!</text>
 </text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5gBAAAKwAAAAEAAABYBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIDxwPi0tLS0tLS0tLS0tLTwvcD5cClwKPGRpdiBjbGFzcz0icGFuZWwtZ3JvdXAiIGlkPSJhY2NvcmRpb24iIHJvbGU9InRhYmxpc3QiIGFyaWEtbXVsdGlzZWxlY3RhYmxlPSJ0cnVlIj5cCiAgICA8ZGl2IGNsYXNzPSJwYW5lbCBwYW5lbC1kZWZhdWx0Ij5cCiAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyIgcm9sZT0idGFiIiBpZD0iaGVhZGluZzEiPlwKICAgICAgICAgICAgPGg0IGNsYXNzPSJwYW5lbC10aXRsZSI+XAogICAgICAgICAgICAgICAgPGEgY2xhc3M9ImNvbGxhcHNlZCIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXBhcmVudD0iI2FjY29yZGlvbiIgaHJlZj0iI2NvbGxhcHNlMSIgYXJpYS1leHBhbmRlZD0iZmFsc2UiIGFyaWEtY29udHJvbHM9ImNvbGxhcHNlMSI+XAogICAgICAgICAgICAgICAgICAgIFVuaXQgMSBWb2NhYlwKICAgICAgICAgICAgICAgIDwvYT5cCiAgICAgICAgICAgIDwvaDQ+XAogICAgICAgIDwvZGl2PlwKICAgICAgICA8ZGl2IGlkPSJjb2xsYXBzZTEiIGNsYXNzPSJwYW5lbC1jb2xsYXBzZSBjb2xsYXBzZSIgcm9sZT0idGFicGFuZWwiIGFyaWEtbGFiZWxsZWRieT0iaGVhZGluZzEiPlwKICAgICAgICAgICAgPGRpdiBjbGFzcz0icGFuZWwtYm9keSI+XAogICAgICAgICAgICAgICBeaW5jbHVkZSgicm93IHZvY2FiIiwiL3N5c3RlbS90ZW1wbGF0ZXMvZGwtcGFnZSIpXlwKICAgIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC13ZWVrKVwKICAgICAgICAgICAgPC9kaXY+XAogICAgICAgIDwvZGl2PlwKICAgIDwvZGl2PlwKICAgIDwvZGl2PlwKXApcClwKXApcClwKXApcCjxwPi0tLS0tLS0tLS0tLTwvcD5cCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADevqtXtgEAAAAAAAAAAAAA</rtfd>
 </item>
-</item>
-<item ID="1470940211" Creator="sscott" >
-<attribute name="Created" >2016-08-11T11:30:10-07:00</attribute>
-<attribute name="Modified" >2016-08-11T11:30:10-07:00</attribute>
-<attribute name="Name" >Things to add</attribute>
-<attribute name="SelectionCount" >2</attribute>
-<attribute name="Xpos" >2.326713268</attribute>
-<attribute name="Ypos" >4.968384229</attribute>
-<item ID="1470940217" Creator="sscott" >
-<attribute name="Created" >2016-08-11T11:30:16-07:00</attribute>
-<attribute name="Modified" >2016-08-11T11:50:10-07:00</attribute>
-<attribute name="Name" >working model</attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Xpos" >5.826713268</attribute>
-<attribute name="Ypos" >4.968384229</attribute>
-<text >  
-&lt;!-- Button trigger modal --&gt;
-&lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; data-toggle=&quot;modal&quot; data-target=&quot;#unit1resource&quot;&gt;
-  Unit 1 Resources
-&lt;/button&gt;
- 
-&lt;!-- Modal --&gt;
-&lt;div class=&quot;modal fade&quot; id=&quot;unit1resource&quot; tabindex=&quot;-1&quot; role=&quot;dialog&quot; aria-labelledby=&quot;unit1resourceLabel&quot; aria-hidden=&quot;true&quot;&gt;
-  &lt;div class=&quot;modal-dialog modal-lg&quot;&gt;
-    &lt;div class=&quot;modal-content&quot;&gt;
-      &lt;div class=&quot;modal-header&quot;&gt;
-        &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;modal&quot; aria-label=&quot;Close&quot;&gt;&lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;&lt;/button&gt;
-        &lt;h4 class=&quot;modal-title&quot; id=&quot;unit1resourceLabel&quot;&gt;Unit 1 Resources&lt;/h4&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-body&quot;&gt;
-        ^include(“Unit 1 Resources&quot;,&quot;/system/templates/resourcex&quot;)^
-      &lt;/div&gt;
-      &lt;div class=&quot;modal-footer&quot;&gt;
-        &lt;button type=&quot;button&quot; class=&quot;btn btn-primary&quot; onclick=&apos;&apos; data-dismiss=&quot;modal&quot;&gt;Close&lt;/button&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6kBAAAKwAAAAEAAACcBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgICBcCjwhLS0gQnV0dG9uIHRyaWdnZXIgbW9kYWwgLS0+XAo8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgZGF0YS10b2dnbGU9Im1vZGFsIiBkYXRhLXRhcmdldD0iI3VuaXQxcmVzb3VyY2UiPlwKICBVbml0IDEgUmVzb3VyY2VzXAo8L2J1dHRvbj5cCiBcCjwhLS0gTW9kYWwgLS0+XAo8ZGl2IGNsYXNzPSJtb2RhbCBmYWRlIiBpZD0idW5pdDFyZXNvdXJjZSIgdGFiaW5kZXg9Ii0xIiByb2xlPSJkaWFsb2ciIGFyaWEtbGFiZWxsZWRieT0idW5pdDFyZXNvdXJjZUxhYmVsIiBhcmlhLWhpZGRlbj0idHJ1ZSI+XAogIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyBtb2RhbC1sZyI+XAogICAgPGRpdiBjbGFzcz0ibW9kYWwtY29udGVudCI+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPlwKICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+PHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+PC9idXR0b24+XAogICAgICAgIDxoNCBjbGFzcz0ibW9kYWwtdGl0bGUiIGlkPSJ1bml0MXJlc291cmNlTGFiZWwiPlVuaXQgMSBSZXNvdXJjZXM8L2g0PlwKICAgICAgPC9kaXY+XAogICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1ib2R5Ij5cCiAgICAgICAgXmluY2x1ZGUoXCc5M1VuaXQgMSBSZXNvdXJjZXMiLCIvc3lzdGVtL3RlbXBsYXRlcy9yZXNvdXJjZXgiKV5cCiAgICAgIDwvZGl2PlwKICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtZm9vdGVyIj5cCiAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIG9uY2xpY2s9JycgZGF0YS1kaXNtaXNzPSJtb2RhbCI+Q2xvc2U8L2J1dHRvbj5cCiAgICAgIDwvZGl2PlwKICAgIDwvZGl2PlwKICA8L2Rpdj5cCjwvZGl2PlwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOLIrFe2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 </item>
 </item>
@@ -9769,8 +9767,8 @@ This is cool!</text>
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1326</InspectorX>
-<InspectorY > 352</InspectorY>
+<InspectorX > 1308</InspectorX>
+<InspectorY > -61</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -9814,7 +9812,7 @@ This is cool!</text>
 <window bounds="Rect[ 0 0 1676 1027]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="0" selection="1470935368 " expanded="1470675565 1470690280 1470689191 1470683554 1470757981 1470757994 1470675553 1470701632 1470754765 1470939979 1470675649 1470935346 1470940211 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.662291" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470701631 " expanded="1470675565 1470689191 1470692020 1470698351 1470694922 1470697636 1470886832 1470757954 1470757981 1470928543 1470757994 1470675553 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675651 1470685576 1470767762 1470852026 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470862069 " expanded="1470689191 1470692020 1470698351 1470694922 1470697636 1470886832 1470757954 1470757981 1470928543 1470757994 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470689191 " expanded="1470675565 1470690280 1470757954 1470757981 1470675553 1470701631 1470751130 1470754765 1470679051 1470675649 1470861821 1470766882 1470935346 1470877935 1470675651 1470940211 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.750597" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
