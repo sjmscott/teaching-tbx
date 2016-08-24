@@ -1491,15 +1491,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
-<item ID="1471532572" Creator="sscott" >
-<attribute name="Alias" >1471532571</attribute>
-<attribute name="Created" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2.86</attribute>
-</item>
 <item ID="1471030560" Creator="sscott" >
 <attribute name="Alias" >1471030555</attribute>
 <attribute name="Created" >2016-08-12T12:35:54-07:00</attribute>
@@ -1507,7 +1498,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470943967" Creator="sscott" >
@@ -1517,8 +1508,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-11T12:30:48-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471811839" Creator="sscott" >
 <attribute name="Alias" >1471811828</attribute>
@@ -1599,15 +1590,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
-<item ID="1471532573" Creator="sscott" >
-<attribute name="Alias" >1471532571</attribute>
-<attribute name="Created" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2.86</attribute>
-</item>
 <item ID="1471030561" Creator="sscott" >
 <attribute name="Alias" >1471030555</attribute>
 <attribute name="Created" >2016-08-12T12:35:54-07:00</attribute>
@@ -1615,7 +1597,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471010825" Creator="sscott" >
@@ -1625,8 +1607,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-11T12:30:48-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471811840" Creator="sscott" >
 <attribute name="Alias" >1471811828</attribute>
@@ -1852,7 +1834,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
 <attribute name="Name" ></attribute>
-<<<<<<< Updated upstream
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.36</attribute>
@@ -1863,8 +1844,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
-=======
->>>>>>> Stashed changes
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >7.36</attribute>
@@ -1935,13 +1914,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
-<<<<<<< Updated upstream
 <item ID="1470953420" Creator="sscott" >
 <attribute name="Alias" >1470710215</attribute>
-=======
-<item ID="1470953417" Creator="sscott" >
-<attribute name="Alias" >1470710209</attribute>
->>>>>>> Stashed changes
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
@@ -2060,25 +2034,15 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >4.36</attribute>
 </item>
-<<<<<<< Updated upstream
 <item ID="1470953417" Creator="sscott" >
 <attribute name="Alias" >1470710209</attribute>
-=======
-<item ID="1470953413" Creator="sscott" >
-<attribute name="Alias" >1470710176</attribute>
->>>>>>> Stashed changes
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<<<<<<< Updated upstream
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >6.72</attribute>
-=======
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >4.36</attribute>
->>>>>>> Stashed changes
 </item>
 <item ID="1470953423" Creator="sscott" >
 <attribute name="Alias" >1470763705</attribute>
@@ -2087,7 +2051,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >6.72</attribute>
 </item>
 <item ID="1471227095" Creator="sscott" >
@@ -2097,7 +2061,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >6.72</attribute>
 </item>
 <item ID="1470953426" Creator="sscott" >
@@ -2107,7 +2071,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >6.72</attribute>
 </item>
 <item ID="1470953419" Creator="sscott" >
@@ -2117,8 +2081,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >6.72</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.08</attribute>
 </item>
 <item ID="1471493431" Creator="sscott" >
 <attribute name="Alias" >1470710178</attribute>
@@ -2127,7 +2091,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >9.08</attribute>
 </item>
 <item ID="1470953416" Creator="sscott" >
@@ -2137,7 +2101,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >9.08</attribute>
 </item>
 <item ID="1470953422" Creator="sscott" >
@@ -2146,19 +2110,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
-<<<<<<< Updated upstream
-=======
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >9.08</attribute>
-</item>
-<item ID="1471493514" Creator="sscott" >
-<attribute name="Alias" >1471493469</attribute>
-<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Name" ></attribute>
->>>>>>> Stashed changes
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >9.08</attribute>
@@ -2170,7 +2121,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="HTMLExportTemplate" >none</attribute>
 <attribute name="Modified" >2016-08-09T08:52:33-07:00</attribute>
 <attribute name="Name" >row-map</attribute>
-<attribute name="SelectionCount" >45</attribute>
+<attribute name="SelectionCount" >44</attribute>
 <attribute name="Xpos" >-4.673286732</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
 <item ID="1470757981" Creator="sscott" proto="pUnit" >
@@ -2243,32 +2194,14 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >51.61523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
 </item>
-<item ID="1471532571" Creator="sscott" proto="pResource" >
-<attribute name="CourseName" >ROW</attribute>
-<attribute name="Created" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Modified" >2016-08-18T07:58:07-07:00</attribute>
-<attribute name="Name" >Nostra Aetate Group Work</attribute>
-<attribute name="ResourceNumber" >5</attribute>
-<attribute name="SelectionCount" >1</attribute>
-<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-nostra-group.png</attribute>
-<attribute name="Unit" >1</attribute>
-<attribute name="Xpos" >55.11523956</attribute>
-<attribute name="Ypos" >42.94</attribute>
-</item>
 <item ID="1471030555" Creator="sscott" proto="pResource" >
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Modified" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Name" >The Challenge of Defining Religion</attribute>
-<<<<<<< Updated upstream
 <attribute name="ResourceNumber" >5</attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/Defining%20Religion.pdf</attribute>
-=======
-<attribute name="ResourceNumber" >6</attribute>
-<attribute name="SelectionCount" >2</attribute>
-<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-challenge-defining-religion.pdf</attribute>
->>>>>>> Stashed changes
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >44.61523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
@@ -2278,13 +2211,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-11T12:30:48-07:00</attribute>
 <attribute name="Modified" >2016-08-12T12:40:50-07:00</attribute>
 <attribute name="Name" >Notes on 7 Dimensions of Religion</attribute>
-<<<<<<< Updated upstream
 <attribute name="ResourceNumber" >6</attribute>
 <attribute name="SelectionCount" >16</attribute>
-=======
-<attribute name="ResourceNumber" >7</attribute>
-<attribute name="SelectionCount" >14</attribute>
->>>>>>> Stashed changes
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row%20Notes%20on%207%20Dimensions%20of%20Religion.pdf</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >41.11523956</attribute>
@@ -2311,11 +2239,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:40:53-07:00</attribute>
 <attribute name="Name" >Notes 7 Dimensions of Christianity</attribute>
 <attribute name="ResourceNumber" >8</attribute>
-<<<<<<< Updated upstream
 <attribute name="SelectionCount" >3</attribute>
-=======
-<attribute name="SelectionCount" >2</attribute>
->>>>>>> Stashed changes
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row%207%20Dimensions%20of%20Christianity.pdf</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >48.11523956</attribute>
@@ -10754,14 +10678,10 @@ This is cool!</text>
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471371981" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471393598" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471493469" destcreator="sscott" color="#993333"  />
-<<<<<<< Updated upstream
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471811828" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471836504" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471836638" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471836660" destcreator="sscott" color="#993333"  />
-=======
-<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1471532571" destcreator="sscott" color="#993333"  />
->>>>>>> Stashed changes
 </links>
 <macros >
 </macros>
@@ -10915,13 +10835,9 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 110 -14 1423 863]" ruler="1" >
+<window bounds="Rect[ 10 0 1323 1027]" ruler="1" >
 <tabs >
-<<<<<<< Updated upstream
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="238" selection="1470939872 " expanded="1470697636 1471227096 1470757954 1470757981 1470928543 1470927826 1470757994 1470675553 1470701631 1470701645 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470766882 1470852178 1470877935 1470675651 1470685576 1470940211 1470852026 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.539985" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-=======
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="570" selection="1470757954 " expanded="1470675565 1470690280 1470697636 1471010817 1471227096 1470757954 1470757981 1470928543 1470927826 1470757994 1470701631 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470766882 1470852178 1470877935 1470675651 1470685576 1470940211 1470852026 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.539985" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
->>>>>>> Stashed changes
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="744" selection="1470861821 " expanded="1470675565 1470690280 1470757981 1470928543 1470757994 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470689191 " expanded="1470675565 1470690280 1470757954 1470757981 1470675553 1470701631 1470751130 1470754765 1470679051 1470675649 1470861821 1470766882 1470935346 1470877935 1470675651 1470940211 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.750597" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
