@@ -1456,7 +1456,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >28</attribute>
+<attribute name="SelectionCount" >29</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -1488,8 +1488,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-14T08:22:07-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1471030560" Creator="sscott" >
 <attribute name="Alias" >1471030555</attribute>
@@ -1498,7 +1498,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470943967" Creator="sscott" >
@@ -1508,7 +1508,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-11T12:30:48-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471811839" Creator="sscott" >
@@ -1518,8 +1518,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-21T13:37:07-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471030861" Creator="sscott" >
 <attribute name="Alias" >1471030854</attribute>
@@ -1528,7 +1528,16 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:40:53-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1472145563" Creator="sscott" >
+<attribute name="Alias" >1472145562</attribute>
+<attribute name="Created" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472007203" Creator="sscott" >
@@ -1536,8 +1545,9 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:53:11-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:53:11-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472005741" Creator="sscott" >
@@ -1547,7 +1557,34 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-23T19:17:23-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1472146239" Creator="sscott" >
+<attribute name="Alias" >1472146223</attribute>
+<attribute name="Created" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1472147971" Creator="sscott" >
+<attribute name="Alias" >1472147958</attribute>
+<attribute name="Created" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1472146597" Creator="sscott" >
+<attribute name="Alias" >1472146568</attribute>
+<attribute name="Created" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1472006365" Creator="sscott" >
@@ -1555,8 +1592,9 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:39:22-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:39:22-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1472006071" Creator="sscott" >
@@ -1564,9 +1602,19 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:34:03-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:34:03-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1472144953" Creator="sscott" >
+<attribute name="Alias" >1472144952</attribute>
+<attribute name="Created" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 </agent>
 <agent ID="1471010817" Creator="sscott" proto="pAgent" >
@@ -1625,8 +1673,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-14T08:22:07-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1471030561" Creator="sscott" >
 <attribute name="Alias" >1471030555</attribute>
@@ -1635,7 +1683,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:35:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471010825" Creator="sscott" >
@@ -1645,7 +1693,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-11T12:30:48-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471811840" Creator="sscott" >
@@ -1655,8 +1703,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-21T13:37:07-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471030862" Creator="sscott" >
 <attribute name="Alias" >1471030854</attribute>
@@ -1665,7 +1713,16 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-12T12:40:53-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1472145564" Creator="sscott" >
+<attribute name="Alias" >1472145562</attribute>
+<attribute name="Created" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472007204" Creator="sscott" >
@@ -1673,8 +1730,9 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:53:11-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:53:11-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472005742" Creator="sscott" >
@@ -1684,7 +1742,34 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-23T19:17:23-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1472146240" Creator="sscott" >
+<attribute name="Alias" >1472146223</attribute>
+<attribute name="Created" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1472147972" Creator="sscott" >
+<attribute name="Alias" >1472147958</attribute>
+<attribute name="Created" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1472146598" Creator="sscott" >
+<attribute name="Alias" >1472146568</attribute>
+<attribute name="Created" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1472006366" Creator="sscott" >
@@ -1692,8 +1777,9 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:39:22-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:39:22-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1472006072" Creator="sscott" >
@@ -1701,9 +1787,19 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:34:03-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:34:03-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1472144954" Creator="sscott" >
+<attribute name="Alias" >1472144952</attribute>
+<attribute name="Created" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 </agent>
 <agent ID="1470758831" Creator="sscott" proto="pAgent" >
@@ -1723,13 +1819,23 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
+<item ID="1472144950" Creator="sscott" >
+<attribute name="Alias" >1472006881</attribute>
+<attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
 <item ID="1472007430" Creator="sscott" >
 <attribute name="Alias" >1470710174</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959795" Creator="sscott" >
@@ -1739,7 +1845,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959798" Creator="sscott" >
@@ -1749,7 +1855,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959793" Creator="sscott" >
@@ -1759,7 +1865,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959789" Creator="sscott" >
@@ -1769,8 +1875,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >0.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471493430" Creator="sscott" >
 <attribute name="Alias" >1470710178</attribute>
@@ -1779,8 +1885,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959792" Creator="sscott" >
 <attribute name="Alias" >1470710182</attribute>
@@ -1789,18 +1895,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2</attribute>
-</item>
-<item ID="1470959786" Creator="sscott" >
-<attribute name="Alias" >1470710229</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959785" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
@@ -1810,7 +1906,107 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1470959800" Creator="sscott" >
+<attribute name="Alias" >1470710221</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1471227094" Creator="sscott" >
+<attribute name="Alias" >1470710180</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959802" Creator="sscott" >
+<attribute name="Alias" >1470710227</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959796" Creator="sscott" >
+<attribute name="Alias" >1470710215</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959799" Creator="sscott" >
+<attribute name="Alias" >1470763705</attribute>
+<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1470959803" Creator="sscott" >
+<attribute name="Alias" >1470763701</attribute>
+<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1471493513" Creator="sscott" >
+<attribute name="Alias" >1471493469</attribute>
+<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470959797" Creator="sscott" >
+<attribute name="Alias" >1470710217</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470959787" Creator="sscott" >
+<attribute name="Alias" >1470707951</attribute>
+<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+</item>
+<item ID="1470959794" Creator="sscott" >
+<attribute name="Alias" >1470710211</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >6.72</attribute>
 </item>
 <item ID="1470959801" Creator="sscott" >
 <attribute name="Alias" >1470710223</attribute>
@@ -1820,116 +2016,17 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Ypos" >6.72</attribute>
 </item>
-<item ID="1470959800" Creator="sscott" >
-<attribute name="Alias" >1470710221</attribute>
+<item ID="1470959786" Creator="sscott" >
+<attribute name="Alias" >1470710229</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1471227094" Creator="sscott" >
-<attribute name="Alias" >1470710180</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470959802" Creator="sscott" >
-<attribute name="Alias" >1470710227</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470959796" Creator="sscott" >
-<attribute name="Alias" >1470710215</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470959799" Creator="sscott" >
-<attribute name="Alias" >1470763705</attribute>
-<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >3.5</attribute>
-</item>
-<item ID="1470959803" Creator="sscott" >
-<attribute name="Alias" >1470763701</attribute>
-<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1471493513" Creator="sscott" >
-<attribute name="Alias" >1471493469</attribute>
-<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470959797" Creator="sscott" >
-<attribute name="Alias" >1470710217</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470959787" Creator="sscott" >
-<attribute name="Alias" >1470707951</attribute>
-<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1470959794" Creator="sscott" >
-<attribute name="Alias" >1470710211</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >5.86</attribute>
-</item>
-<item ID="1472006893" Creator="sscott" >
-<attribute name="Alias" >1472006881</attribute>
-<attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-23T19:48:00-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >8.22</attribute>
+<attribute name="Ypos" >9.08</attribute>
 </item>
 </agent>
 <agent ID="1471227096" Creator="sscott" >
@@ -1952,7 +2049,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -1968,6 +2066,16 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >4</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
+<item ID="1471493520" Creator="sscott" >
+<attribute name="Alias" >1471493469</attribute>
+<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
 <item ID="1471227098" Creator="sscott" >
 <attribute name="Alias" >1470710178</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
@@ -1976,17 +2084,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >24</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
-</item>
-<item ID="1471493520" Creator="sscott" >
-<attribute name="Alias" >1471493469</attribute>
-<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >4</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 </agent>
@@ -2007,6 +2105,25 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
+<item ID="1472144951" Creator="sscott" >
+<attribute name="Alias" >1472006881</attribute>
+<attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470953424" Creator="sscott" >
+<attribute name="Alias" >1470710221</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
 <item ID="1470953425" Creator="sscott" >
 <attribute name="Alias" >1470710223</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
@@ -2014,7 +2131,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470953413" Creator="sscott" >
@@ -2024,7 +2141,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470953411" Creator="sscott" >
@@ -2034,7 +2151,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470953420" Creator="sscott" >
@@ -2044,8 +2161,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >0.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953409" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
@@ -2054,8 +2171,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471493514" Creator="sscott" >
 <attribute name="Alias" >1471493469</attribute>
@@ -2064,7 +2181,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953427" Creator="sscott" >
@@ -2074,17 +2191,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2.86</attribute>
-</item>
-<item ID="1470953421" Creator="sscott" >
-<attribute name="Alias" >1470710217</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953418" Creator="sscott" >
@@ -2094,7 +2201,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953417" Creator="sscott" >
@@ -2104,8 +2211,8 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1470953423" Creator="sscott" >
 <attribute name="Alias" >1470763705</attribute>
@@ -2114,21 +2221,11 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1471227095" Creator="sscott" >
 <attribute name="Alias" >1470710180</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >5.22</attribute>
-</item>
-<item ID="1470953426" Creator="sscott" >
-<attribute name="Alias" >1470710227</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
@@ -2167,16 +2264,6 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
-<item ID="1470953424" Creator="sscott" >
-<attribute name="Alias" >1470710221</attribute>
-<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Height" >1</attribute>
-<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >7.58</attribute>
-</item>
 <item ID="1470953419" Creator="sscott" >
 <attribute name="Alias" >1470710213</attribute>
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
@@ -2184,7 +2271,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1470953410" Creator="sscott" >
@@ -2194,16 +2281,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >7.58</attribute>
-</item>
-<item ID="1472006894" Creator="sscott" >
-<attribute name="Alias" >1472006881</attribute>
-<attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-08-23T19:48:00-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1472007431" Creator="sscott" >
@@ -2211,9 +2289,30 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1470953421" Creator="sscott" >
+<attribute name="Alias" >1470710217</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
+</item>
+<item ID="1470953426" Creator="sscott" >
+<attribute name="Alias" >1470710227</attribute>
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Ypos" >9.08</attribute>
 </item>
 </agent>
 <item ID="1470757954" Creator="sscott" proto="pMap" >
@@ -2328,7 +2427,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Modified" >2016-08-21T13:37:07-07:00</attribute>
 <attribute name="Name" >NOW Writing Template</attribute>
 <attribute name="ResourceNumber" >7</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="URL" >https://docs.google.com/a/mitty.com/document/d/1JiAUb8EIPafDRy7cOtd5lG2_qcGByodqsj8xgcN3BKc/edit?usp=sharing</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >55.11523956</attribute>
@@ -2338,12 +2437,24 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-12T12:40:53-07:00</attribute>
 <attribute name="Modified" >2016-08-12T12:40:53-07:00</attribute>
-<attribute name="Name" >Notes 7 Dimensions of Christianity</attribute>
+<attribute name="Name" >Dimensions of Christianity (blank)</attribute>
 <attribute name="ResourceNumber" >8</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row%207%20Dimensions%20of%20Christianity.pdf</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >48.11523956</attribute>
+<attribute name="Ypos" >42.94</attribute>
+</item>
+<item ID="1472145562" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Modified" >2016-08-25T10:19:21-07:00</attribute>
+<attribute name="Name" >Dimensions of Christianity (completed)</attribute>
+<attribute name="ResourceNumber" >9</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/7-dimensions-christianity-notes.pdf</attribute>
+<attribute name="Unit" >1</attribute>
+<attribute name="Xpos" >62.11523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
 </item>
 <item ID="1472007192" Creator="sscott" proto="pResource" >
@@ -2351,7 +2462,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:53:11-07:00</attribute>
 <attribute name="Modified" >2016-08-23T19:53:11-07:00</attribute>
 <attribute name="Name" >Sagrada Familia on 60 Minutes</attribute>
-<attribute name="ResourceNumber" >9</attribute>
+<attribute name="ResourceNumber" >10</attribute>
 <attribute name="SelectionCount" >2</attribute>
 <attribute name="URL" >https://www.youtube.com/watch?v=ZnNwpmdWm1w</attribute>
 <attribute name="Unit" >1</attribute>
@@ -2363,11 +2474,46 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:17:23-07:00</attribute>
 <attribute name="Modified" >2016-08-23T19:17:23-07:00</attribute>
 <attribute name="Name" >Pew Religion Quiz</attribute>
-<attribute name="ResourceNumber" >10</attribute>
-<attribute name="SelectionCount" >7</attribute>
-<attribute name="URL" >http://www.pewforum.org/quiz/u-s-religious-knowledge/</attribute>
+<attribute name="ResourceNumber" >11</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-pew-religion-quiz.pdf</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >35</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1472146223" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Modified" >2016-08-25T10:30:22-07:00</attribute>
+<attribute name="Name" >Pew Quiz Answers</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/pew-quiz-answers.png</attribute>
+<attribute name="Unit" >1</attribute>
+<attribute name="Xpos" >49</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1472147958" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Modified" >2016-08-25T10:59:17-07:00</attribute>
+<attribute name="Name" >Pew Quiz- How many did you get correct?</attribute>
+<attribute name="ResourceNumber" >13</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="URL" >https://docs.google.com/forms/d/e/1FAIpQLSe8TrU4gzdehHHFDbCe0TEzvNx-afN27LzWlrsFsP3GHkGINA/viewform</attribute>
+<attribute name="Unit" >1</attribute>
+<attribute name="Xpos" >56</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1472146568" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Modified" >2016-08-25T10:36:07-07:00</attribute>
+<attribute name="Name" >Pew Executive Summary</attribute>
+<attribute name="ResourceNumber" >14</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-pew-religious-quiz-summary.pdf</attribute>
+<attribute name="Unit" >1</attribute>
+<attribute name="Xpos" >52.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
 <item ID="1472006363" Creator="sscott" proto="pResource" >
@@ -2375,7 +2521,7 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:39:22-07:00</attribute>
 <attribute name="Modified" >2016-08-23T19:39:22-07:00</attribute>
 <attribute name="Name" >James Foley Articles</attribute>
-<attribute name="ResourceNumber" >11</attribute>
+<attribute name="ResourceNumber" >15</attribute>
 <attribute name="SelectionCount" >1</attribute>
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-James-Foley.pdf</attribute>
 <attribute name="Unit" >1</attribute>
@@ -2387,10 +2533,23 @@ MY LORD GOD, I have no idea where I am going. I do not see the road ahead of me.
 <attribute name="Created" >2016-08-23T19:34:03-07:00</attribute>
 <attribute name="Modified" >2016-08-23T19:34:03-07:00</attribute>
 <attribute name="Name" >James Foley Movie Trailer</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="ResourceNumber" >16</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="URL" >https://www.youtube.com/watch?v=O7UTdyP2fmk</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >38.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1472144952" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Modified" >2016-08-25T09:56:43-07:00</attribute>
+<attribute name="Name" >Dawkins Scale</attribute>
+<attribute name="ResourceNumber" >17</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-dawkins-scale.pdf</attribute>
+<attribute name="Unit" >1</attribute>
+<attribute name="Xpos" >45.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
@@ -10853,6 +11012,11 @@ This is cool!</text>
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472006363" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472006881" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472007192" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472144952" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472145562" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472146223" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472146568" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472147958" destcreator="sscott" color="#993333"  />
 </links>
 <macros >
 </macros>
@@ -10965,7 +11129,7 @@ This is cool!</text>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1140</InspectorX>
-<InspectorY > 311</InspectorY>
+<InspectorY > 377</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -11006,9 +11170,9 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 72 0 1385 1027]" ruler="1" >
+<window bounds="Rect[ 103 -49 1416 828]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="342" selection="1472007416 " expanded="1470675565 1470697636 1471010817 1471227096 1470757954 1470757981 1470928543 1470927826 1470757994 1470701631 1470701645 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470766882 1470852178 1470877935 1470675651 1470685576 1470940211 1470852026 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.539985" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="32.3407" ID="1470675520" scrollX="0" scrollY="680" selection="1472147958 " expanded="1470675565 1470697636 1471010817 1471227096 1470757954 1470757981 1470928543 1470927826 1470757994 1470701631 1470701645 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470766882 1470852178 1470877935 1470675651 1470685576 1470940211 1470852026 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.539985" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="744" selection="1470861821 " expanded="1470675565 1470690280 1470757981 1470928543 1470757994 1470701632 1470701645 1470752072 1470939872 1470751130 1470754765 1470939979 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490453" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470689191 " expanded="1470675565 1470690280 1470757954 1470757981 1470675553 1470701631 1470751130 1470754765 1470679051 1470675649 1470861821 1470766882 1470935346 1470877935 1470675651 1470940211 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.750597" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
