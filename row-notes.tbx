@@ -111,7 +111,7 @@
 </attrib>
 <attrib Name="Created" parent="General" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
 </attrib>
-<attrib Name="Creator" parent="General" editable="0" visibleInEditor="1" kind="1" default="sscott" >
+<attrib Name="Creator" parent="General" editable="0" visibleInEditor="1" kind="1" canInherit="0" default="sscott" >
 </attrib>
 <attrib Name="DescendantCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
 </attrib>
@@ -755,22 +755,23 @@
 <linkType name="update" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
 </linkTypes>
 <item ID="1472149114" Creator="sscott" >
-<attribute name="MapScrollX" >2.65625</attribute>
-<attribute name="MapScrollY" >1.87125</attribute>
+<attribute name="MapScrollX" >0</attribute>
+<attribute name="MapScrollY" >0</attribute>
+<attribute name="Name" >row-notes</attribute>
 <item ID="1472149209" Creator="sscott" >
 <attribute name="Created" >2016-08-25T11:20:08-07:00</attribute>
 <attribute name="MapScrollX" >10.4296875</attribute>
 <attribute name="MapScrollY" >-2.5078125</attribute>
 <attribute name="Modified" >2016-08-25T11:20:08-07:00</attribute>
 <attribute name="Name" >Methods of Studying Religion</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Xpos" >1.915527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472149166" Creator="sscott" >
 <attribute name="Created" >2016-08-25T11:19:25-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:26:08-07:00</attribute>
 <attribute name="Name" >Historical-Comparative Method</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
@@ -781,7 +782,7 @@
 <attribute name="Created" >2016-08-25T11:26:11-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:29:06-07:00</attribute>
 <attribute name="Name" >Phenomenological Method</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-12.32041992</attribute>
@@ -794,7 +795,7 @@
 <attribute name="Height" >1.671601563</attribute>
 <attribute name="Modified" >2016-08-25T11:30:39-07:00</attribute>
 <attribute name="Name" >Confessional Approach</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-9.460419922</attribute>
@@ -805,7 +806,7 @@
 <attribute name="Created" >2016-08-25T11:30:44-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:34:02-07:00</attribute>
 <attribute name="Name" >Empathetic Approach</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-6.600419922</attribute>
@@ -817,14 +818,14 @@
 <attribute name="Created" >2016-08-25T11:43:39-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:43:39-07:00</attribute>
 <attribute name="Name" >Outsider Perspective</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >5.415527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472150628" Creator="sscott" >
 <attribute name="Created" >2016-08-25T11:43:47-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:43:47-07:00</attribute>
 <attribute name="Name" >What basic question does this religion try to answer?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >8.915527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -832,7 +833,7 @@
 <attribute name="Created" >2016-08-25T11:44:05-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:44:05-07:00</attribute>
 <attribute name="Name" >What is &apos;the way&apos; this religion claims to offer?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >12.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -840,7 +841,7 @@
 <attribute name="Created" >2016-08-25T11:45:36-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:45:36-07:00</attribute>
 <attribute name="Name" >What is the history of the religion?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >15.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -848,7 +849,7 @@
 <attribute name="Created" >2016-08-25T11:46:00-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:46:00-07:00</attribute>
 <attribute name="Name" >What is holy or divine?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >19.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -856,7 +857,7 @@
 <attribute name="Created" >2016-08-25T11:48:17-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:48:17-07:00</attribute>
 <attribute name="Name" >What are the conceptions of human beings?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >22.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -864,7 +865,7 @@
 <attribute name="Created" >2016-08-25T11:52:23-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:52:23-07:00</attribute>
 <attribute name="Name" >what are the typical practices in the religion?</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >26.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -872,7 +873,7 @@
 <attribute name="Created" >2016-08-25T11:52:52-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:52:52-07:00</attribute>
 <attribute name="Name" >dialog with Christianity</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >29.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -881,14 +882,14 @@
 <attribute name="Created" >2016-08-25T11:53:16-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:53:16-07:00</attribute>
 <attribute name="Name" >Insider Perspective</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >33.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472151203" Creator="sscott" >
 <attribute name="Created" >2016-08-25T11:53:22-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:53:22-07:00</attribute>
 <attribute name="Name" >untitled</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >36.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -968,7 +969,7 @@
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > 6.6.4 b215b</Version>
+<Version > version 6.6.4</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 1</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -1047,10 +1048,10 @@
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 50 50 1391 850]" ruler="0" >
+<window bounds="Rect[ 664 137 2005 937]" ruler="0" >
 <tabs >
-<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149209" scrollX="1018" scrollY="441" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.216257" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="0" scrollY="0" selection="1472151203 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.499627" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="524.75" scrollY="590" selection="1472149209 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.216257" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="0" scrollY="0" selection="1472151197 1472149209 1472149166 1472149572 1472149789 1472149845 1472150620 1472150628 1472150646 1472150737 1472150761 1472150898 1472151144 1472151173 " expanded="1472149209 1472150620 1472151197 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.499627" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
