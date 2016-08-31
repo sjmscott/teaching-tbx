@@ -1040,7 +1040,11 @@
 <attribute name="ClassNum" >2</attribute>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T16:19:17-07:00</attribute>
+<<<<<<< HEAD
 <attribute name="Modified" >2016-08-31T08:36:45-07:00</attribute>
+=======
+<attribute name="Modified" >2016-08-30T19:22:49-07:00</attribute>
+>>>>>>> origin/master
 <attribute name="Name" >Class 3-2</attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="WeekNumber" >3</attribute>
@@ -2011,14 +2015,33 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
+<<<<<<< HEAD
 <item ID="1470959798" Creator="sscott" >
 <attribute name="Alias" >1470710219</attribute>
+=======
+<item ID="1470959803" Creator="sscott" >
+<attribute name="Alias" >1470763701</attribute>
+<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1470959785" Creator="sscott" >
+<attribute name="Alias" >1470710225</attribute>
+>>>>>>> origin/master
 <attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >0.5</attribute>
+=======
+<attribute name="Xpos" >11</attribute>
+>>>>>>> origin/master
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959795" Creator="sscott" >
@@ -2028,7 +2051,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >11</attribute>
+=======
+<attribute name="Xpos" >21.5</attribute>
+>>>>>>> origin/master
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959792" Creator="sscott" >
@@ -2038,7 +2065,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >21.5</attribute>
+=======
+<attribute name="Xpos" >32</attribute>
+>>>>>>> origin/master
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959801" Creator="sscott" >
@@ -2048,7 +2079,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >32</attribute>
+=======
+<attribute name="Xpos" >42.5</attribute>
+>>>>>>> origin/master
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959786" Creator="sscott" >
@@ -2058,8 +2093,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
+=======
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959789" Creator="sscott" >
 <attribute name="Alias" >1470710176</attribute>
@@ -2068,8 +2108,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2</attribute>
+=======
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >2.86</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959793" Creator="sscott" >
 <attribute name="Alias" >1470710209</attribute>
@@ -2078,8 +2123,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2</attribute>
+=======
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1471493430" Creator="sscott" >
 <attribute name="Alias" >1470710178</attribute>
@@ -2088,8 +2138,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >2</attribute>
+=======
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >2.86</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959800" Creator="sscott" >
 <attribute name="Alias" >1470710221</attribute>
@@ -2098,8 +2153,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >2</attribute>
+=======
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959796" Creator="sscott" >
 <attribute name="Alias" >1470710215</attribute>
@@ -2108,6 +2168,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >2</attribute>
 </item>
@@ -2120,6 +2181,10 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >3.5</attribute>
+=======
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959787" Creator="sscott" >
 <attribute name="Alias" >1470707951</attribute>
@@ -2129,7 +2194,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
+<<<<<<< HEAD
 <attribute name="Ypos" >3.5</attribute>
+=======
+<attribute name="Ypos" >4.36</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959794" Creator="sscott" >
 <attribute name="Alias" >1470710211</attribute>
@@ -2139,7 +2208,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
+<<<<<<< HEAD
 <attribute name="Ypos" >3.5</attribute>
+=======
+<attribute name="Ypos" >4.36</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1472144950" Creator="sscott" >
 <attribute name="Alias" >1472006881</attribute>
@@ -2149,7 +2222,11 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
+<<<<<<< HEAD
 <attribute name="Ypos" >3.5</attribute>
+=======
+<attribute name="Ypos" >4.36</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1472007430" Creator="sscott" >
 <attribute name="Alias" >1470710174</attribute>
@@ -2159,7 +2236,21 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
+<<<<<<< HEAD
 <attribute name="Ypos" >3.5</attribute>
+=======
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1471493513" Creator="sscott" >
+<attribute name="Alias" >1471493469</attribute>
+<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959797" Creator="sscott" >
 <attribute name="Alias" >1470710217</attribute>
@@ -2168,8 +2259,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.86</attribute>
+=======
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >6.72</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1472436154" Creator="sscott" >
 <attribute name="Alias" >1472436139</attribute>
@@ -2178,8 +2274,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-28T19:02:18-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.86</attribute>
+=======
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1471227094" Creator="sscott" >
 <attribute name="Alias" >1470710180</attribute>
@@ -2188,8 +2289,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >5.86</attribute>
+=======
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >6.72</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959785" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
@@ -2198,8 +2304,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >5.86</attribute>
+=======
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >6.72</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1472486715" Creator="sscott" >
 <attribute name="Alias" >1472486703</attribute>
@@ -2208,8 +2319,13 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-29T09:05:02-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >5.86</attribute>
+=======
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.08</attribute>
+>>>>>>> origin/master
 </item>
 <item ID="1470959799" Creator="sscott" >
 <attribute name="Alias" >1470763705</attribute>
@@ -2218,6 +2334,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >8.22</attribute>
 </item>
@@ -2228,6 +2345,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-17T21:11:08-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+=======
+>>>>>>> origin/master
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >8.22</attribute>
 </item>
@@ -3938,11 +4057,19 @@ Insider Perspective
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
+<<<<<<< HEAD
 <item ID="1472668462" Creator="sscott" >
 <attribute name="Alias" >1472668440</attribute>
 <attribute name="Created" >2016-08-31T11:33:59-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-31T11:33:59-07:00</attribute>
+=======
+<item ID="1472611027" Creator="sscott" >
+<attribute name="Alias" >1472611026</attribute>
+<attribute name="Created" >2016-08-30T19:23:10-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-08-30T19:23:10-07:00</attribute>
+>>>>>>> origin/master
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
@@ -5420,7 +5547,7 @@ Insider Perspective
 <attribute name="Created" >2016-08-09T08:00:59-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:33:35-07:00</attribute>
 <attribute name="Name" >Magisterium</attribute>
-<attribute name="SelectionCount" >11</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >-31.14230217</attribute>
@@ -5680,12 +5807,17 @@ Insider Perspective
 <attribute name="Modified" >2016-08-30T09:54:02-07:00</attribute>
 <attribute name="Name" >Intro to Bible Doodlecast 6</attribute>
 <attribute name="ResourceNumber" >4</attribute>
+<<<<<<< HEAD
 <attribute name="SelectionCount" >6</attribute>
+=======
+<attribute name="SelectionCount" >5</attribute>
+>>>>>>> origin/master
 <attribute name="URL" >https://drive.google.com/folderview?id=0B_bmjMiJbgqxLVQ5VENxOWxmdWs&amp;usp=sharing</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
+<<<<<<< HEAD
 <item ID="1472668440" Creator="sscott" proto="pResource" >
 <attribute name="CourseName" >ICC</attribute>
 <attribute name="Created" >2016-08-31T11:33:59-07:00</attribute>
@@ -5697,6 +5829,21 @@ Insider Perspective
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
+=======
+<item ID="1472611026" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-08-30T19:23:10-07:00</attribute>
+<attribute name="Modified" >2016-08-30T19:23:37-07:00</attribute>
+<attribute name="Name" >Mr. Scott&apos;s Reading Notes p. 2-11</attribute>
+<attribute name="ResourceNumber" >5</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="URL" >https://my.mindnode.com/YFxZGpg4fvpiqjt4L1RMyqcR4qemNZ3NtydWYA1y</attribute>
+<attribute name="Unit" >2</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >&lt;iframe src=&quot;https://my.mindnode.com/YFxZGpg4fvpiqjt4L1RMyqcR4qemNZ3NtydWYA1y/em#239,40,2&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot; style=&quot;border: 1px solid rgb(204, 204, 204); width: 800px; height: 600px;&quot; onmousewheel=&quot;&quot;&gt;&lt;/iframe&gt;</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC75AQAAKwAAAAEAAADxAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIDxpZnJhbWUgc3JjPSJodHRwczovL215Lm1pbmRub2RlLmNvbS9ZRnhaR3BnNGZ2cGlxanQ0TDFSTXlxY1I0cWVtTlozTnR5ZFdZQTF5L2VtIzIzOSw0MCwyIiBmcmFtZWJvcmRlcj0iMCIgbWFyZ2luaGVpZ2h0PSIwIiBtYXJnaW53aWR0aD0iMCIgc3R5bGU9ImJvcmRlcjogMXB4IHNvbGlkIHJnYigyMDQsIDIwNCwgMjA0KTsgd2lkdGg6IDgwMHB4OyBoZWlnaHQ6IDYwMHB4OyIgb25tb3VzZXdoZWVsPSIiPjwvaWZyYW1lPn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACpP8ZXtgEAAAAAAAAAAAAA</rtfd>
+>>>>>>> origin/master
 </item>
 </item>
 <item ID="1472495542" Creator="sscott" proto="pfolder" >
@@ -12010,8 +12157,12 @@ This is cool!</text>
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472578534" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472593519" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472593521" destcreator="sscott" color="#993333"  />
+<<<<<<< HEAD
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472661707" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472668440" destcreator="sscott" color="#993333"  />
+=======
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1472611026" destcreator="sscott" color="#993333"  />
+>>>>>>> origin/master
 </links>
 <macros >
 </macros>
@@ -12123,8 +12274,8 @@ This is cool!</text>
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1140</InspectorX>
-<InspectorY > 377</InspectorY>
+<InspectorX > 1376</InspectorX>
+<InspectorY > 527</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -12165,10 +12316,17 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
+<<<<<<< HEAD
 <window bounds="Rect[ 24 0 1460 877]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1472317670" scrollX="828.25" scrollY="475" selection="1472318785 1472318776 1472317725 1472317785 1472317799 1472318778 1472318793 1472318790 " expanded="" textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.157518" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="458" selection="1472576824 " expanded="1470690280 1470692020 1470698351 1470935348 1470757954 1470757981 1470757994 1470935373 1472487094 1470675553 1470701631 1470701632 1470701645 1470752072 1470883699 1470939872 1470751130 1470754765 1470939936 1470751183 1472495516 1472495542 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490947" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+=======
+<window bounds="Rect[ 209 127 1645 1004]" ruler="1" >
+<tabs >
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1472317670" scrollX="828.25" scrollY="475" selection="1472318785 1472318776 1472317725 1472317785 1472317799 1472318778 1472318793 1472318790 " expanded="" textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.157518" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="424" selection="1470754881 " expanded="1470692020 1470698351 1470757954 1470757981 1470757994 1470935373 1472487094 1470675553 1470701631 1470701632 1470701645 1470752072 1470883699 1470751130 1470754765 1470939936 1470751183 1472495516 1472495542 1470679051 1470675649 1470861821 1470675650 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490947" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+>>>>>>> origin/master
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1470675520" scrollX="0" scrollY="0" selection="1470689191 " expanded="1470675565 1470690280 1470757954 1470757981 1470675553 1470701631 1470751130 1470754765 1470679051 1470675649 1470861821 1470766882 1470935346 1470877935 1470675651 1470940211 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.750597" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
