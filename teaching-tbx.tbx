@@ -846,7 +846,7 @@
 <attribute name="Modified" >2016-08-08T09:59:24-07:00</attribute>
 <attribute name="Name" >ROW</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >107</attribute>
+<attribute name="SelectionCount" >108</attribute>
 <attribute name="Width" >17.24878072</attribute>
 <attribute name="Xpos" >-19.40617737</attribute>
 <attribute name="Year" >2016</attribute>
@@ -1097,7 +1097,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="EndDate" >2016-09-09T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-08-08T16:19:10-07:00</attribute>
 <attribute name="Name" >4</attribute>
-<attribute name="SelectionCount" >11</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="StartDate" >2016-09-05T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >4</attribute>
 <attribute name="Width" >10</attribute>
@@ -1145,15 +1145,18 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-08T15:22:01-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-16T14:34:00-07:00</attribute>
-<attribute name="Modified" >2016-08-08T15:22:01-07:00</attribute>
+<attribute name="Modified" >2016-09-14T19:56:09-07:00</attribute>
 <attribute name="Name" >5</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >25</attribute>
 <attribute name="StartDate" >2016-09-12T14:34:00-07:00</attribute>
 <attribute name="WeekName" >4-9/5/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >4.368811175</attribute>
 <attribute name="Ypos" >7.251148811</attribute>
+<text >* Click here to Mr. Scott’s Quizlet Class or copy paste this link: https://quizlet.com/join/rPXGg7czG
+* Submit your Dear Mitch letter here.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6FAQAAKwAAAAEAAAB9AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgKiBDbGljayBoZXJlIHRvIE1yLiBTY290dFwnOTJzIFF1aXpsZXQgQ2xhc3Mgb3IgY29weSBwYXN0ZSB0aGlzIGxpbms6IGh0dHBzOi8vcXVpemxldC5jb20vam9pbi9yUFhHZzdjekdcCiogU3VibWl0IHlvdXIgRGVhciBNaXRjaCBsZXR0ZXIgaGVyZS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAyQ3aV7YBAAAAAAAAAAAAAA==</rtfd>
 <item ID="1470886805" Creator="sscott" proto="pDay" >
 <attribute name="ClassName" >5-1</attribute>
 <attribute name="ClassNum" >1</attribute>
@@ -1161,7 +1164,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-10T20:40:04-07:00</attribute>
 <attribute name="Modified" >2016-08-10T20:40:04-07:00</attribute>
 <attribute name="Name" >Class 5-1</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1171,24 +1174,15 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="ClassNum" >2</attribute>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-10T20:40:08-07:00</attribute>
-<attribute name="Modified" >2016-08-10T20:40:08-07:00</attribute>
+<attribute name="Modified" >2016-09-14T19:57:59-07:00</attribute>
 <attribute name="Name" >Class 5-2</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
-</item>
-<item ID="1470886812" Creator="sscott" proto="pDay" >
-<attribute name="ClassName" >5-3</attribute>
-<attribute name="ClassNum" >3</attribute>
-<attribute name="CourseName" >ROW</attribute>
-<attribute name="Created" >2016-08-10T20:40:11-07:00</attribute>
-<attribute name="Modified" >2016-08-10T20:40:11-07:00</attribute>
-<attribute name="Name" >Class 5-3</attribute>
-<attribute name="SelectionCount" >2</attribute>
-<attribute name="WeekNumber" >5</attribute>
-<attribute name="Xpos" >7</attribute>
-<attribute name="Ypos" >0</attribute>
+<text >* Click here to Mr. Scott’s Quizlet Class or copy paste this link: https://quizlet.com/join/rPXGg7czG
+* Submit your Dear Mitch letter here.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6FAQAAKwAAAAEAAAB9AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgKiBDbGljayBoZXJlIHRvIE1yLiBTY290dFwnOTJzIFF1aXpsZXQgQ2xhc3Mgb3IgY29weSBwYXN0ZSB0aGlzIGxpbms6IGh0dHBzOi8vcXVpemxldC5jb20vam9pbi9yUFhHZzdjekdcCiogU3VibWl0IHlvdXIgRGVhciBNaXRjaCBsZXR0ZXIgaGVyZS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAANw7aV7YBAAAAAAAAAAAAAA==</rtfd>
 </item>
 </item>
 <item ID="1470697636" Creator="sscott" proto="pWeek" >
@@ -1196,31 +1190,26 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-08T16:07:15-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-09-23T14:34:00-07:00</attribute>
-<attribute name="HTMLDontExport" >true</attribute>
-<attribute name="Modified" >2016-08-12T13:45:04-07:00</attribute>
+<attribute name="Modified" >2016-09-14T09:06:56-07:00</attribute>
 <attribute name="Name" >6</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="StartDate" >2016-09-19T14:34:00-07:00</attribute>
 <attribute name="WeekName" >5-9/12/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >4.368811175</attribute>
 <attribute name="Ypos" >10.11114881</attribute>
-<text >Counseling Visit (September 6-7)</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4jAQAAKwAAAAEAAAAbAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIENvdW5zZWxpbmcgVmlzaXQgKFNlcHRlbWJlciA2LTcpfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAFA1rle2AQAAAAAAAAAAAAA=</rtfd>
 <item ID="1470886814" Creator="sscott" proto="pDay" >
 <attribute name="ClassName" >6-1</attribute>
 <attribute name="ClassNum" >1</attribute>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-10T20:40:13-07:00</attribute>
-<attribute name="Modified" >2016-08-21T12:53:37-07:00</attribute>
+<attribute name="Modified" >2016-09-14T09:06:40-07:00</attribute>
 <attribute name="Name" >Class 6-1</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >Counselors are in class</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4aAQAAKwAAAAEAAAASAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIENvdW5zZWxvcnMgYXJlIGluIGNsYXNzfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAMEGule2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 <item ID="1470886826" Creator="sscott" proto="pDay" >
 <attribute name="ClassName" >6-2</attribute>
@@ -1229,7 +1218,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-10T20:40:25-07:00</attribute>
 <attribute name="Modified" >2016-08-10T20:40:25-07:00</attribute>
 <attribute name="Name" >Class 6-2</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1241,7 +1230,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-10T20:40:29-07:00</attribute>
 <attribute name="Modified" >2016-08-10T20:40:29-07:00</attribute>
 <attribute name="Name" >Class 6-3</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1479,7 +1468,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >88</attribute>
+<attribute name="SelectionCount" >91</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -2479,6 +2468,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-09-09T14:24:14-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-09T14:24:14-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -2834,6 +2824,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-09-09T14:24:14-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-09T14:24:14-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
@@ -3279,6 +3270,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-09-09T14:24:14-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-09T14:24:14-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -4491,7 +4483,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-09T14:24:14-07:00</attribute>
 <attribute name="Name" >Mitch Slomiak</attribute>
 <attribute name="Person" >true</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >49</attribute>
 <attribute name="Ypos" >2.36</attribute>
@@ -5214,7 +5206,7 @@ Insider Perspective
 <attribute name="MapScrollY" >27.01343459</attribute>
 <attribute name="Modified" >2016-08-08T09:59:12-07:00</attribute>
 <attribute name="Name" >ICC</attribute>
-<attribute name="SelectionCount" >49</attribute>
+<attribute name="SelectionCount" >50</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >13.35451802</attribute>
 <attribute name="Xpos" >-1.791316931</attribute>
@@ -5390,7 +5382,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-09-09T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-08-30T14:36:28-07:00</attribute>
 <attribute name="Name" >4</attribute>
-<attribute name="SelectionCount" >11</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="StartDate" >2016-09-05T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >4</attribute>
 <attribute name="Xpos" >27.11523956</attribute>
@@ -5416,6 +5408,43 @@ Insider Perspective
 <attribute name="Name" >Class 4-2</attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="WeekNumber" >4</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+</item>
+<item ID="1473707650" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-12T11:52:52-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-09-16T14:34:00-07:00</attribute>
+<attribute name="Modified" >2016-09-12T11:52:52-07:00</attribute>
+<attribute name="Name" >5</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="StartDate" >2016-09-12T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >5</attribute>
+<attribute name="Xpos" >30.61523956</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<item ID="1473707651" Creator="sscott" proto="pDay" >
+<attribute name="ClassName" >5-1</attribute>
+<attribute name="ClassNum" >1</attribute>
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-12T11:57:52-07:00</attribute>
+<attribute name="Modified" >2016-09-12T11:57:52-07:00</attribute>
+<attribute name="Name" >Class 5-1</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="WeekNumber" >5</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1473707652" Creator="sscott" proto="pDay" >
+<attribute name="ClassName" >5-2</attribute>
+<attribute name="ClassNum" >2</attribute>
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-12T11:57:54-07:00</attribute>
+<attribute name="Modified" >2016-09-12T11:57:54-07:00</attribute>
+<attribute name="Name" >Class 5-2</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="WeekNumber" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -5630,6 +5659,16 @@ Insider Perspective
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
+<item ID="1473265011" Creator="sscott" >
+<attribute name="Alias" >1473265009</attribute>
+<attribute name="Created" >2016-09-07T09:16:48-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-07T09:16:48-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >7.58</attribute>
+</item>
 <item ID="1473264390" Creator="sscott" >
 <attribute name="Alias" >1473264389</attribute>
 <attribute name="Created" >2016-09-07T08:54:41-07:00</attribute>
@@ -5637,16 +5676,6 @@ Insider Perspective
 <attribute name="Modified" >2016-09-07T08:54:41-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >7.58</attribute>
-</item>
-<item ID="1473265011" Creator="sscott" >
-<attribute name="Alias" >1473265009</attribute>
-<attribute name="Created" >2016-09-07T09:16:48-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-09-07T09:16:48-07:00</attribute>
-<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
@@ -5659,6 +5688,26 @@ Insider Perspective
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
+</item>
+<item ID="1473787020" Creator="sscott" >
+<attribute name="Alias" >1473787019</attribute>
+<attribute name="Created" >2016-09-13T09:55:41-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-13T09:55:41-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >9.94</attribute>
+</item>
+<item ID="1473788952" Creator="sscott" >
+<attribute name="Alias" >1473788951</attribute>
+<attribute name="Created" >2016-09-13T10:28:23-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-13T10:28:23-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >9.94</attribute>
 </item>
 </agent>
@@ -5976,7 +6025,7 @@ Insider Perspective
 <attribute name="Modified" >2016-08-09T06:59:42-07:00</attribute>
 <attribute name="Name" >Introduction to the Journey</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >19</attribute>
+<attribute name="SelectionCount" >20</attribute>
 <attribute name="Semester" >1</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Width" >10</attribute>
@@ -5987,7 +6036,7 @@ Insider Perspective
 <attribute name="Created" >2016-08-29T11:31:55-07:00</attribute>
 <attribute name="Modified" >2016-08-29T11:31:55-07:00</attribute>
 <attribute name="Name" >Unit 2 Resources</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
@@ -6075,28 +6124,28 @@ Insider Perspective
 <attribute name="Xpos" >38.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
+<item ID="1473265009" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-07T09:16:48-07:00</attribute>
+<attribute name="Modified" >2016-09-07T09:16:48-07:00</attribute>
+<attribute name="Name" >Unit 1 Quizlet</attribute>
+<attribute name="ResourceNumber" >8</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="URL" >https://quizlet.com/46170613/icc-unit-1-flash-cards/</attribute>
+<attribute name="Unit" >2</attribute>
+<attribute name="Xpos" >45.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
 <item ID="1473264389" Creator="sscott" proto="pResource" >
 <attribute name="CourseName" >ICC</attribute>
 <attribute name="Created" >2016-09-07T08:54:41-07:00</attribute>
 <attribute name="Modified" >2016-09-07T08:54:41-07:00</attribute>
 <attribute name="Name" >Unit 2 Quizlet</attribute>
-<attribute name="ResourceNumber" >8</attribute>
-<attribute name="SelectionCount" >2</attribute>
-<attribute name="URL" >https://quizlet.com/_2gzjef</attribute>
+<attribute name="ResourceNumber" >9</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="URL" >https://quizlet.com/149464311/icc-s1-unit-2-flashcards-flash-cards/</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >42</attribute>
-<attribute name="Ypos" >0</attribute>
-</item>
-<item ID="1473265009" Creator="sscott" proto="pResource" >
-<attribute name="CourseName" >ICC</attribute>
-<attribute name="Created" >2016-09-07T09:16:48-07:00</attribute>
-<attribute name="Modified" >2016-09-07T09:16:48-07:00</attribute>
-<attribute name="Name" >Chapter 1 Quizlet</attribute>
-<attribute name="ResourceNumber" >9</attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="URL" >https://quizlet.com/_2gzrmy</attribute>
-<attribute name="Unit" >2</attribute>
-<attribute name="Xpos" >45.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
 <item ID="1473270753" Creator="sscott" proto="pResource" >
@@ -6105,11 +6154,23 @@ Insider Perspective
 <attribute name="Modified" >2016-09-07T10:52:32-07:00</attribute>
 <attribute name="Name" >Join Quizlet Link</attribute>
 <attribute name="ResourceNumber" >10</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="URL" >https://quizlet.com/join/YmD7mWBEJ
 https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >49</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1473787019" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-13T09:55:41-07:00</attribute>
+<attribute name="Modified" >2016-09-13T09:55:41-07:00</attribute>
+<attribute name="Name" >Frosh Teaching Mass</attribute>
+<attribute name="ResourceNumber" >11</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/frosh-teaching-mass-2016.pdf</attribute>
+<attribute name="Unit" >2</attribute>
+<attribute name="Xpos" >52.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
@@ -6118,7 +6179,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-29T11:32:21-07:00</attribute>
 <attribute name="Modified" >2016-08-29T11:32:21-07:00</attribute>
 <attribute name="Name" >Unit 2 Vocabulary</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Unit" >2</attribute>
 <attribute name="Xpos" >21</attribute>
 <attribute name="Ypos" >2.86</attribute>
@@ -6221,11 +6282,20 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Modified" >2016-08-09T07:00:09-07:00</attribute>
 <attribute name="Name" >Creation and Covenant</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >20</attribute>
+<attribute name="SelectionCount" >21</attribute>
 <attribute name="Semester" >1</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >5.72</attribute>
+<item ID="1473788949" Creator="sscott" proto="pfolder" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-13T10:27:32-07:00</attribute>
+<attribute name="Modified" >2016-09-13T10:27:32-07:00</attribute>
+<attribute name="Name" >Unit 3 Vocabulary</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Unit" >3</attribute>
+<attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >5.72</attribute>
 <item ID="1470767808" Creator="sscott" proto="pVocabulary" >
 <attribute name="CourseName" >ICC</attribute>
@@ -6233,7 +6303,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Myth</attribute>
 <attribute name="OnAdd" >$Unit = Unit(parent);</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6243,7 +6313,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Evolution</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6253,7 +6323,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Creation</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6263,7 +6333,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Religious Truth</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6273,7 +6343,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Adam / Eve</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6283,7 +6353,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Covenant</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >21</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6293,7 +6363,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Original Justice</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >24.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6303,7 +6373,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Original Sin</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >28</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6313,7 +6383,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Cain / Abel</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >31.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6323,7 +6393,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Noah</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >35</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6333,7 +6403,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Tower of Babel</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >38.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6343,7 +6413,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Paganism</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >42</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6353,7 +6423,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Patriarch</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >45.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6363,7 +6433,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Canaan / Promised Land / Palestine</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >49</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6373,7 +6443,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Ancestor Stories</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >14</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >52.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6383,7 +6453,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Abraham / Sarah</attribute>
-<attribute name="SelectionCount" >18</attribute>
+<attribute name="SelectionCount" >19</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >56</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6393,7 +6463,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Circumcision</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >59.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6403,7 +6473,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Isaac / Rebekkah</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >63</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6413,7 +6483,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Hagar</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >66.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6423,7 +6493,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Ishmael</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >70</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6433,7 +6503,7 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Jacob / Leah / Rachel</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >73.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -6443,10 +6513,35 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Created" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Modified" >2016-08-09T11:36:00-07:00</attribute>
 <attribute name="Name" >Joseph</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >77</attribute>
 <attribute name="Ypos" >0</attribute>
+</item>
+</item>
+<item ID="1473788950" Creator="sscott" proto="pfolder" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-13T10:28:10-07:00</attribute>
+<attribute name="Modified" >2016-09-13T10:28:10-07:00</attribute>
+<attribute name="Name" >Unit 3 Resources</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >3</attribute>
+<attribute name="Xpos" >24.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<item ID="1473788951" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-13T10:28:23-07:00</attribute>
+<attribute name="Modified" >2016-09-13T10:29:00-07:00</attribute>
+<attribute name="Name" >New American Bible</attribute>
+<attribute name="ResourceNumber" >1</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="URL" >http://usccb.org/bible/books-of-the-bible/index.cfm</attribute>
+<attribute name="Unit" >3</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >	</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4EAQAAKwAAAAEAAAD8AAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIAl9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAXDfYV7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
 </item>
 </item>
 <item ID="1470751228" Creator="sscott" proto="pUnit" >
@@ -7394,7 +7489,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2016-08-09T10:03:44-07:00</attribute>
 <attribute name="Name" >icc vocab</attribute>
-<attribute name="SelectionCount" >55</attribute>
+<attribute name="SelectionCount" >56</attribute>
 <attribute name="Sort" >Unit</attribute>
 <attribute name="SortAlso" >MyString</attribute>
 <attribute name="Width" >3</attribute>
@@ -8874,6 +8969,26 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
+</item>
+<item ID="1473707654" Creator="sscott" >
+<attribute name="Alias" >1473707651</attribute>
+<attribute name="Created" >2016-09-12T11:57:52-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-12T11:57:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
+</item>
+<item ID="1473707653" Creator="sscott" >
+<attribute name="Alias" >1473707652</attribute>
+<attribute name="Created" >2016-09-12T11:57:54-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-12T11:57:54-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
 </item>
 </agent>
@@ -14496,6 +14611,14 @@ This is cool!</text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5BAQAAKwAAAAEAAAA5AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIF5pbmNsdWRlKCJyb3cgdm9jYWIiLCIvc3lzdGVtL3RlbXBsYXRlcy92b2NhYi1zbmlwcGV0IilefQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAMPcrVe2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 </item>
+<item ID="1473788953" Creator="sscott" >
+<attribute name="Created" >2016-09-13T10:30:27-07:00</attribute>
+<attribute name="Modified" >2016-09-13T10:30:27-07:00</attribute>
+<attribute name="Name" >untitled</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >5.826713268</attribute>
+<attribute name="Ypos" >4.968384229</attribute>
+</item>
 </item>
 <links >
 <link name="prototype" sourceid="1470678096" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470675653" destcreator="sscott" color="#993333"  />
@@ -14728,7 +14851,6 @@ This is cool!</text>
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470883749" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886805" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886809" destcreator="sscott" color="#993333"  />
-<link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886812" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886814" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886826" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470886830" destcreator="sscott" color="#993333"  />
@@ -14878,6 +15000,18 @@ This is cool!</text>
 <link name="*untitled" sourceid="1473302692" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473302695" destcreator="sscott" color="#000000"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473445814" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473456255" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473707650" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473707651" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473707652" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473787019" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470927890" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788949" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470927890" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788950" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788951" destcreator="sscott" color="#993333"  />
+<link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="8" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://quizlet.com/join/rPXGg7czG"  />
+<link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="134" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://goo.gl/forms/a5Lbp8Vc5CAlAtK02"  />
+<link name="*untitled" sourceid="1470886809" sourcecreator="sscott" sstart="0" slen="1" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://quizlet.com/join/rPXGg7czG
+"  />
+<link name="*untitled" sourceid="1470886809" sourcecreator="sscott" sstart="134" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://docs.google.com/forms/d/e/1FAIpQLSdZMSBOtCBDFXDqmJeYJZ8OGyawIRk-zb9DzsvAi1lJoTg3JQ/viewform?c=0&amp;w=1"  />
 </links>
 <macros >
 </macros>
@@ -15031,9 +15165,9 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 75 0 1481 877]" ruler="1" >
+<window bounds="Rect[ 42 -4 1478 873]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="563" selection="1473456255 " expanded="1470675565 1470694922 1470757954 1470758032 1473276981 1473282640 1470675553 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455192" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="0" selection="1470886809 " expanded="1470675565 1470690280 1470694922 1470697636 1470675553 1470939872 1470751183 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455432" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="21.4893" ID="1473302698" scrollX="471.14" scrollY="515.355" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490754" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1473276981" scrollX="1037" scrollY="506" selection="" expanded="1473302692 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.00640114" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
