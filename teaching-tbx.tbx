@@ -1177,10 +1177,14 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-14T19:57:59-07:00</attribute>
 <attribute name="Name" >Class 5-2</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="SelectionCount" >16</attribute>
 =======
 <attribute name="SelectionCount" >18</attribute>
 >>>>>>> origin/master
+=======
+<attribute name="SelectionCount" >14</attribute>
+>>>>>>> parent of f48ee41... updates
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -5423,7 +5427,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-09-16T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-09-12T11:52:52-07:00</attribute>
 <attribute name="Name" >5</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="StartDate" >2016-09-12T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Xpos" >30.61523956</attribute>
@@ -5453,6 +5457,7 @@ Insider Perspective
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <item ID="1474483985" Creator="sscott" proto="pWeek" >
 <attribute name="CourseName" >ICC</attribute>
@@ -5538,6 +5543,8 @@ Insider Perspective
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
+=======
+>>>>>>> parent of f48ee41... updates
 </item>
 <agent ID="1470939872" Creator="sscott" proto="pAgent" >
 <attribute name="Agent" >true</attribute>
@@ -5640,7 +5647,7 @@ Insider Perspective
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-21T20:28:23-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
@@ -5797,24 +5804,6 @@ Insider Perspective
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
-</item>
-<item ID="1474482674" Creator="sscott" >
-<attribute name="Alias" >1474482673</attribute>
-<attribute name="Created" >2016-09-21T11:09:32-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-09-21T11:09:32-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >9.94</attribute>
-</item>
-<item ID="1474483097" Creator="sscott" >
-<attribute name="Alias" >1474483071</attribute>
-<attribute name="Created" >2016-09-21T11:37:50-07:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-09-21T11:37:50-07:00</attribute>
-<attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >9.94</attribute>
 </item>
 </agent>
@@ -6641,37 +6630,13 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Modified" >2016-09-13T10:29:00-07:00</attribute>
 <attribute name="Name" >New American Bible</attribute>
 <attribute name="ResourceNumber" >1</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >1</attribute>
 <attribute name="URL" >http://usccb.org/bible/books-of-the-bible/index.cfm</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >	</text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4EAQAAKwAAAAEAAAD8AAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIAl9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAXDfYV7YBAAAAAAAAAAAAAA==</rtfd>
-</item>
-<item ID="1474482673" Creator="sscott" proto="pResource" >
-<attribute name="CourseName" >ICC</attribute>
-<attribute name="Created" >2016-09-21T11:09:32-07:00</attribute>
-<attribute name="Modified" >2016-09-21T11:09:32-07:00</attribute>
-<attribute name="Name" >Stained Glass Project</attribute>
-<attribute name="ResourceNumber" >2</attribute>
-<attribute name="SelectionCount" >1</attribute>
-<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/Stained%20Glass%20Project%20and%20Writing%20Rubric.pdf</attribute>
-<attribute name="Unit" >3</attribute>
-<attribute name="Xpos" >3.5</attribute>
-<attribute name="Ypos" >0</attribute>
-</item>
-<item ID="1474483071" Creator="sscott" proto="pResource" >
-<attribute name="CourseName" >ICC</attribute>
-<attribute name="Created" >2016-09-21T11:37:50-07:00</attribute>
-<attribute name="Modified" >2016-09-21T11:37:50-07:00</attribute>
-<attribute name="Name" >OT Passages and Wooh</attribute>
-<attribute name="ResourceNumber" >3</attribute>
-<attribute name="SelectionCount" >1</attribute>
-<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/ICC-OT-Bible-WOOH.pdf</attribute>
-<attribute name="Unit" >3</attribute>
-<attribute name="Xpos" >7</attribute>
-<attribute name="Ypos" >0</attribute>
 </item>
 </item>
 </item>
@@ -9040,12 +9005,17 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >0.5</attribute>
 =======
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >11.25459728</attribute>
 >>>>>>> origin/master
+=======
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >11.25459728</attribute>
+>>>>>>> parent of f48ee41... updates
 </item>
 <item ID="1470883759" Creator="sscott" >
 <attribute name="Alias" >1470883749</attribute>
@@ -9055,10 +9025,14 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="Xpos" >0.5</attribute>
 =======
 <attribute name="Xpos" >21.5</attribute>
 >>>>>>> origin/master
+=======
+<attribute name="Xpos" >11</attribute>
+>>>>>>> parent of f48ee41... updates
 <attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883725" Creator="sscott" >
@@ -9069,10 +9043,14 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="Xpos" >11</attribute>
 =======
 <attribute name="Xpos" >32</attribute>
 >>>>>>> origin/master
+=======
+<attribute name="Xpos" >21.5</attribute>
+>>>>>>> parent of f48ee41... updates
 <attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883746" Creator="sscott" >
@@ -9082,8 +9060,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:00-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >11.25459728</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1470883747" Creator="sscott" >
 <attribute name="Alias" >1470883745</attribute>
@@ -9092,8 +9070,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:04-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >11.25459728</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1472593520" Creator="sscott" >
 <attribute name="Alias" >1472593519</attribute>
@@ -9102,7 +9080,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-30T14:30:47-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1472593522" Creator="sscott" >
@@ -9113,11 +9091,16 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="Xpos" >11</attribute>
 =======
 <attribute name="Xpos" >32</attribute>
 >>>>>>> origin/master
 <attribute name="Ypos" >13.61459728</attribute>
+=======
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
+>>>>>>> parent of f48ee41... updates
 </item>
 <item ID="1473707654" Creator="sscott" >
 <attribute name="Alias" >1473707651</attribute>
@@ -9127,12 +9110,17 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
 =======
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
 >>>>>>> origin/master
+=======
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
+>>>>>>> parent of f48ee41... updates
 </item>
 <item ID="1473707653" Creator="sscott" >
 <attribute name="Alias" >1473707652</attribute>
@@ -9141,6 +9129,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-12T11:57:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
@@ -9169,6 +9158,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-21T11:53:16-07:00</attribute>
 <attribute name="Width" >10</attribute>
+=======
+>>>>>>> parent of f48ee41... updates
 <attribute name="Xpos" >21.5</attribute>
 =======
 <attribute name="Xpos" >11</attribute>
@@ -15209,6 +15200,7 @@ This is cool!</text>
 <link name="prototype" sourceid="1470927890" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788949" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470927890" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788950" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1473788951" destcreator="sscott" color="#993333"  />
+<<<<<<< HEAD
 <link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="8" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470675520" destcreator="sscott" color="#000000" URL="https://quizlet.com/join/rPXGg7czG"  />
 <link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="134" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470675520" destcreator="sscott" color="#000000" URL="https://goo.gl/forms/a5Lbp8Vc5CAlAtK02"  />
 <link name="*untitled" sourceid="1470886809" sourcecreator="sscott" sstart="0" slen="1" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1470675520" destcreator="sscott" color="#000000" URL="https://quizlet.com/join/rPXGg7czG "  />
@@ -15226,6 +15218,13 @@ This is cool!</text>
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474425376" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474425379" destcreator="sscott" color="#993333"  />
 >>>>>>> origin/master
+=======
+<link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="8" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://quizlet.com/join/rPXGg7czG"  />
+<link name="*untitled" sourceid="1470694922" sourcecreator="sscott" sstart="134" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://goo.gl/forms/a5Lbp8Vc5CAlAtK02"  />
+<link name="*untitled" sourceid="1470886809" sourcecreator="sscott" sstart="0" slen="1" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://quizlet.com/join/rPXGg7czG
+"  />
+<link name="*untitled" sourceid="1470886809" sourcecreator="sscott" sstart="134" slen="4" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="0" destcreator="" color="#000000" URL="https://docs.google.com/forms/d/e/1FAIpQLSdZMSBOtCBDFXDqmJeYJZ8OGyawIRk-zb9DzsvAi1lJoTg3JQ/viewform?c=0&amp;w=1"  />
+>>>>>>> parent of f48ee41... updates
 </links>
 <macros >
 </macros>
@@ -15380,9 +15379,13 @@ This is cool!</text>
 </preferences>
 <windows >
 <<<<<<< HEAD
+<<<<<<< HEAD
 <window bounds="Rect[ 153 -8 1589 869]" ruler="1" >
+=======
+<window bounds="Rect[ 42 -4 1478 873]" ruler="1" >
+>>>>>>> parent of f48ee41... updates
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="0" selection="1474483985 " expanded="1470690280 1470694922 1470697636 1470675553 1470701631 1474483985 1470751130 1470751183 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455432" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="0" selection="1470886809 " expanded="1470675565 1470690280 1470694922 1470697636 1470675553 1470939872 1470751183 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455432" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="21.4893" ID="1473302698" scrollX="471.14" scrollY="515.355" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490754" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 =======
 <window bounds="Rect[ 162 10 1568 887]" ruler="1" >
