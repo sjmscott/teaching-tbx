@@ -5456,7 +5456,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-09-23T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-09-20T19:36:05-07:00</attribute>
 <attribute name="Name" >6</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="StartDate" >2016-09-19T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Xpos" >34.11523956</attribute>
@@ -5766,6 +5766,7 @@ Insider Perspective
 <attribute name="Created" >2016-09-21T13:54:43-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-21T13:54:43-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >9.94</attribute>
@@ -5775,6 +5776,7 @@ Insider Perspective
 <attribute name="Created" >2016-09-21T13:55:27-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-21T13:55:27-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >9.94</attribute>
@@ -15293,7 +15295,7 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 25 0 1431 877]" ruler="1" >
+<window bounds="Rect[ 35 0 1441 877]" ruler="1" >
 <tabs >
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="0" selection="1474425366 " expanded="1470675565 1470694922 1470697636 1470675553 1470701631 1474425366 1470939872 1470751130 1470751183 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455192" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="21.4893" ID="1473302698" scrollX="471" scrollY="549.5" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490754" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
