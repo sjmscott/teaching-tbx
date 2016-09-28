@@ -1712,6 +1712,15 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >9.94</attribute>
 </item>
+<item ID="1475010243" Creator="sscott" >
+<attribute name="Alias" >1475010225</attribute>
+<attribute name="Created" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
+</item>
 <item ID="1473282697" Creator="sscott" >
 <attribute name="Alias" >1473282676</attribute>
 <attribute name="Created" >2016-09-07T14:11:15-07:00</attribute>
@@ -1719,7 +1728,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:11:15-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473286244" Creator="sscott" >
@@ -1729,7 +1738,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T15:00:27-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473445815" Creator="sscott" >
@@ -1739,7 +1748,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-09T11:09:23-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 </agent>
@@ -2012,6 +2021,15 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >9.94</attribute>
 </item>
+<item ID="1475010244" Creator="sscott" >
+<attribute name="Alias" >1475010225</attribute>
+<attribute name="Created" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
+</item>
 <item ID="1473282698" Creator="sscott" >
 <attribute name="Alias" >1473282676</attribute>
 <attribute name="Created" >2016-09-07T14:11:15-07:00</attribute>
@@ -2019,7 +2037,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:11:15-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473286245" Creator="sscott" >
@@ -2029,7 +2047,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T15:00:27-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473445816" Creator="sscott" >
@@ -2038,8 +2056,9 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-09T11:09:23-07:00</attribute>
 <attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >2</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 </agent>
@@ -4853,11 +4872,23 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Modified" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Name" >Hinduism</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="UnitName" >Hinduism</attribute>
 <attribute name="Xpos" >5.826713268</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
+<item ID="1475010225" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Modified" >2016-09-27T14:03:44-07:00</attribute>
+<attribute name="Name" >HIndu FAQ</attribute>
+<attribute name="ResourceNumber" >1</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-hindu-faq.pdf</attribute>
+<attribute name="Unit" >3</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
 </item>
 <item ID="1470758008" Creator="sscott" proto="pUnit" >
 <attribute name="CourseName" >ROW</attribute>
@@ -5521,7 +5552,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-09-30T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-09-25T18:41:49-07:00</attribute>
 <attribute name="Name" >7</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="StartDate" >2016-09-26T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >7</attribute>
 <attribute name="Xpos" >37.61523956</attribute>
@@ -5852,6 +5883,7 @@ Insider Perspective
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-22T07:42:44-07:00</attribute>
 <attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -5861,8 +5893,19 @@ Insider Perspective
 <attribute name="Created" >2016-09-25T18:28:25-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-25T18:28:25-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >12.3</attribute>
+</item>
+<item ID="1474912542" Creator="sscott" >
+<attribute name="Alias" >1474912541</attribute>
+<attribute name="Created" >2016-09-26T10:33:18-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-09-26T10:33:18-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
 </item>
 </agent>
@@ -6739,9 +6782,22 @@ https://quizlet.com/join/YmD7mWBEJ</attribute>
 <attribute name="Modified" >2016-09-25T18:28:25-07:00</attribute>
 <attribute name="Name" >Genesis 1 and 2</attribute>
 <attribute name="ResourceNumber" >5</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/icc-%20gen1-gen2.pdf</attribute>
 <attribute name="Unit" >3</attribute>
 <attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1474912541" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-09-26T10:33:18-07:00</attribute>
+<attribute name="Modified" >2016-09-26T10:33:18-07:00</attribute>
+<attribute name="Name" >Sabbath</attribute>
+<attribute name="ResourceNumber" >6</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/ICC-Sabbath%20-%20Shabbat.PDF</attribute>
+<attribute name="Unit" >3</attribute>
+<attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
 </item>
@@ -9228,6 +9284,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-09-25T18:41:53-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-25T18:41:53-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
@@ -9237,6 +9294,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-09-25T18:41:55-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-25T18:41:55-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >18.33459728</attribute>
@@ -9246,6 +9304,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-09-25T18:41:56-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-09-25T18:41:56-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >18.33459728</attribute>
@@ -15282,6 +15341,8 @@ This is cool!</text>
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474854114" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474854116" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474854117" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1474912541" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475010225" destcreator="sscott" color="#993333"  />
 </links>
 <macros >
 </macros>
@@ -15435,9 +15496,9 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ -0 -0 1676 1027]" ruler="1" >
+<window bounds="Rect[ 68 0 1504 877]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="2619" selection="1474854110 " expanded="1470675565 1470690280 1470694922 1470697636 1470886832 1470758831 1470675553 1470701631 1474425366 1474854110 1470751130 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.454654" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="1626" selection="1470758003 " expanded="1470675565 1470690280 1470694922 1470697636 1470886832 1471010817 1470757954 1470758003 1470701631 1474425366 1474854110 1470751130 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.455432" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="21.4893" ID="1473302698" scrollX="471" scrollY="549.5" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490754" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1473276981" scrollX="1037" scrollY="506" selection="" expanded="1473302692 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.00640114" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
