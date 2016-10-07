@@ -1525,7 +1525,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >96</attribute>
+<attribute name="SelectionCount" >98</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -1845,6 +1845,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:11:40-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:11:40-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -1854,6 +1855,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:11:12-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:11:12-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -1863,6 +1865,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:44:11-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:44:11-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -1872,9 +1875,28 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:43:16-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:43:16-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >53</attribute>
 <attribute name="Ypos" >12.3</attribute>
+</item>
+<item ID="1475857185" Creator="sscott" >
+<attribute name="Alias" >1475857181</attribute>
+<attribute name="Created" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475857183" Creator="sscott" >
+<attribute name="Alias" >1475857182</attribute>
+<attribute name="Created" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 </agent>
 <agent ID="1471010817" Creator="sscott" proto="pAgent" >
@@ -2243,6 +2265,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:11:40-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:11:40-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -2252,6 +2275,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:11:12-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:11:12-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -2261,6 +2285,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:44:11-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:44:11-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >12.3</attribute>
@@ -2270,9 +2295,28 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-05T14:43:16-07:00</attribute>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-10-05T14:43:16-07:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >53</attribute>
 <attribute name="Ypos" >12.3</attribute>
+</item>
+<item ID="1475857186" Creator="sscott" >
+<attribute name="Alias" >1475857181</attribute>
+<attribute name="Created" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475857184" Creator="sscott" >
+<attribute name="Alias" >1475857182</attribute>
+<attribute name="Created" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 </agent>
 <agent ID="1470758831" Creator="sscott" proto="pAgent" >
@@ -2381,8 +2425,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1473281884" Creator="sscott" >
 <attribute name="Alias" >1470710174</attribute>
@@ -2391,8 +2435,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470959798" Creator="sscott" >
 <attribute name="Alias" >1470710219</attribute>
@@ -2401,7 +2445,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959789" Creator="sscott" >
@@ -2411,7 +2455,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959787" Creator="sscott" >
@@ -2421,7 +2465,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959786" Creator="sscott" >
@@ -2431,7 +2475,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471493430" Creator="sscott" >
@@ -2441,7 +2485,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959800" Creator="sscott" >
@@ -2451,7 +2495,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >53</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1473281891" Creator="sscott" >
@@ -2461,8 +2505,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-23T19:56:44-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471227094" Creator="sscott" >
 <attribute name="Alias" >1470710180</attribute>
@@ -2471,8 +2515,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959801" Creator="sscott" >
 <attribute name="Alias" >1470710223</attribute>
@@ -2481,8 +2525,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959785" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
@@ -2491,8 +2535,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470959802" Creator="sscott" >
 <attribute name="Alias" >1470710227</attribute>
@@ -2501,7 +2545,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1470959792" Creator="sscott" >
@@ -2511,7 +2555,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472486715" Creator="sscott" >
@@ -2521,7 +2565,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-29T09:05:02-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286237" Creator="sscott" >
@@ -2531,7 +2575,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-28T19:02:18-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473280344" Creator="sscott" >
@@ -2541,8 +2585,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:32:02-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286236" Creator="sscott" >
 <attribute name="Alias" >1473276982</attribute>
@@ -2551,8 +2595,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T12:19:42-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473281193" Creator="sscott" >
 <attribute name="Alias" >1473281186</attribute>
@@ -2562,8 +2606,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286241" Creator="sscott" >
 <attribute name="Alias" >1473286240</attribute>
@@ -2572,8 +2616,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:53:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473282052" Creator="sscott" >
 <attribute name="Alias" >1473282048</attribute>
@@ -2583,8 +2627,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473282746" Creator="sscott" >
 <attribute name="Alias" >1473282731</attribute>
@@ -2593,8 +2637,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:12:24-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473281209" Creator="sscott" >
 <attribute name="Alias" >1473281175</attribute>
@@ -2604,7 +2648,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >10</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473282987" Creator="sscott" >
@@ -2614,7 +2658,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:16:04-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281419" Creator="sscott" >
@@ -2624,8 +2668,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:49:58-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473283029" Creator="sscott" >
 <attribute name="Alias" >1473283022</attribute>
@@ -2634,8 +2678,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:17:01-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281212" Creator="sscott" >
 <attribute name="Alias" >1473281169</attribute>
@@ -2644,8 +2688,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281198" Creator="sscott" >
 <attribute name="Alias" >1473281178</attribute>
@@ -2654,8 +2698,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281205" Creator="sscott" >
 <attribute name="Alias" >1473281182</attribute>
@@ -2665,8 +2709,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281201" Creator="sscott" >
 <attribute name="Alias" >1473281185</attribute>
@@ -2676,8 +2720,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281197" Creator="sscott" >
 <attribute name="Alias" >1473281174</attribute>
@@ -2687,8 +2731,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281208" Creator="sscott" >
 <attribute name="Alias" >1473281176</attribute>
@@ -2698,8 +2742,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473456261" Creator="sscott" >
 <attribute name="Alias" >1473456255</attribute>
@@ -2709,7 +2753,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283162" Creator="sscott" >
 <attribute name="Alias" >1473283157</attribute>
@@ -2720,7 +2764,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283801" Creator="sscott" >
 <attribute name="Alias" >1473283783</attribute>
@@ -2730,7 +2774,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281199" Creator="sscott" >
 <attribute name="Alias" >1473281179</attribute>
@@ -2741,7 +2785,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281195" Creator="sscott" >
 <attribute name="Alias" >1473281168</attribute>
@@ -2751,7 +2795,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281192" Creator="sscott" >
 <attribute name="Alias" >1473281189</attribute>
@@ -2761,7 +2805,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283243" Creator="sscott" >
 <attribute name="Alias" >1473283222</attribute>
@@ -2771,7 +2815,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281210" Creator="sscott" >
 <attribute name="Alias" >1473281173</attribute>
@@ -2782,7 +2826,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281196" Creator="sscott" >
 <attribute name="Alias" >1473281171</attribute>
@@ -2792,8 +2836,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473284039" Creator="sscott" >
 <attribute name="Alias" >1473284015</attribute>
@@ -2803,8 +2847,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >2</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473284081" Creator="sscott" >
 <attribute name="Alias" >1473284059</attribute>
@@ -2814,8 +2858,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281202" Creator="sscott" >
 <attribute name="Alias" >1473281187</attribute>
@@ -2824,8 +2868,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284179" Creator="sscott" >
 <attribute name="Alias" >1473284154</attribute>
@@ -2834,8 +2878,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:36:13-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281200" Creator="sscott" >
 <attribute name="Alias" >1473281180</attribute>
@@ -2845,8 +2889,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284221" Creator="sscott" >
 <attribute name="Alias" >1473284209</attribute>
@@ -2855,8 +2899,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:36:48-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281194" Creator="sscott" >
 <attribute name="Alias" >1473281172</attribute>
@@ -2865,8 +2909,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281204" Creator="sscott" >
 <attribute name="Alias" >1473281183</attribute>
@@ -2875,8 +2919,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281191" Creator="sscott" >
 <attribute name="Alias" >1473281184</attribute>
@@ -2886,8 +2930,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281207" Creator="sscott" >
 <attribute name="Alias" >1473281177</attribute>
@@ -2897,8 +2941,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284326" Creator="sscott" >
 <attribute name="Alias" >1473284306</attribute>
@@ -2907,8 +2951,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:38:35-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281211" Creator="sscott" >
 <attribute name="Alias" >1473281170</attribute>
@@ -2917,8 +2961,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473284369" Creator="sscott" >
 <attribute name="Alias" >1473284365</attribute>
@@ -2927,8 +2971,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:39:24-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473284445" Creator="sscott" >
 <attribute name="Alias" >1473284427</attribute>
@@ -2937,8 +2981,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:40:26-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473281203" Creator="sscott" >
 <attribute name="Alias" >1473281188</attribute>
@@ -2947,8 +2991,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T13:46:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473281206" Creator="sscott" >
 <attribute name="Alias" >1473281181</attribute>
@@ -2958,8 +3002,359 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859557" Creator="sscott" >
+<attribute name="Alias" >1475859537</attribute>
+<attribute name="Created" >2016-10-07T09:58:56-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:59:14-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475863195" Creator="sscott" >
+<attribute name="Alias" >1475862967</attribute>
+<attribute name="Created" >2016-10-07T10:56:06-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:56:20-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475857190" Creator="sscott" >
+<attribute name="Alias" >1475857187</attribute>
+<attribute name="Created" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859621" Creator="sscott" >
+<attribute name="Alias" >1475859620</attribute>
+<attribute name="Created" >2016-10-07T10:00:19-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:00:19-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859641" Creator="sscott" >
+<attribute name="Alias" >1475859638</attribute>
+<attribute name="Created" >2016-10-07T10:00:37-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:00:37-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475863170" Creator="sscott" >
+<attribute name="Alias" >1475862496</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:48:27-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863171" Creator="sscott" >
+<attribute name="Alias" >1475862498</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:48:57-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863199" Creator="sscott" >
+<attribute name="Alias" >1475863086</attribute>
+<attribute name="Created" >2016-10-07T10:58:05-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:58:11-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863174" Creator="sscott" >
+<attribute name="Alias" >1475862500</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:10-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863172" Creator="sscott" >
+<attribute name="Alias" >1475862502</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863175" Creator="sscott" >
+<attribute name="Alias" >1475862504</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:40-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863176" Creator="sscott" >
+<attribute name="Alias" >1475862508</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:50:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863173" Creator="sscott" >
+<attribute name="Alias" >1475862506</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:50:48-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475857197" Creator="sscott" >
+<attribute name="Alias" >1475857194</attribute>
+<attribute name="Created" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863197" Creator="sscott" >
+<attribute name="Alias" >1475862996</attribute>
+<attribute name="Created" >2016-10-07T10:56:35-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:56:38-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863200" Creator="sscott" >
+<attribute name="Alias" >1475863019</attribute>
+<attribute name="Created" >2016-10-07T10:56:58-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:05-07:00</attribute>
+<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863185" Creator="sscott" >
+<attribute name="Alias" >1475862510</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:49-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863198" Creator="sscott" >
+<attribute name="Alias" >1475863045</attribute>
+<attribute name="Created" >2016-10-07T10:57:24-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:32-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863177" Creator="sscott" >
+<attribute name="Alias" >1475862512</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:23-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863196" Creator="sscott" >
+<attribute name="Alias" >1475863105</attribute>
+<attribute name="Created" >2016-10-07T10:58:24-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:58:37-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863178" Creator="sscott" >
+<attribute name="Alias" >1475862514</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:36-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863186" Creator="sscott" >
+<attribute name="Alias" >1475862516</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:44-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863179" Creator="sscott" >
+<attribute name="Alias" >1475862518</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:52-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863180" Creator="sscott" >
+<attribute name="Alias" >1475862520</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:04-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863187" Creator="sscott" >
+<attribute name="Alias" >1475862522</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:15-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863188" Creator="sscott" >
+<attribute name="Alias" >1475862524</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:23-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475857205" Creator="sscott" >
+<attribute name="Alias" >1475857204</attribute>
+<attribute name="Created" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863189" Creator="sscott" >
+<attribute name="Alias" >1475862526</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:46-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863190" Creator="sscott" >
+<attribute name="Alias" >1475862528</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:08-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863181" Creator="sscott" >
+<attribute name="Alias" >1475862530</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:25-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863191" Creator="sscott" >
+<attribute name="Alias" >1475862532</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:34-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863192" Creator="sscott" >
+<attribute name="Alias" >1475862534</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863182" Creator="sscott" >
+<attribute name="Alias" >1475862536</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:52-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863183" Creator="sscott" >
+<attribute name="Alias" >1475862538</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863193" Creator="sscott" >
+<attribute name="Alias" >1475862540</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:33-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863194" Creator="sscott" >
+<attribute name="Alias" >1475862542</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475863169" Creator="sscott" >
+<attribute name="Alias" >1475862544</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475857201" Creator="sscott" >
+<attribute name="Alias" >1475857200</attribute>
+<attribute name="Created" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475863184" Creator="sscott" >
+<attribute name="Alias" >1475862546</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:55:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >24.1</attribute>
 </item>
 </agent>
 <agent ID="1471227096" Creator="sscott" >
@@ -3074,7 +3469,43 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-09T14:24:14-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
+<attribute name="Xpos" >18</attribute>
+<attribute name="Ypos" >2.86</attribute>
+</item>
+<item ID="1475857192" Creator="sscott" >
+<attribute name="Alias" >1475857187</attribute>
+<attribute name="Created" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1475857199" Creator="sscott" >
+<attribute name="Alias" >1475857194</attribute>
+<attribute name="Created" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1475857206" Creator="sscott" >
+<attribute name="Alias" >1475857204</attribute>
+<attribute name="Created" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+</item>
+<item ID="1475857202" Creator="sscott" >
+<attribute name="Alias" >1475857200</attribute>
+<attribute name="Created" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 </agent>
@@ -3185,8 +3616,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1473281885" Creator="sscott" >
 <attribute name="Alias" >1470710174</attribute>
@@ -3195,8 +3626,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >2.86</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470953413" Creator="sscott" >
 <attribute name="Alias" >1470710176</attribute>
@@ -3205,7 +3636,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953422" Creator="sscott" >
@@ -3215,7 +3646,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953411" Creator="sscott" >
@@ -3225,7 +3656,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953410" Creator="sscott" >
@@ -3235,7 +3666,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471493431" Creator="sscott" >
@@ -3245,7 +3676,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953424" Creator="sscott" >
@@ -3255,7 +3686,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >53</attribute>
 <attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1473281892" Creator="sscott" >
@@ -3265,8 +3696,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-23T19:56:44-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1471227095" Creator="sscott" >
 <attribute name="Alias" >1470710180</attribute>
@@ -3275,8 +3706,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953425" Creator="sscott" >
 <attribute name="Alias" >1470710223</attribute>
@@ -3285,8 +3716,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953409" Creator="sscott" >
 <attribute name="Alias" >1470710225</attribute>
@@ -3295,8 +3726,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >5.22</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >2.86</attribute>
 </item>
 <item ID="1470953426" Creator="sscott" >
 <attribute name="Alias" >1470710227</attribute>
@@ -3305,7 +3736,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1470953416" Creator="sscott" >
@@ -3315,7 +3746,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1472486716" Creator="sscott" >
@@ -3325,7 +3756,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-08-29T09:05:02-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286239" Creator="sscott" >
@@ -3336,7 +3767,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473280345" Creator="sscott" >
@@ -3347,8 +3778,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286238" Creator="sscott" >
 <attribute name="Alias" >1473276982</attribute>
@@ -3357,8 +3788,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T12:19:42-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473281215" Creator="sscott" >
 <attribute name="Alias" >1473281186</attribute>
@@ -3368,8 +3799,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473286242" Creator="sscott" >
 <attribute name="Alias" >1473286240</attribute>
@@ -3378,8 +3809,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-09-07T14:53:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473282053" Creator="sscott" >
 <attribute name="Alias" >1473282048</attribute>
@@ -3389,8 +3820,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473282747" Creator="sscott" >
 <attribute name="Alias" >1473282731</attribute>
@@ -3400,8 +3831,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >7.58</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >5.22</attribute>
 </item>
 <item ID="1473281231" Creator="sscott" >
 <attribute name="Alias" >1473281175</attribute>
@@ -3411,7 +3842,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473282988" Creator="sscott" >
@@ -3422,7 +3853,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
+<attribute name="Xpos" >11</attribute>
 <attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281420" Creator="sscott" >
@@ -3433,8 +3864,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473283030" Creator="sscott" >
 <attribute name="Alias" >1473283022</attribute>
@@ -3444,8 +3875,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281234" Creator="sscott" >
 <attribute name="Alias" >1473281169</attribute>
@@ -3455,8 +3886,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281220" Creator="sscott" >
 <attribute name="Alias" >1473281178</attribute>
@@ -3466,8 +3897,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281227" Creator="sscott" >
 <attribute name="Alias" >1473281182</attribute>
@@ -3477,8 +3908,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281223" Creator="sscott" >
 <attribute name="Alias" >1473281185</attribute>
@@ -3488,8 +3919,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281219" Creator="sscott" >
 <attribute name="Alias" >1473281174</attribute>
@@ -3499,8 +3930,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473281230" Creator="sscott" >
 <attribute name="Alias" >1473281176</attribute>
@@ -3510,8 +3941,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >9.94</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >7.58</attribute>
 </item>
 <item ID="1473456262" Creator="sscott" >
 <attribute name="Alias" >1473456255</attribute>
@@ -3521,7 +3952,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283163" Creator="sscott" >
 <attribute name="Alias" >1473283157</attribute>
@@ -3532,7 +3963,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283802" Creator="sscott" >
 <attribute name="Alias" >1473283783</attribute>
@@ -3543,7 +3974,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281221" Creator="sscott" >
 <attribute name="Alias" >1473281179</attribute>
@@ -3554,7 +3985,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281217" Creator="sscott" >
 <attribute name="Alias" >1473281168</attribute>
@@ -3565,7 +3996,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281214" Creator="sscott" >
 <attribute name="Alias" >1473281189</attribute>
@@ -3576,7 +4007,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473283244" Creator="sscott" >
 <attribute name="Alias" >1473283222</attribute>
@@ -3587,7 +4018,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281232" Creator="sscott" >
 <attribute name="Alias" >1473281173</attribute>
@@ -3598,7 +4029,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >12.3</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473281218" Creator="sscott" >
 <attribute name="Alias" >1473281171</attribute>
@@ -3608,8 +4039,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473284040" Creator="sscott" >
 <attribute name="Alias" >1473284015</attribute>
@@ -3619,8 +4050,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >9.94</attribute>
 </item>
 <item ID="1473284082" Creator="sscott" >
 <attribute name="Alias" >1473284059</attribute>
@@ -3630,8 +4061,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281224" Creator="sscott" >
 <attribute name="Alias" >1473281187</attribute>
@@ -3641,8 +4072,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284180" Creator="sscott" >
 <attribute name="Alias" >1473284154</attribute>
@@ -3652,8 +4083,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281222" Creator="sscott" >
 <attribute name="Alias" >1473281180</attribute>
@@ -3663,8 +4094,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284222" Creator="sscott" >
 <attribute name="Alias" >1473284209</attribute>
@@ -3674,8 +4105,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281216" Creator="sscott" >
 <attribute name="Alias" >1473281172</attribute>
@@ -3685,8 +4116,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >14.66</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281226" Creator="sscott" >
 <attribute name="Alias" >1473281183</attribute>
@@ -3696,8 +4127,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281213" Creator="sscott" >
 <attribute name="Alias" >1473281184</attribute>
@@ -3707,8 +4138,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281229" Creator="sscott" >
 <attribute name="Alias" >1473281177</attribute>
@@ -3718,8 +4149,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473284327" Creator="sscott" >
 <attribute name="Alias" >1473284306</attribute>
@@ -3729,8 +4160,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >12.3</attribute>
 </item>
 <item ID="1473281233" Creator="sscott" >
 <attribute name="Alias" >1473281170</attribute>
@@ -3740,8 +4171,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473284370" Creator="sscott" >
 <attribute name="Alias" >1473284365</attribute>
@@ -3751,8 +4182,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >53</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473284446" Creator="sscott" >
 <attribute name="Alias" >1473284427</attribute>
@@ -3762,8 +4193,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >63.5</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473281225" Creator="sscott" >
 <attribute name="Alias" >1473281188</attribute>
@@ -3773,8 +4204,8 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >74</attribute>
-<attribute name="Ypos" >17.02</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >14.66</attribute>
 </item>
 <item ID="1473281228" Creator="sscott" >
 <attribute name="Alias" >1473281181</attribute>
@@ -3784,8 +4215,359 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859558" Creator="sscott" >
+<attribute name="Alias" >1475859537</attribute>
+<attribute name="Created" >2016-10-07T09:58:56-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:59:14-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475863227" Creator="sscott" >
+<attribute name="Alias" >1475862967</attribute>
+<attribute name="Created" >2016-10-07T10:56:06-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:56:20-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475857191" Creator="sscott" >
+<attribute name="Alias" >1475857187</attribute>
+<attribute name="Created" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859622" Creator="sscott" >
+<attribute name="Alias" >1475859620</attribute>
+<attribute name="Created" >2016-10-07T10:00:19-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:00:19-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475859642" Creator="sscott" >
+<attribute name="Alias" >1475859638</attribute>
+<attribute name="Created" >2016-10-07T10:00:37-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:00:37-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >14.66</attribute>
+</item>
+<item ID="1475863202" Creator="sscott" >
+<attribute name="Alias" >1475862496</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:48:27-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863203" Creator="sscott" >
+<attribute name="Alias" >1475862498</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:48:57-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863231" Creator="sscott" >
+<attribute name="Alias" >1475863086</attribute>
+<attribute name="Created" >2016-10-07T10:58:05-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:58:11-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863206" Creator="sscott" >
+<attribute name="Alias" >1475862500</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:10-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863204" Creator="sscott" >
+<attribute name="Alias" >1475862502</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:21-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863207" Creator="sscott" >
+<attribute name="Alias" >1475862504</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:49:40-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863208" Creator="sscott" >
+<attribute name="Alias" >1475862508</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:50:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863205" Creator="sscott" >
+<attribute name="Alias" >1475862506</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:50:48-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475857198" Creator="sscott" >
+<attribute name="Alias" >1475857194</attribute>
+<attribute name="Created" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863229" Creator="sscott" >
+<attribute name="Alias" >1475862996</attribute>
+<attribute name="Created" >2016-10-07T10:56:35-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:56:38-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >17.02</attribute>
+</item>
+<item ID="1475863232" Creator="sscott" >
+<attribute name="Alias" >1475863019</attribute>
+<attribute name="Created" >2016-10-07T10:56:58-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:05-07:00</attribute>
+<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863217" Creator="sscott" >
+<attribute name="Alias" >1475862510</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:49-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863230" Creator="sscott" >
+<attribute name="Alias" >1475863045</attribute>
+<attribute name="Created" >2016-10-07T10:57:24-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:57:32-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863209" Creator="sscott" >
+<attribute name="Alias" >1475862512</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:23-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863228" Creator="sscott" >
+<attribute name="Alias" >1475863105</attribute>
+<attribute name="Created" >2016-10-07T10:58:24-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:58:37-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863210" Creator="sscott" >
+<attribute name="Alias" >1475862514</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:36-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863218" Creator="sscott" >
+<attribute name="Alias" >1475862516</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:44-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863211" Creator="sscott" >
+<attribute name="Alias" >1475862518</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:51:52-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863212" Creator="sscott" >
+<attribute name="Alias" >1475862520</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:04-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863219" Creator="sscott" >
+<attribute name="Alias" >1475862522</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:15-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >19.38</attribute>
+</item>
+<item ID="1475863220" Creator="sscott" >
+<attribute name="Alias" >1475862524</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:23-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475857207" Creator="sscott" >
+<attribute name="Alias" >1475857204</attribute>
+<attribute name="Created" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863221" Creator="sscott" >
+<attribute name="Alias" >1475862526</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:52:46-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863222" Creator="sscott" >
+<attribute name="Alias" >1475862528</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:08-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863213" Creator="sscott" >
+<attribute name="Alias" >1475862530</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:25-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >42.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863223" Creator="sscott" >
+<attribute name="Alias" >1475862532</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:34-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >53</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863224" Creator="sscott" >
+<attribute name="Alias" >1475862534</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >63.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863214" Creator="sscott" >
+<attribute name="Alias" >1475862536</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:53:52-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >74</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863215" Creator="sscott" >
+<attribute name="Alias" >1475862538</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >84.5</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863225" Creator="sscott" >
+<attribute name="Alias" >1475862540</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:33-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >95</attribute>
+<attribute name="Ypos" >21.74</attribute>
+</item>
+<item ID="1475863226" Creator="sscott" >
+<attribute name="Alias" >1475862542</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:43-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475863201" Creator="sscott" >
+<attribute name="Alias" >1475862544</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:54:58-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475857203" Creator="sscott" >
+<attribute name="Alias" >1475857200</attribute>
+<attribute name="Created" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >21.5</attribute>
+<attribute name="Ypos" >24.1</attribute>
+</item>
+<item ID="1475863216" Creator="sscott" >
+<attribute name="Alias" >1475862546</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-07T10:55:09-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >24.1</attribute>
 </item>
 </agent>
 <item ID="1470757954" Creator="sscott" proto="pMap" >
@@ -5085,7 +5867,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Modified" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Name" >Hinduism</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Unit" >4</attribute>
 <attribute name="UnitName" >Hinduism</attribute>
 <attribute name="Xpos" >5.826713268</attribute>
@@ -5182,11 +5964,512 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Modified" >2016-10-05T14:43:16-07:00</attribute>
 <attribute name="Name" >The Gita (selections)</attribute>
 <attribute name="ResourceNumber" >8</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-hindu-gita-reading.pdf</attribute>
 <attribute name="Unit" >4</attribute>
 <attribute name="Xpos" >37.32671327</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
+</item>
+<item ID="1475857181" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Modified" >2016-10-07T08:56:09-07:00</attribute>
+<attribute name="Name" >Unit 4 Resources</attribute>
+<attribute name="ResourceNumber" >9</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1475857182" Creator="sscott" proto="pResource" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Modified" >2016-10-07T08:56:17-07:00</attribute>
+<attribute name="Name" >Unit 4 Vocabulary</attribute>
+<attribute name="OnAdd" >$Prototype=&quot;pVocabulary&quot;</attribute>
+<attribute name="ResourceNumber" >10</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="1475862496" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:48:27-07:00</attribute>
+<attribute name="Name" >Bhagavad Gita</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The Bhagavad Gita or simply &quot;Gita&quot; is part of the longer epic, the Mahabharata. The Gita is 700 verses, and is believed to have been written between the fifth and second centuries BCE. The Gita is considered smriti or remembered literature, not directly revealed by the divine.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4LAgAAKwAAAAEAAAADAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIEJoYWdhdmFkIEdpdGEgb3Igc2ltcGx5ICJHaXRhIiBpcyBwYXJ0IG9mIHRoZSBsb25nZXIgZXBpYywgdGhlIE1haGFiaGFyYXRhLiBUaGUgR2l0YSBpcyA3MDAgdmVyc2VzLCBhbmQgaXMgYmVsaWV2ZWQgdG8gaGF2ZSBiZWVuIHdyaXR0ZW4gYmV0d2VlbiB0aGUgZmlmdGggYW5kIHNlY29uZCBjZW50dXJpZXMgQkNFLiBUaGUgR2l0YSBpcyBjb25zaWRlcmVkIHNtcml0aSBvciByZW1lbWJlcmVkIGxpdGVyYXR1cmUsIG5vdCBkaXJlY3RseSByZXZlYWxlZCBieSB0aGUgZGl2aW5lLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADr3/dXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862498" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:48:57-07:00</attribute>
+<attribute name="Name" >bhakti</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The path of personal spiritual devotion, typically taking the form of prayer and meditation to and with one&apos;s chosen Ishta Devata, or personal deity. Bhakti typically takes place in the schools of Vaishnavism and Shaivism, the dominant forms of Hindu monotheism. Bhakti often leads practitioners to create home shrines and spend time at these places of devotion daily.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5mAgAAKwAAAAEAAABeAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIHBhdGggb2YgcGVyc29uYWwgc3Bpcml0dWFsIGRldm90aW9uLCB0eXBpY2FsbHkgdGFraW5nIHRoZSBmb3JtIG9mIHByYXllciBhbmQgbWVkaXRhdGlvbiB0byBhbmQgd2l0aCBvbmUncyBjaG9zZW4gSXNodGEgRGV2YXRhLCBvciBwZXJzb25hbCBkZWl0eS4gQmhha3RpIHR5cGljYWxseSB0YWtlcyBwbGFjZSBpbiB0aGUgc2Nob29scyBvZiBWYWlzaG5hdmlzbSBhbmQgU2hhaXZpc20sIHRoZSBkb21pbmFudCBmb3JtcyBvZiBIaW5kdSBtb25vdGhlaXNtLiBCaGFrdGkgb2Z0ZW4gbGVhZHMgcHJhY3RpdGlvbmVycyB0byBjcmVhdGUgaG9tZSBzaHJpbmVzIGFuZCBzcGVuZCB0aW1lIGF0IHRoZXNlIHBsYWNlcyBvZiBkZXZvdGlvbiBkYWlseS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAACeD3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475862500" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:49:10-07:00</attribute>
+<attribute name="Name" >Brahman</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The name given to the one source of all being, who is sometimes understood as a personal, involved God and sometimes as an impersonal principle. Although Hindu belief about Brahman is diverse, the term always refers to the ultimate, which exceeds all human conception.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4CAgAAKwAAAAEAAAD6AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIG5hbWUgZ2l2ZW4gdG8gdGhlIG9uZSBzb3VyY2Ugb2YgYWxsIGJlaW5nLCB3aG8gaXMgc29tZXRpbWVzIHVuZGVyc3Rvb2QgYXMgYSBwZXJzb25hbCwgaW52b2x2ZWQgR29kIGFuZCBzb21ldGltZXMgYXMgYW4gaW1wZXJzb25hbCBwcmluY2lwbGUuIEFsdGhvdWdoIEhpbmR1IGJlbGllZiBhYm91dCBCcmFobWFuIGlzIGRpdmVyc2UsIHRoZSB0ZXJtIGFsd2F5cyByZWZlcnMgdG8gdGhlIHVsdGltYXRlLCB3aGljaCBleGNlZWRzIGFsbCBodW1hbiBjb25jZXB0aW9uLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAW4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862502" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:49:21-07:00</attribute>
+<attribute name="Name" >Brahmin</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >21</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Refers to the Hindu priestly caste— those allowed to perform and govern religious ritual. One is born into the Brahmin caste and cannot join because of training, however, the number of non-Brahmin pujaris (trained priests) is increasing.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7mAQAAKwAAAAEAAADeAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgUmVmZXJzIHRvIHRoZSBIaW5kdSBwcmllc3RseSBjYXN0ZVwnOTcgdGhvc2UgYWxsb3dlZCB0byBwZXJmb3JtIGFuZCBnb3Zlcm4gcmVsaWdpb3VzIHJpdHVhbC4gT25lIGlzIGJvcm4gaW50byB0aGUgQnJhaG1pbiBjYXN0ZSBhbmQgY2Fubm90IGpvaW4gYmVjYXVzZSBvZiB0cmFpbmluZywgaG93ZXZlciwgdGhlIG51bWJlciBvZiBub24tQnJhaG1pbiBwdWphcmlzICh0cmFpbmVkIHByaWVzdHMpIGlzIGluY3JlYXNpbmcufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAACHg91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862504" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:49:40-07:00</attribute>
+<attribute name="Name" >caste</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >28</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >One&apos;s position in life inherited by birth. There have traditionally been four castes (priesty, warrior, trader, and laborer). Many were left out of the caste system altogether and were referred to as dalits, or untouchables—meaning filth or outcasts. Though the Indian government officially abolished the caste system, most Hindus still understand themselves in terms of caste.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5yAgAAKwAAAAEAAABqAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgT25lJ3MgcG9zaXRpb24gaW4gbGlmZSBpbmhlcml0ZWQgYnkgYmlydGguIFRoZXJlIGhhdmUgdHJhZGl0aW9uYWxseSBiZWVuIGZvdXIgY2FzdGVzIChwcmllc3R5LCB3YXJyaW9yLCB0cmFkZXIsIGFuZCBsYWJvcmVyKS4gTWFueSB3ZXJlIGxlZnQgb3V0IG9mIHRoZSBjYXN0ZSBzeXN0ZW0gYWx0b2dldGhlciBhbmQgd2VyZSByZWZlcnJlZCB0byBhcyBkYWxpdHMsIG9yIHVudG91Y2hhYmxlc1wnOTdtZWFuaW5nIGZpbHRoIG9yIG91dGNhc3RzLiBUaG91Z2ggdGhlIEluZGlhbiBnb3Zlcm5tZW50IG9mZmljaWFsbHkgYWJvbGlzaGVkIHRoZSBjYXN0ZSBzeXN0ZW0sIG1vc3QgSGluZHVzIHN0aWxsIHVuZGVyc3RhbmQgdGhlbXNlbHZlcyBpbiB0ZXJtcyBvZiBjYXN0ZS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAANOD3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475862506" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:50:48-07:00</attribute>
+<attribute name="Name" >dharma</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >35</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >A core concept of Hinduism, it means duty. Every person has a duty to follow the obli-gations and rites of his or her position. Because the concept of dharma is so strong, and because following one&apos;s dharma not only keeps the uni- verse going in an orderly direction but helps one escape from samsara, doing one&apos;s dharma according to caste perpetuates the caste system as people follow their duties according to his- torical group. Even though the caste system has been outlawed in today&apos;s society, it is voluntarily upheld by persons out of concern for attaining their religious ends.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4/AwAAKwAAAAEAAAA3AwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgQSBjb3JlIGNvbmNlcHQgb2YgSGluZHVpc20sIGl0IG1lYW5zIGR1dHkuIEV2ZXJ5IHBlcnNvbiBoYXMgYSBkdXR5IHRvIGZvbGxvdyB0aGUgb2JsaS1nYXRpb25zIGFuZCByaXRlcyBvZiBoaXMgb3IgaGVyIHBvc2l0aW9uLiBCZWNhdXNlIHRoZSBjb25jZXB0IG9mIGRoYXJtYSBpcyBzbyBzdHJvbmcsIGFuZCBiZWNhdXNlIGZvbGxvd2luZyBvbmUncyBkaGFybWEgbm90IG9ubHkga2VlcHMgdGhlIHVuaS0gdmVyc2UgZ29pbmcgaW4gYW4gb3JkZXJseSBkaXJlY3Rpb24gYnV0IGhlbHBzIG9uZSBlc2NhcGUgZnJvbSBzYW1zYXJhLCBkb2luZyBvbmUncyBkaGFybWEgYWNjb3JkaW5nIHRvIGNhc3RlIHBlcnBldHVhdGVzIHRoZSBjYXN0ZSBzeXN0ZW0gYXMgcGVvcGxlIGZvbGxvdyB0aGVpciBkdXRpZXMgYWNjb3JkaW5nIHRvIGhpcy0gdG9yaWNhbCBncm91cC4gRXZlbiB0aG91Z2ggdGhlIGNhc3RlIHN5c3RlbSBoYXMgYmVlbiBvdXRsYXdlZCBpbiB0b2RheSdzIHNvY2lldHksIGl0IGlzIHZvbHVudGFyaWx5IHVwaGVsZCBieSBwZXJzb25zIG91dCBvZiBjb25jZXJuIGZvciBhdHRhaW5pbmcgdGhlaXIgcmVsaWdpb3VzIGVuZHMufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAHjg91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862508" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:50:58-07:00</attribute>
+<attribute name="Name" >Devi</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >42</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The root form of every Hindu female goddess, to whom all trace their origin. In some forms of Hinduism, Devi is the supreme principle, while in others she is secondary understood as the energy of the male divine</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7JAQAAKwAAAAEAAADBAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIHJvb3QgZm9ybSBvZiBldmVyeSBIaW5kdSBmZW1hbGUgZ29kZGVzcywgdG8gd2hvbSBhbGwgdHJhY2UgdGhlaXIgb3JpZ2luLiBJbiBzb21lIGZvcm1zIG9mIEhpbmR1aXNtLCBEZXZpIGlzIHRoZSBzdXByZW1lIHByaW5jaXBsZSwgd2hpbGUgaW4gb3RoZXJzIHNoZSBpcyBzZWNvbmRhcnkgdW5kZXJzdG9vZCBhcyB0aGUgZW5lcmd5IG9mIHRoZSBtYWxlIGRpdmluZX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACC4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862510" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:57:49-07:00</attribute>
+<attribute name="Name" >jnana</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >49</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >A Vedic word literally meaning &quot;knowledge.&quot; In Hinduism it refers to the knowledge gained through mystical experience. This isknowledge of the self and of how the self is identical to Brahman or the principle of all reality Jnana is implicitly understood to be cosmic as well as self-knowledge.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4cAgAAKwAAAAEAAAAUAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgQSBWZWRpYyB3b3JkIGxpdGVyYWxseSBtZWFuaW5nICJrbm93bGVkZ2UuIiBJbiBIaW5kdWlzbSBpdCByZWZlcnMgdG8gdGhlIGtub3dsZWRnZSBnYWluZWQgdGhyb3VnaCBteXN0aWNhbCBleHBlcmllbmNlLiBUaGlzIGlza25vd2xlZGdlIG9mIHRoZSBzZWxmIGFuZCBvZiBob3cgdGhlIHNlbGYgaXMgaWRlbnRpY2FsIHRvIEJyYWhtYW4gb3IgdGhlIHByaW5jaXBsZSBvZiBhbGwgcmVhbGl0eSBKbmFuYSBpcyBpbXBsaWNpdGx5IHVuZGVyc3Rvb2QgdG8gYmUgY29zbWljIGFzIHdlbGwgYXMgc2VsZi1rbm93bGVkZ2UufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAB3i91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862512" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:51:23-07:00</attribute>
+<attribute name="Name" >karma</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >56</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Refers to one&apos;s actions and the necessary effects of that action. The whole of reality— samsara—is caused by the totality of karma. It determines one&apos;s rebirth, whether good or bad, and dictates one&apos;s future life. Good karma is understood to help one attain a better rebirth; bad karma leads one toward a lesser rebirth, so attaining good karma is a central concern of Hindu religion.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC58AgAAKwAAAAEAAAB0AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgUmVmZXJzIHRvIG9uZSdzIGFjdGlvbnMgYW5kIHRoZSBuZWNlc3NhcnkgZWZmZWN0cyBvZiB0aGF0IGFjdGlvbi4gVGhlIHdob2xlIG9mIHJlYWxpdHlcJzk3IHNhbXNhcmFcJzk3aXMgY2F1c2VkIGJ5IHRoZSB0b3RhbGl0eSBvZiBrYXJtYS4gSXQgZGV0ZXJtaW5lcyBvbmUncyByZWJpcnRoLCB3aGV0aGVyIGdvb2Qgb3IgYmFkLCBhbmQgZGljdGF0ZXMgb25lJ3MgZnV0dXJlIGxpZmUuIEdvb2Qga2FybWEgaXMgdW5kZXJzdG9vZCB0byBoZWxwIG9uZSBhdHRhaW4gYSBiZXR0ZXIgcmViaXJ0aDsgYmFkIGthcm1hIGxlYWRzIG9uZSB0b3dhcmQgYSBsZXNzZXIgcmViaXJ0aCwgc28gYXR0YWluaW5nIGdvb2Qga2FybWEgaXMgYSBjZW50cmFsIGNvbmNlcm4gb2YgSGluZHUgcmVsaWdpb24ufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAJvg91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862514" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:51:36-07:00</attribute>
+<attribute name="Name" >Laws of Manu</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >63</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >An ancient text (translated into English in the 1700s) that claims to dictate the laws of society from the mouth of Manu, the creator of all humankind. The Laws describe the proper roles, duties, and rights of all persons in society and claims a divine mandate for these behaviors and stratifications. Because of the text&apos;s harsh norms for women and untouchables, some contemporary Hindus resist its status as a divinely inspired text.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6pAgAAKwAAAAEAAAChAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgQW4gYW5jaWVudCB0ZXh0ICh0cmFuc2xhdGVkIGludG8gRW5nbGlzaCBpbiB0aGUgMTcwMHMpIHRoYXQgY2xhaW1zIHRvIGRpY3RhdGUgdGhlIGxhd3Mgb2Ygc29jaWV0eSBmcm9tIHRoZSBtb3V0aCBvZiBNYW51LCB0aGUgY3JlYXRvciBvZiBhbGwgaHVtYW5raW5kLiBUaGUgTGF3cyBkZXNjcmliZSB0aGUgcHJvcGVyIHJvbGVzLCBkdXRpZXMsIGFuZCByaWdodHMgb2YgYWxsIHBlcnNvbnMgaW4gc29jaWV0eSBhbmQgY2xhaW1zIGEgZGl2aW5lIG1hbmRhdGUgZm9yIHRoZXNlIGJlaGF2aW9ycyBhbmQgc3RyYXRpZmljYXRpb25zLiBCZWNhdXNlIG9mIHRoZSB0ZXh0J3MgaGFyc2ggbm9ybXMgZm9yIHdvbWVuIGFuZCB1bnRvdWNoYWJsZXMsIHNvbWUgY29udGVtcG9yYXJ5IEhpbmR1cyByZXNpc3QgaXRzIHN0YXR1cyBhcyBhIGRpdmluZWx5IGluc3BpcmVkIHRleHQufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAKjg91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862516" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:51:44-07:00</attribute>
+<attribute name="Name" >maya</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >70</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The state of illusion or ignorance, in which persons believe reality is dual. Duality refers to a difference or division between that which is finite and that which is divine or ultimate.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6xAQAAKwAAAAEAAACpAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIHN0YXRlIG9mIGlsbHVzaW9uIG9yIGlnbm9yYW5jZSwgaW4gd2hpY2ggcGVyc29ucyBiZWxpZXZlIHJlYWxpdHkgaXMgZHVhbC4gRHVhbGl0eSByZWZlcnMgdG8gYSBkaWZmZXJlbmNlIG9yIGRpdmlzaW9uIGJldHdlZW4gdGhhdCB3aGljaCBpcyBmaW5pdGUgYW5kIHRoYXQgd2hpY2ggaXMgZGl2aW5lIG9yIHVsdGltYXRlLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACw4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862518" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:51:52-07:00</attribute>
+<attribute name="Name" >moksha</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >77</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The desired religious end in Hinduism.  Liberation from samsara, the cycle of rebirth</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5LAQAAKwAAAAEAAABDAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIGRlc2lyZWQgcmVsaWdpb3VzIGVuZCBpbiBIaW5kdWlzbS4gIExpYmVyYXRpb24gZnJvbSBzYW1zYXJhLCB0aGUgY3ljbGUgb2YgcmViaXJ0aH0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAC44PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862520" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:52:04-07:00</attribute>
+<attribute name="Name" >Nirguna</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >84</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Part of the term Nirguna Brahman or Brahman without qualities. Nirguna is the pure, actual being of Brahman, which cannot be thought and is beyond all human categories.Nirguna Brahman serves as a placeholder for an infinite reality that cannot be conceptualized, rather than as a positive concept. Some Hindu mystics claim to have experiences of Nirguna Brahman, or Brahman beyond qualities.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC59AgAAKwAAAAEAAAB1AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgUGFydCBvZiB0aGUgdGVybSBOaXJndW5hIEJyYWhtYW4gb3IgQnJhaG1hbiB3aXRob3V0IHF1YWxpdGllcy4gTmlyZ3VuYSBpcyB0aGUgcHVyZSwgYWN0dWFsIGJlaW5nIG9mIEJyYWhtYW4sIHdoaWNoIGNhbm5vdCBiZSB0aG91Z2h0IGFuZCBpcyBiZXlvbmQgYWxsIGh1bWFuIGNhdGVnb3JpZXMuTmlyZ3VuYSBCcmFobWFuIHNlcnZlcyBhcyBhIHBsYWNlaG9sZGVyIGZvciBhbiBpbmZpbml0ZSByZWFsaXR5IHRoYXQgY2Fubm90IGJlIGNvbmNlcHR1YWxpemVkLCByYXRoZXIgdGhhbiBhcyBhIHBvc2l0aXZlIGNvbmNlcHQuIFNvbWUgSGluZHUgbXlzdGljcyBjbGFpbSB0byBoYXZlIGV4cGVyaWVuY2VzIG9mIE5pcmd1bmEgQnJhaG1hbiwgb3IgQnJhaG1hbiBiZXlvbmQgcXVhbGl0aWVzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADE4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862522" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:52:15-07:00</attribute>
+<attribute name="Name" >prasad</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >91</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >A gift offered to a deity. Most commonly prasad is the food placed at the feet of a statue of a god and then consumed by devotees with the understanding that food is now blessed.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6oAQAAKwAAAAEAAACgAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgQSBnaWZ0IG9mZmVyZWQgdG8gYSBkZWl0eS4gTW9zdCBjb21tb25seSBwcmFzYWQgaXMgdGhlIGZvb2QgcGxhY2VkIGF0IHRoZSBmZWV0IG9mIGEgc3RhdHVlIG9mIGEgZ29kIGFuZCB0aGVuIGNvbnN1bWVkIGJ5IGRldm90ZWVzIHdpdGggdGhlIHVuZGVyc3RhbmRpbmcgdGhhdCBmb29kIGlzIG5vdyBibGVzc2VkLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADP4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862524" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:52:23-07:00</attribute>
+<attribute name="Name" >puja</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >98</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >A religious ritual that involves making an offering to a god or goddess and receiving blessings in return. Pujas can take place at home, in temples, and at major festivals.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6iAQAAKwAAAAEAAACaAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgQSByZWxpZ2lvdXMgcml0dWFsIHRoYXQgaW52b2x2ZXMgbWFraW5nIGFuIG9mZmVyaW5nIHRvIGEgZ29kIG9yIGdvZGRlc3MgYW5kIHJlY2VpdmluZyBibGVzc2luZ3MgaW4gcmV0dXJuLiBQdWphcyBjYW4gdGFrZSBwbGFjZSBhdCBob21lLCBpbiB0ZW1wbGVzLCBhbmQgYXQgbWFqb3IgZmVzdGl2YWxzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADX4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862526" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:52:46-07:00</attribute>
+<attribute name="Name" >samsara</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >105</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The cycle of all being- birth, death, and rebirth. Samsara is that which one seeks to escape through liberation or moksha</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5vAQAAKwAAAAEAAABnAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIGN5Y2xlIG9mIGFsbCBiZWluZy0gYmlydGgsIGRlYXRoLCBhbmQgcmViaXJ0aC4gU2Ftc2FyYSBpcyB0aGF0IHdoaWNoIG9uZSBzZWVrcyB0byBlc2NhcGUgdGhyb3VnaCBsaWJlcmF0aW9uIG9yIG1va3NoYX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADu4PdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862528" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:53:08-07:00</attribute>
+<attribute name="Name" >sanatana dharma</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >112</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Sanatana literally means eternal, and dharma literally means &quot;duty.&quot; Enghsh has no satisfactory equivalent for this term, which means much more than the sum of its two constituent parts. Sanatana dharma refers to everything that exists, pointing to all being as part of the unfolding of the universe according to the being and will of the ultimate, Brahman. By following one&apos;s dharma or duty, one participates in sanatana dharma in a heightened, more deliberate way. All persons are called to intentionally participate in sanatana dharma as the way to attain moksha, or liberation from the cycle of rebirth.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5VAwAAKwAAAAEAAABNAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgU2FuYXRhbmEgbGl0ZXJhbGx5IG1lYW5zIGV0ZXJuYWwsIGFuZCBkaGFybWEgbGl0ZXJhbGx5IG1lYW5zICJkdXR5LiIgRW5naHNoIGhhcyBubyBzYXRpc2ZhY3RvcnkgZXF1aXZhbGVudCBmb3IgdGhpcyB0ZXJtLCB3aGljaCBtZWFucyBtdWNoIG1vcmUgdGhhbiB0aGUgc3VtIG9mIGl0cyB0d28gY29uc3RpdHVlbnQgcGFydHMuIFNhbmF0YW5hIGRoYXJtYSByZWZlcnMgdG8gZXZlcnl0aGluZyB0aGF0IGV4aXN0cywgcG9pbnRpbmcgdG8gYWxsIGJlaW5nIGFzIHBhcnQgb2YgdGhlIHVuZm9sZGluZyBvZiB0aGUgdW5pdmVyc2UgYWNjb3JkaW5nIHRvIHRoZSBiZWluZyBhbmQgd2lsbCBvZiB0aGUgdWx0aW1hdGUsIEJyYWhtYW4uIEJ5IGZvbGxvd2luZyBvbmUncyBkaGFybWEgb3IgZHV0eSwgb25lIHBhcnRpY2lwYXRlcyBpbiBzYW5hdGFuYSBkaGFybWEgaW4gYSBoZWlnaHRlbmVkLCBtb3JlIGRlbGliZXJhdGUgd2F5LiBBbGwgcGVyc29ucyBhcmUgY2FsbGVkIHRvIGludGVudGlvbmFsbHkgcGFydGljaXBhdGUgaW4gc2FuYXRhbmEgZGhhcm1hIGFzIHRoZSB3YXkgdG8gYXR0YWluIG1va3NoYSwgb3IgbGliZXJhdGlvbiBmcm9tIHRoZSBjeWNsZSBvZiByZWJpcnRoLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAE4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862530" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:53:25-07:00</attribute>
+<attribute name="Name" >sannyasa</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >119</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The last stage of life in which a person renounces the world, cultivating an attitude of detachment. Ordinarily, persons over fifty take on the role of Sannyasin (male) or Sannyasi (female). Hinduism defines various stages of life and activities appropriate to each. Sannyasa is the last of these stages.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4mAgAAKwAAAAEAAAAeAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIGxhc3Qgc3RhZ2Ugb2YgbGlmZSBpbiB3aGljaCBhIHBlcnNvbiByZW5vdW5jZXMgdGhlIHdvcmxkLCBjdWx0aXZhdGluZyBhbiBhdHRpdHVkZSBvZiBkZXRhY2htZW50LiBPcmRpbmFyaWx5LCBwZXJzb25zIG92ZXIgZmlmdHkgdGFrZSBvbiB0aGUgcm9sZSBvZiBTYW5ueWFzaW4gKG1hbGUpIG9yIFNhbm55YXNpIChmZW1hbGUpLiBIaW5kdWlzbSBkZWZpbmVzIHZhcmlvdXMgc3RhZ2VzIG9mIGxpZmUgYW5kIGFjdGl2aXRpZXMgYXBwcm9wcmlhdGUgdG8gZWFjaC4gU2Fubnlhc2EgaXMgdGhlIGxhc3Qgb2YgdGhlc2Ugc3RhZ2VzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAV4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862532" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:53:34-07:00</attribute>
+<attribute name="Name" >Shaivism</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >126</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The form of Hindu practice and worship focusing on Shiva as Lord and ultimate principle of being. Like other types of Hinduism that understand Brahman as personal, Shaivism is characterized by regular bhakti worship in the home, at festivals, and in pujas.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC72AQAAKwAAAAEAAADuAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIGZvcm0gb2YgSGluZHUgcHJhY3RpY2UgYW5kIHdvcnNoaXAgZm9jdXNpbmcgb24gU2hpdmEgYXMgTG9yZCBhbmQgdWx0aW1hdGUgcHJpbmNpcGxlIG9mIGJlaW5nLiBMaWtlIG90aGVyIHR5cGVzIG9mIEhpbmR1aXNtIHRoYXQgdW5kZXJzdGFuZCBCcmFobWFuIGFzIHBlcnNvbmFsLCBTaGFpdmlzbSBpcyBjaGFyYWN0ZXJpemVkIGJ5IHJlZ3VsYXIgYmhha3RpIHdvcnNoaXAgaW4gdGhlIGhvbWUsIGF0IGZlc3RpdmFscywgYW5kIGluIHB1amFzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAe4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862534" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:53:43-07:00</attribute>
+<attribute name="Name" >Shaktism</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >133</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Shaktism is the Hindu practice of worshipping Brahman understood as the divine mother. In Shaktism, all other male and female gods are understood as manifestations of the ultimate Devi, or female divine. Since the Paleolithic era more than 22,000 years ago, archaeological evidence shows that devotion to the absolute understood as divine feminine has existed as a major tradition within Indian religion. Today Shaktism continues as a widespread devotional understanding of the divine, and various bhakti devotions, especially to female gods, are practiced as forms of shaktism.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC44AwAAKwAAAAEAAAAwAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgU2hha3Rpc20gaXMgdGhlIEhpbmR1IHByYWN0aWNlIG9mIHdvcnNoaXBwaW5nIEJyYWhtYW4gdW5kZXJzdG9vZCBhcyB0aGUgZGl2aW5lIG1vdGhlci4gSW4gU2hha3Rpc20sIGFsbCBvdGhlciBtYWxlIGFuZCBmZW1hbGUgZ29kcyBhcmUgdW5kZXJzdG9vZCBhcyBtYW5pZmVzdGF0aW9ucyBvZiB0aGUgdWx0aW1hdGUgRGV2aSwgb3IgZmVtYWxlIGRpdmluZS4gU2luY2UgdGhlIFBhbGVvbGl0aGljIGVyYSBtb3JlIHRoYW4gMjIsMDAwIHllYXJzIGFnbywgYXJjaGFlb2xvZ2ljYWwgZXZpZGVuY2Ugc2hvd3MgdGhhdCBkZXZvdGlvbiB0byB0aGUgYWJzb2x1dGUgdW5kZXJzdG9vZCBhcyBkaXZpbmUgZmVtaW5pbmUgaGFzIGV4aXN0ZWQgYXMgYSBtYWpvciB0cmFkaXRpb24gd2l0aGluIEluZGlhbiByZWxpZ2lvbi4gVG9kYXkgU2hha3Rpc20gY29udGludWVzIGFzIGEgd2lkZXNwcmVhZCBkZXZvdGlvbmFsIHVuZGVyc3RhbmRpbmcgb2YgdGhlIGRpdmluZSwgYW5kIHZhcmlvdXMgYmhha3RpIGRldm90aW9ucywgZXNwZWNpYWxseSB0byBmZW1hbGUgZ29kcywgYXJlIHByYWN0aWNlZCBhcyBmb3JtcyBvZiBzaGFrdGlzbS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAJ+H3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475862536" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:53:52-07:00</attribute>
+<attribute name="Name" >shruti</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >140</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Meaning &quot;what is heard,&quot; it refers to the status of Hindu sacred texts believed to be authored or inspired by Brahman. Shruti texts are the most authoritative and are earlier than smriti.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6xAQAAKwAAAAEAAACpAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgTWVhbmluZyAid2hhdCBpcyBoZWFyZCwiIGl0IHJlZmVycyB0byB0aGUgc3RhdHVzIG9mIEhpbmR1IHNhY3JlZCB0ZXh0cyBiZWxpZXZlZCB0byBiZSBhdXRob3JlZCBvciBpbnNwaXJlZCBieSBCcmFobWFuLiBTaHJ1dGkgdGV4dHMgYXJlIHRoZSBtb3N0IGF1dGhvcml0YXRpdmUgYW5kIGFyZSBlYXJsaWVyIHRoYW4gc21yaXRpLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAw4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862538" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:54:09-07:00</attribute>
+<attribute name="Name" >smriti</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >147</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Variously translated as &quot;tradition,&quot; &quot;remembrance,&quot; and &quot;remembering,&quot; the term refers to Hindu sacred texts that, although important, are considered secondary to shruti (inspired) texts. Unlike shruti texts, smriti texts were not given directly by Brahman. They were all composed after the Vedas, Hinduism&apos;s primary sacred texts.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5AAgAAKwAAAAEAAAA4AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVmFyaW91c2x5IHRyYW5zbGF0ZWQgYXMgInRyYWRpdGlvbiwiICJyZW1lbWJyYW5jZSwiIGFuZCAicmVtZW1iZXJpbmcsIiB0aGUgdGVybSByZWZlcnMgdG8gSGluZHUgc2FjcmVkIHRleHRzIHRoYXQsIGFsdGhvdWdoIGltcG9ydGFudCwgYXJlIGNvbnNpZGVyZWQgc2Vjb25kYXJ5IHRvIHNocnV0aSAoaW5zcGlyZWQpIHRleHRzLiBVbmxpa2Ugc2hydXRpIHRleHRzLCBzbXJpdGkgdGV4dHMgd2VyZSBub3QgZ2l2ZW4gZGlyZWN0bHkgYnkgQnJhaG1hbi4gVGhleSB3ZXJlIGFsbCBjb21wb3NlZCBhZnRlciB0aGUgVmVkYXMsIEhpbmR1aXNtJ3MgcHJpbWFyeSBzYWNyZWQgdGV4dHMufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEHh91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862540" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:54:33-07:00</attribute>
+<attribute name="Name" >Upanishads</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >154</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Philosophical commentary on the Vedas, or revealed knowledge. They are often referred to as &quot;Vedanta” or the end of the Veda.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC52AQAAKwAAAAEAAABuAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgUGhpbG9zb3BoaWNhbCBjb21tZW50YXJ5IG9uIHRoZSBWZWRhcywgb3IgcmV2ZWFsZWQga25vd2xlZGdlLiBUaGV5IGFyZSBvZnRlbiByZWZlcnJlZCB0byBhcyAiVmVkYW50YVwnOTQgb3IgdGhlIGVuZCBvZiB0aGUgVmVkYS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAWeH3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475862542" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:54:43-07:00</attribute>
+<attribute name="Name" >Vaishnavism</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >161</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The form of Hindu practice and worship focusing on Vishnu as the supreme Lord and creator. Like other forms of Hinduism that understand Brahman as personal, Vaishnavism is characterized by regular bhakti devotion both in the home and at festivals, as well as pujas.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7/AQAAKwAAAAEAAAD3AQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIGZvcm0gb2YgSGluZHUgcHJhY3RpY2UgYW5kIHdvcnNoaXAgZm9jdXNpbmcgb24gVmlzaG51IGFzIHRoZSBzdXByZW1lIExvcmQgYW5kIGNyZWF0b3IuIExpa2Ugb3RoZXIgZm9ybXMgb2YgSGluZHVpc20gdGhhdCB1bmRlcnN0YW5kIEJyYWhtYW4gYXMgcGVyc29uYWwsIFZhaXNobmF2aXNtIGlzIGNoYXJhY3Rlcml6ZWQgYnkgcmVndWxhciBiaGFrdGkgZGV2b3Rpb24gYm90aCBpbiB0aGUgaG9tZSBhbmQgYXQgZmVzdGl2YWxzLCBhcyB3ZWxsIGFzIHB1amFzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABj4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862544" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:54:58-07:00</attribute>
+<attribute name="Name" >Vedas</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >168</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The oldest Hindu scriptures, composed in Sanskrit, they are believed to be directly revealed by Brahman and are thus referred to as shruti, or &quot;what is heard.&quot;</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6VAQAAKwAAAAEAAACNAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhlIG9sZGVzdCBIaW5kdSBzY3JpcHR1cmVzLCBjb21wb3NlZCBpbiBTYW5za3JpdCwgdGhleSBhcmUgYmVsaWV2ZWQgdG8gYmUgZGlyZWN0bHkgcmV2ZWFsZWQgYnkgQnJhaG1hbiBhbmQgYXJlIHRodXMgcmVmZXJyZWQgdG8gYXMgc2hydXRpLCBvciAid2hhdCBpcyBoZWFyZC4ifQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAHLh91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475862546" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:48:14-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:55:09-07:00</attribute>
+<attribute name="Name" >yoga</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >175</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >This term can refer to many forms of spiritual, physical, and mental practice, among them bhakti yoga, karma yoga, raja yoga, and jnana yoga. Yoga has been important in Hinduism as a way of centering one&apos;s self and attaining moksha, or liberation.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7tAQAAKwAAAAEAAADlAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgVGhpcyB0ZXJtIGNhbiByZWZlciB0byBtYW55IGZvcm1zIG9mIHNwaXJpdHVhbCwgcGh5c2ljYWwsIGFuZCBtZW50YWwgcHJhY3RpY2UsIGFtb25nIHRoZW0gYmhha3RpIHlvZ2EsIGthcm1hIHlvZ2EsIHJhamEgeW9nYSwgYW5kIGpuYW5hIHlvZ2EuIFlvZ2EgaGFzIGJlZW4gaW1wb3J0YW50IGluIEhpbmR1aXNtIGFzIGEgd2F5IG9mIGNlbnRlcmluZyBvbmUncyBzZWxmIGFuZCBhdHRhaW5pbmcgbW9rc2hhLCBvciBsaWJlcmF0aW9uLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAB94fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475862967" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:56:06-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:56:20-07:00</attribute>
+<attribute name="Name" >ahimsa</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >178.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The principle of nonviolence</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4lAQAAKwAAAAEAAAAdAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoZSBwcmluY2lwbGUgb2Ygbm9udmlvbGVuY2V9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAxOH3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475862996" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:56:35-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:56:38-07:00</attribute>
+<attribute name="Name" >guru</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >182</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >a teacher or master of a particular religious tradition; a person who helps people live in alignment with dharma</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC55AQAAKwAAAAEAAABxAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIGEgdGVhY2hlciBvciBtYXN0ZXIgb2YgYSBwYXJ0aWN1bGFyIHJlbGlnaW91cyB0cmFkaXRpb247IGEgcGVyc29uIHdobyBoZWxwcyBwZW9wbGUgbGl2ZSBpbiBhbGlnbm1lbnQgd2l0aCBkaGFybWF9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA1uH3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475863019" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:56:58-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:57:05-07:00</attribute>
+<attribute name="Name" >hatha yoga</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >185.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The Yoga of purification. This is the Yoga most familiar in the west, the Yoga of postures, relaxation, and diet.
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7PAQAAKwAAAAEAAADHAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoZSBZb2dhIG9mIHB1cmlmaWNhdGlvbi4gVGhpcyBpcyB0aGUgWW9nYSBtb3N0IGZhbWlsaWFyIGluIHRoZSB3ZXN0LCB0aGUgWW9nYSBvZiBwb3N0dXJlcywgcmVsYXhhdGlvbiwgYW5kIGRpZXQuXApccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADx4fdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475863045" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:57:24-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:57:32-07:00</attribute>
+<attribute name="Name" >Jnana yoga</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >189</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The Yoga of wisdom or the Path of Knowledge. This stresses studying the psychological and philosophical literature, striving for the attainment of Right Views. These right views include realizing Atman.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7TAQAAKwAAAAEAAADLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoZSBZb2dhIG9mIHdpc2RvbSBvciB0aGUgUGF0aCBvZiBLbm93bGVkZ2UuIFRoaXMgc3RyZXNzZXMgc3R1ZHlpbmcgdGhlIHBzeWNob2xvZ2ljYWwgYW5kIHBoaWxvc29waGljYWwgbGl0ZXJhdHVyZSwgc3RyaXZpbmcgZm9yIHRoZSBhdHRhaW5tZW50IG9mIFJpZ2h0IFZpZXdzLiBUaGVzZSByaWdodCB2aWV3cyBpbmNsdWRlIHJlYWxpemluZyBBdG1hbi59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAADOL3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475863086" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:58:05-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:58:11-07:00</attribute>
+<attribute name="Name" >Bhakti Yoga</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >192.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The Yoga of devotion. Atman is to be realized in direct attempts at communing with deity. Inner change is sought directly through prayer or religious ecstasy.The Yoga of devotion. Atman is to be realized in direct attempts at communing with deity. Inner change is sought directly through prayer or religious ecstasy.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5FAgAAKwAAAAEAAAA9AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoZSBZb2dhIG9mIGRldm90aW9uLiBBdG1hbiBpcyB0byBiZSByZWFsaXplZCBpbiBkaXJlY3QgYXR0ZW1wdHMgYXQgY29tbXVuaW5nIHdpdGggZGVpdHkuIElubmVyIGNoYW5nZSBpcyBzb3VnaHQgZGlyZWN0bHkgdGhyb3VnaCBwcmF5ZXIgb3IgcmVsaWdpb3VzIGVjc3Rhc3kuVGhlIFlvZ2Egb2YgZGV2b3Rpb24uIEF0bWFuIGlzIHRvIGJlIHJlYWxpemVkIGluIGRpcmVjdCBhdHRlbXB0cyBhdCBjb21tdW5pbmcgd2l0aCBkZWl0eS4gSW5uZXIgY2hhbmdlIGlzIHNvdWdodCBkaXJlY3RseSB0aHJvdWdoIHByYXllciBvciByZWxpZ2lvdXMgZWNzdGFzeS59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAM+L3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475863105" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:58:24-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:58:37-07:00</attribute>
+<attribute name="Name" >Karma Yoga</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >196</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >The Yoga of action. One immerses oneself in higher social purposes. Mahatma Gandhi, in his selfless, fearless pursuit of social justice, exemplified Karma Yoga</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6oAQAAKwAAAAEAAACgAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIFRoZSBZb2dhIG9mIGFjdGlvbi4gT25lIGltbWVyc2VzIG9uZXNlbGYgaW4gaGlnaGVyIHNvY2lhbCBwdXJwb3Nlcy4gTWFoYXRtYSBHYW5kaGksIGluIGhpcyBzZWxmbGVzcywgZmVhcmxlc3MgcHVyc3VpdCBvZiBzb2NpYWwganVzdGljZSwgZXhlbXBsaWZpZWQgS2FybWEgWW9nYX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABN4vdXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1475857187" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Modified" >2016-10-07T08:56:36-07:00</attribute>
+<attribute name="Name" >Amma</attribute>
+<attribute name="Person" >true</attribute>
+<attribute name="ResourceNumber" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="thumb_img" >https://dl.dropboxusercontent.com/u/916107/teachdocs/amma-img.png</attribute>
+</item>
+<item ID="1475857194" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Modified" >2016-10-07T09:00:58-07:00</attribute>
+<attribute name="Name" >Gandhi</attribute>
+<attribute name="Person" >true</attribute>
+<attribute name="ResourceNumber" >2</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="thumb_img" >https://dl.dropboxusercontent.com/u/916107/teachdocs/gandhi-img.png</attribute>
+</item>
+<item ID="1475857200" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T09:06:39-07:00</attribute>
+<attribute name="Modified" >2016-10-07T09:11:52-07:00</attribute>
+<attribute name="Name" >Vivekananda</attribute>
+<attribute name="Person" >true</attribute>
+<attribute name="ResourceNumber" >2</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="thumb_img" >https://dl.dropboxusercontent.com/u/916107/teachdocs/vivekananda-img.png</attribute>
+<text >Guru and Hindu scholar. He spread Vedanta and yoga to the West</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC40AQAAKwAAAAEAAAAsAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgR3VydSBhbmQgSGluZHUgc2Nob2xhci4gSGUgc3ByZWFkIFZlZGFudGEgYW5kIHlvZ2EgdG8gdGhlIFdlc3R9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAASMn3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475857204" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T09:11:06-07:00</attribute>
+<attribute name="Modified" >2016-10-07T09:17:18-07:00</attribute>
+<attribute name="Name" >Ramakrishna</attribute>
+<attribute name="Person" >true</attribute>
+<attribute name="ResourceNumber" >2</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<attribute name="thumb_img" >https://dl.dropboxusercontent.com/u/916107/teachdocs/ramakrishna-img.png</attribute>
+<text >Influential Hindu mystic and yogi who promoted the idea that there are many paths to God.  He saw Jesus and Buddha as incarnations of God and venerated the ten Sikh Gurus.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6hAQAAKwAAAAEAAACZAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgSW5mbHVlbnRpYWwgSGluZHUgbXlzdGljIGFuZCB5b2dpIHdobyBwcm9tb3RlZCB0aGUgaWRlYSB0aGF0IHRoZXJlIGFyZSBtYW55IHBhdGhzIHRvIEdvZC4gIEhlIHNhdyBKZXN1cyBhbmQgQnVkZGhhIGFzIGluY2FybmF0aW9ucyBvZiBHb2QgYW5kIHZlbmVyYXRlZCB0aGUgdGVuIFNpa2ggR3VydXMufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAI7K91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1475859537" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T09:58:56-07:00</attribute>
+<attribute name="Modified" >2016-10-07T09:59:21-07:00</attribute>
+<attribute name="Name" >Advaita Vedanta</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >One of the most influential and philosophical schools of Hindu thought. Advaita refers to the relationship of identity between the self and Brahman. Shankara and Ramanuja rank among Advaita&apos;s most influential figures.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7TAQAAKwAAAAEAAADLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzLVJvbWFuO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDQ0MFxzYTI0MFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjQgXGNmMCBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwCk9uZSBvZiB0aGUgbW9zdCBpbmZsdWVudGlhbCBhbmQgcGhpbG9zb3BoaWNhbCBzY2hvb2xzIG9mIEhpbmR1IHRob3VnaHQuIEFkdmFpdGEgcmVmZXJzIHRvIHRoZSByZWxhdGlvbnNoaXAgb2YgaWRlbnRpdHkgYmV0d2VlbiB0aGUgc2VsZiBhbmQgQnJhaG1hbi4gU2hhbmthcmEgYW5kIFJhbWFudWphIHJhbmsgYW1vbmcgQWR2YWl0YSdzIG1vc3QgaW5mbHVlbnRpYWwgZmlndXJlcy59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAadT3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475859620" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:00:19-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:00:27-07:00</attribute>
+<attribute name="Name" >atman</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >17.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >atman &quot;Self&quot; in Sanskrit, or the principle of differentiation. The wisdom that &quot;atman is Brahman&quot; is emphasized in much Advaita Vedanta, meaning that what makes the self real is its identity with the source of all reality or the divine</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC70AQAAKwAAAAEAAADsAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIGF0bWFuICJTZWxmIiBpbiBTYW5za3JpdCwgb3IgdGhlIHByaW5jaXBsZSBvZiBkaWZmZXJlbnRpYXRpb24uIFRoZSB3aXNkb20gdGhhdCAiYXRtYW4gaXMgQnJhaG1hbiIgaXMgZW1waGFzaXplZCBpbiBtdWNoIEFkdmFpdGEgVmVkYW50YSwgbWVhbmluZyB0aGF0IHdoYXQgbWFrZXMgdGhlIHNlbGYgcmVhbCBpcyBpdHMgaWRlbnRpdHkgd2l0aCB0aGUgc291cmNlIG9mIGFsbCByZWFsaXR5IG9yIHRoZSBkaXZpbmV9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAq9T3V7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1475859638" Creator="sscott" proto="pVocabulary" >
+<attribute name="CourseName" >ROW</attribute>
+<attribute name="Created" >2016-10-07T10:00:37-07:00</attribute>
+<attribute name="Modified" >2016-10-07T10:00:58-07:00</attribute>
+<attribute name="Name" >avatar</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Unit" >4</attribute>
+<attribute name="Xpos" >21</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >An appearance or manifestation of the divine. Avatars may also be called incarnations, though the significance of an incarnation is not that it is the unique or highest manifestation of the divine.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7OAQAAKwAAAAEAAADGAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIEFuIGFwcGVhcmFuY2Ugb3IgbWFuaWZlc3RhdGlvbiBvZiB0aGUgZGl2aW5lLiBBdmF0YXJzIG1heSBhbHNvIGJlIGNhbGxlZCBpbmNhcm5hdGlvbnMsIHRob3VnaCB0aGUgc2lnbmlmaWNhbmNlIG9mIGFuIGluY2FybmF0aW9uIGlzIG5vdCB0aGF0IGl0IGlzIHRoZSB1bmlxdWUgb3IgaGlnaGVzdCBtYW5pZmVzdGF0aW9uIG9mIHRoZSBkaXZpbmUufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAMrU91e2AQAAAAAAAAAAAAA=</rtfd>
+</item>
 </item>
 </item>
 <item ID="1470758008" Creator="sscott" proto="pUnit" >
@@ -5288,7 +6571,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="MapScrollY" >10.0980488</attribute>
 <attribute name="Modified" >2016-08-27T08:20:39-07:00</attribute>
 <attribute name="Name" >ROW Notes</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >2.326713268</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
 <item ID="1472312020" Creator="sscott" >
@@ -15913,6 +17196,47 @@ This is cool!</text>
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475703275" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475703797" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475703852" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857182" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857181" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857187" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857194" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857200" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475857204" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475859537" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475859620" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475859638" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862496" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862498" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862500" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862502" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862504" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862506" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862508" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862510" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862512" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862514" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862516" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862518" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862520" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862522" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862524" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862526" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862528" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862530" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862532" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862534" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862536" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862538" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862540" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862542" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862544" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862546" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862967" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475862996" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475863019" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475863045" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475863086" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470710517" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1475863105" destcreator="sscott" color="#993333"  />
 </links>
 <macros >
 </macros>
@@ -16025,7 +17349,7 @@ This is cool!</text>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1140</InspectorX>
-<InspectorY > 377</InspectorY>
+<InspectorY > 311</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -16066,9 +17390,9 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 359 34 1265 877]" ruler="1" >
+<window bounds="Rect[ 78 7 1081 877]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="90" selection="1475703797 " expanded="1470675565 1470952599 1470757954 1470758032 1473282640 1470758003 1470675553 1474425366 1475701373 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.46468" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="Name" scale="40.458" ID="1470675520" scrollX="0" scrollY="1277" selection="1475859638 " expanded="1470675565 1470952599 1470757954 1470758032 1473282640 1470758003 1475857182 1475861153 1475862495 1470675553 1474425366 1475701373 1472495516 1470751210 1473788950 " textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.464606" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="21.4893" ID="1473302698" scrollX="471" scrollY="549.5" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490754" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1473276981" scrollX="1037" scrollY="506" selection="" expanded="1473302692 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.00640114" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
