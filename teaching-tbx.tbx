@@ -849,7 +849,7 @@
 <attribute name="Modified" >2016-08-08T09:59:24-07:00</attribute>
 <attribute name="Name" >ROW</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >112</attribute>
+<attribute name="SelectionCount" >113</attribute>
 <attribute name="Width" >17.24878072</attribute>
 <attribute name="Xpos" >-19.40617737</attribute>
 <attribute name="Year" >2016</attribute>
@@ -1458,11 +1458,10 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-08-11T14:56:40-07:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
 <attribute name="EndDate" >2016-10-21T14:34:00-07:00</attribute>
-<attribute name="HTMLDontExport" >true</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:56:40-07:00</attribute>
 <attribute name="Name" >10</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="StartDate" >2016-10-17T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >10</attribute>
 <attribute name="Width" >7</attribute>
@@ -5572,7 +5571,7 @@ Graded conversation on Gita</text>
 <attribute name="MapScrollY" >13.56962776</attribute>
 <attribute name="Modified" >2016-08-09T08:52:33-07:00</attribute>
 <attribute name="Name" >row-map</attribute>
-<attribute name="SelectionCount" >49</attribute>
+<attribute name="SelectionCount" >50</attribute>
 <attribute name="Xpos" >-4.673286732</attribute>
 <attribute name="Ypos" >4.968384229</attribute>
 <item ID="1470757981" Creator="sscott" proto="pUnit" >
@@ -6863,7 +6862,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Modified" >2016-08-09T08:53:22-07:00</attribute>
 <attribute name="Name" >Hinduism</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Unit" >4</attribute>
 <attribute name="UnitName" >Hinduism</attribute>
 <attribute name="Xpos" >5.826713268</attribute>
@@ -6958,7 +6957,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-10-05T14:44:11-07:00</attribute>
 <attribute name="Name" >Gita Lecture Notes</attribute>
 <attribute name="ResourceNumber" >7</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="URL" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-gita-lecture-notes.pdf</attribute>
 <attribute name="Unit" >4</attribute>
 <attribute name="Xpos" >40.82671327</attribute>
@@ -8031,7 +8030,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-09-09T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-08-30T14:36:28-07:00</attribute>
 <attribute name="Name" >4</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="StartDate" >2016-09-05T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >4</attribute>
 <attribute name="Xpos" >27.11523956</attribute>
@@ -8252,7 +8251,7 @@ Insider Perspective
 <attribute name="EndDate" >2016-10-14T14:34:00-07:00</attribute>
 <attribute name="Modified" >2016-10-05T13:40:20-07:00</attribute>
 <attribute name="Name" >9</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="StartDate" >2016-10-10T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >9</attribute>
 <attribute name="Xpos" >44.61523956</attribute>
@@ -8278,6 +8277,43 @@ Insider Perspective
 <attribute name="Name" >Class 9-2</attribute>
 <attribute name="SelectionCount" >1</attribute>
 <attribute name="WeekNumber" >9</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+</item>
+<item ID="1476662168" Creator="sscott" proto="pWeek" >
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-10-16T16:27:51-07:00</attribute>
+<attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
+<attribute name="EndDate" >2016-10-21T14:34:00-07:00</attribute>
+<attribute name="Modified" >2016-10-16T16:27:51-07:00</attribute>
+<attribute name="Name" >10</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="StartDate" >2016-10-17T14:34:00-07:00</attribute>
+<attribute name="WeekNumber" >10</attribute>
+<attribute name="Xpos" >48.11523956</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<item ID="1476662169" Creator="sscott" proto="pDay" >
+<attribute name="ClassName" >10-1</attribute>
+<attribute name="ClassNum" >1</attribute>
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-10-16T16:27:55-07:00</attribute>
+<attribute name="Modified" >2016-10-16T16:27:55-07:00</attribute>
+<attribute name="Name" >Class 10-1</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="WeekNumber" >10</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1476662170" Creator="sscott" proto="pDay" >
+<attribute name="ClassName" >10-2</attribute>
+<attribute name="ClassNum" >2</attribute>
+<attribute name="CourseName" >ICC</attribute>
+<attribute name="Created" >2016-10-16T16:27:56-07:00</attribute>
+<attribute name="Modified" >2016-10-16T16:27:56-07:00</attribute>
+<attribute name="Name" >Class 10-2</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="WeekNumber" >10</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -8656,7 +8692,7 @@ Insider Perspective
 <attribute name="MapScrollY" >11.27712685</attribute>
 <attribute name="Modified" >2016-08-09T06:58:49-07:00</attribute>
 <attribute name="Name" >icc-map</attribute>
-<attribute name="SelectionCount" >48</attribute>
+<attribute name="SelectionCount" >49</attribute>
 <attribute name="Width" >18.29375408</attribute>
 <attribute name="Xpos" >8.5</attribute>
 <attribute name="Ypos" >12.68151431</attribute>
@@ -11949,7 +11985,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >18</attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470776111" Creator="sscott" >
@@ -11960,7 +11996,25 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >10</attribute>
+<attribute name="Xpos" >32</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1476662172" Creator="sscott" >
+<attribute name="Alias" >1476662169</attribute>
+<attribute name="Created" >2016-10-16T16:27:55-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-16T16:27:55-07:00</attribute>
+<attribute name="Width" >10</attribute>
 <attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >0.5</attribute>
+</item>
+<item ID="1476662171" Creator="sscott" >
+<attribute name="Alias" >1476662170</attribute>
+<attribute name="Created" >2016-10-16T16:27:56-07:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-10-16T16:27:56-07:00</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470883726" Creator="sscott" >
@@ -11970,7 +12024,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:48:43-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
 </item>
 <item ID="1470883748" Creator="sscott" >
@@ -11980,8 +12034,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:02-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >0.5</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883759" Creator="sscott" >
 <attribute name="Alias" >1470883749</attribute>
@@ -11990,8 +12044,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:06-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >0.5</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883725" Creator="sscott" >
 <attribute name="Alias" >1470883703</attribute>
@@ -12000,7 +12054,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:48:22-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883746" Creator="sscott" >
@@ -12010,7 +12064,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:00-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1470883747" Creator="sscott" >
@@ -12020,7 +12074,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-10T19:49:04-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >11.25459728</attribute>
 </item>
 <item ID="1472593520" Creator="sscott" >
@@ -12030,8 +12084,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-30T14:30:47-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >11.25459728</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1472593522" Creator="sscott" >
 <attribute name="Alias" >1472593521</attribute>
@@ -12040,8 +12094,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-08-30T14:30:50-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >11.25459728</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1473707654" Creator="sscott" >
 <attribute name="Alias" >1473707651</attribute>
@@ -12050,7 +12104,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-12T11:57:52-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1473707653" Creator="sscott" >
@@ -12060,7 +12114,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-12T11:57:54-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1474425377" Creator="sscott" >
@@ -12070,7 +12124,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-20T19:36:13-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >13.61459728</attribute>
 </item>
 <item ID="1474425378" Creator="sscott" >
@@ -12080,8 +12134,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-20T19:36:15-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >13.61459728</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
 </item>
 <item ID="1474492541" Creator="sscott" >
 <attribute name="Alias" >1474425379</attribute>
@@ -12090,8 +12144,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-20T19:36:16-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >13.61459728</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >15.97459728</attribute>
 </item>
 <item ID="1474854115" Creator="sscott" >
 <attribute name="Alias" >1474854114</attribute>
@@ -12100,7 +12154,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-25T18:41:53-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
 </item>
 <item ID="1474854123" Creator="sscott" >
@@ -12110,7 +12164,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-25T18:41:55-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
 </item>
 <item ID="1474854122" Creator="sscott" >
@@ -12120,7 +12174,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-09-25T18:41:56-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >15.97459728</attribute>
 </item>
 <item ID="1475511119" Creator="sscott" >
@@ -12130,8 +12184,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-10-03T08:53:31-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >32</attribute>
-<attribute name="Ypos" >15.97459728</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >18.33459728</attribute>
 </item>
 <item ID="1475511121" Creator="sscott" >
 <attribute name="Alias" >1475511117</attribute>
@@ -12140,8 +12194,8 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-10-03T08:53:32-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >42.5</attribute>
-<attribute name="Ypos" >15.97459728</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >18.33459728</attribute>
 </item>
 <item ID="1475511120" Creator="sscott" >
 <attribute name="Alias" >1475511118</attribute>
@@ -12150,7 +12204,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-10-03T08:53:33-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >0.5</attribute>
+<attribute name="Xpos" >21.5</attribute>
 <attribute name="Ypos" >18.33459728</attribute>
 </item>
 <item ID="1475701376" Creator="sscott" >
@@ -12160,7 +12214,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-10-05T13:40:24-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >11</attribute>
+<attribute name="Xpos" >32</attribute>
 <attribute name="Ypos" >18.33459728</attribute>
 </item>
 <item ID="1475701377" Creator="sscott" >
@@ -12170,7 +12224,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-10-05T13:40:26-07:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >10</attribute>
-<attribute name="Xpos" >21.5</attribute>
+<attribute name="Xpos" >42.5</attribute>
 <attribute name="Ypos" >18.33459728</attribute>
 </item>
 </agent>
@@ -18297,6 +18351,9 @@ This is cool!</text>
 <link name="prototype" sourceid="1470927890" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476221359" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476221367" destcreator="sscott" color="#993333"  />
 <link name="prototype" sourceid="1470852900" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476376587" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470688045" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476662168" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476662169" destcreator="sscott" color="#993333"  />
+<link name="prototype" sourceid="1470689609" sourcecreator="sscott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1476662170" destcreator="sscott" color="#993333"  />
 </links>
 <macros >
 </macros>
@@ -18450,10 +18507,10 @@ This is cool!</text>
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 101 -55 1537 822]" ruler="1" >
+<window bounds="Rect[ 77 -50 1513 827]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="Name" scale="25.2381" ID="1475869833" scrollX="697" scrollY="620" selection="" expanded="" textTab="0" attribute="Religion" sortAttribute="DisplayName" container="/" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="none" splitRatio="0.26532" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="44.8511" ID="1475857181" scrollX="0" scrollY="0" selection="1475703852 " expanded="1470675565 1470952599 1470952601 1470757954 1470758003 1475857181 1475857182 1470701631 1470751130 1470751210 1473788950 1470751228 1476221360 1470679051 1470675651 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490947" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="44.8511" ID="1470675520" scrollX="0" scrollY="0" selection="1470883699 " expanded="1470690280 1470952599 1470952601 1470757954 1470758003 1475857181 1475857182 1470675553 1470701631 1476662168 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.490947" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="42.8404" ID="1473276981" scrollX="1037" scrollY="506" selection="" expanded="1473302692 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.00640114" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
