@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="10" savedBy="6.6.4" >
+<tinderbox version="2" revision="10" savedBy="6.6.5" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -878,7 +878,7 @@
 <attribute name="Name" >row-spring-2017</attribute>
 <attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >160</attribute>
+<attribute name="SelectionCount" >161</attribute>
 <attribute name="StartDate" >2017-01-05T14:34:07-08:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
@@ -903,7 +903,7 @@
 <attribute name="MapScrollY" >8.379059766</attribute>
 <attribute name="Modified" >2016-08-14T20:11:07-08:00</attribute>
 <attribute name="Name" >1</attribute>
-<attribute name="SelectionCount" >90</attribute>
+<attribute name="SelectionCount" >91</attribute>
 <attribute name="StartDate" >2017-01-05T14:34:00-08:00</attribute>
 <attribute name="WeekName" >1-8/15/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >1</attribute>
@@ -938,7 +938,7 @@
 <attribute name="Created" >2016-12-19T17:51:14-08:00</attribute>
 <attribute name="Modified" >2016-12-19T17:51:24-08:00</attribute>
 <attribute name="Name" >Hafiz</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >Stop Being So Religious
@@ -5016,8 +5016,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
 </item>
 <adornment ID="1475869955" Creator="sscott" >
 <attribute name="AgentQuery" >$Status=&quot;0&quot;</attribute>
@@ -5055,7 +5055,7 @@ Graded conversation on Gita</text>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
 </item>
 <item ID="1475869897" Creator="sscott" >
 <attribute name="Alias" >1470698358</attribute>
@@ -5065,8 +5065,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
 </item>
 <item ID="1475869867" Creator="sscott" >
 <attribute name="Alias" >1475511112</attribute>
@@ -5076,8 +5076,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
 </item>
 <item ID="1475869865" Creator="sscott" >
 <attribute name="Alias" >1470683554</attribute>
@@ -5087,8 +5087,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >123</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >9.119966343</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
 </item>
 <item ID="1475869896" Creator="sscott" >
 <attribute name="Alias" >1470698342</attribute>
@@ -5099,7 +5099,7 @@ Graded conversation on Gita</text>
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >12.61996634</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
 </item>
 <item ID="1475869877" Creator="sscott" >
 <attribute name="Alias" >1475867490</attribute>
@@ -5109,8 +5109,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
-<attribute name="Ypos" >9.73179493</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
 </item>
 <item ID="1475869866" Creator="sscott" >
 <attribute name="Alias" >1470886840</attribute>
@@ -5120,8 +5120,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
 </item>
 <item ID="1475869895" Creator="sscott" >
 <attribute name="Alias" >1470880485</attribute>
@@ -5131,8 +5131,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
 </item>
 <item ID="1475869872" Creator="sscott" >
 <attribute name="Alias" >1475867484</attribute>
@@ -5153,8 +5153,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >22</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
 </item>
 <item ID="1475869891" Creator="sscott" >
 <attribute name="Alias" >1470847800</attribute>
@@ -5164,8 +5164,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >23</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
 </item>
 <item ID="1475869892" Creator="sscott" >
 <attribute name="Alias" >1470847705</attribute>
@@ -5175,8 +5175,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >27</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
 </item>
 <item ID="1475869888" Creator="sscott" >
 <attribute name="Alias" >1475867501</attribute>
@@ -5197,8 +5197,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >29</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
 </item>
 <item ID="1475869882" Creator="sscott" >
 <attribute name="Alias" >1475867495</attribute>
@@ -5208,7 +5208,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
 <attribute name="Ypos" >2.73179493</attribute>
 </item>
 <item ID="1475869868" Creator="sscott" >
@@ -5220,7 +5220,7 @@ Graded conversation on Gita</text>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869874" Creator="sscott" >
 <attribute name="Alias" >1475867486</attribute>
@@ -5241,8 +5241,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869864" Creator="sscott" >
 <attribute name="Alias" >1470886838</attribute>
@@ -5252,8 +5252,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >6</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1481234400" Creator="sscott" >
 <attribute name="Alias" >1481234393</attribute>
@@ -5273,7 +5273,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
 <attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869878" Creator="sscott" >
@@ -5339,7 +5339,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869904" Creator="sscott" >
@@ -5350,7 +5350,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
 <attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869876" Creator="sscott" >
@@ -5372,7 +5372,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
 <attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869873" Creator="sscott" >
@@ -5383,7 +5383,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869883" Creator="sscott" >
@@ -5405,7 +5405,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
 <attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869870" Creator="sscott" >
@@ -5427,8 +5427,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >9.73179493</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869894" Creator="sscott" >
 <attribute name="Alias" >1470689276</attribute>
@@ -5438,8 +5438,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >21</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >12.61996634</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1481236055" Creator="sscott" >
 <attribute name="Alias" >1481236041</attribute>
@@ -5459,7 +5459,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1475869906" Creator="sscott" >
@@ -5470,7 +5470,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1475869889" Creator="sscott" >
@@ -5492,8 +5492,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >6.23179493</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1481234401" Creator="sscott" >
 <attribute name="Alias" >1481234399</attribute>
@@ -5502,8 +5502,8 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-12-08T13:59:58-08:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
-<attribute name="Ypos" >6.23179493</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1475869902" Creator="sscott" >
 <attribute name="Alias" >1470886805</attribute>
@@ -5513,8 +5513,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >5.619966343</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869905" Creator="sscott" >
 <attribute name="Alias" >1470886826</attribute>
@@ -5524,8 +5524,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >5.619966343</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >12.61996634</attribute>
 </item>
 <item ID="1475869862" Creator="sscott" >
 <attribute name="Alias" >1470886830</attribute>
@@ -5535,8 +5535,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >9.119966343</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >12.61996634</attribute>
 </item>
 <item ID="1475869863" Creator="sscott" >
 <attribute name="Alias" >1470886836</attribute>
@@ -25606,7 +25606,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 6.6.4</Version>
+<Version > version 6.6.5</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -25644,8 +25644,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 975</InspectorX>
-<InspectorY > 104</InspectorY>
+<InspectorX > 1140</InspectorX>
+<InspectorY > 201</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25686,10 +25686,10 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 0 0 1676 1027]" ruler="1" >
+<window bounds="Rect[ 145 -104 1581 773]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1481065373" scrollX="0" scrollY="0" selection="1481065373 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1482199753" scrollX="0" scrollY="0" selection="1482199753 " expanded="1470675565 1470690280 1470689191 1470683554 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470679051 1470675649 1470861821 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.566229" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675565" scrollX="0" scrollY="0" selection="1470690280 " expanded="1470675565 1470690280 1470689191 1470683554 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470679051 1470675649 1470861821 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.493733" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
