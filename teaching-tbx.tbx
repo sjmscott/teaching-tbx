@@ -4940,50 +4940,6 @@ Graded conversation on Gita</text>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >-4.673286732</attribute>
 <attribute name="Ypos" >22.60838423</attribute>
-<item ID="1475869874" Creator="sscott" >
-<attribute name="Alias" >1475867486</attribute>
-<attribute name="Created" >2016-10-07T11:46:55-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:46:55-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >-4.26820507</attribute>
-</item>
-<item ID="1475869885" Creator="sscott" >
-<attribute name="Alias" >1475867498</attribute>
-<attribute name="Created" >2016-10-07T11:48:09-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:48:09-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
-</item>
-<item ID="1475869897" Creator="sscott" >
-<attribute name="Alias" >1470698358</attribute>
-<attribute name="Created" >2016-08-08T16:19:17-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-31T08:36:45-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >11</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
-</item>
-<item ID="1475869867" Creator="sscott" >
-<attribute name="Alias" >1475511112</attribute>
-<attribute name="Created" >2016-10-03T08:49:06-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-03T08:49:06-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
-</item>
 <adornment ID="1475869907" Creator="sscott" >
 <attribute name="AgentQuery" >$Status=&quot;1&quot;</attribute>
 <attribute name="Color" >normal</attribute>
@@ -5016,6 +4972,61 @@ Graded conversation on Gita</text>
 <attribute name="Xpos" >1.277054811</attribute>
 <attribute name="Ypos" >-5.88070507</attribute>
 </adornment>
+<item ID="1475869906" Creator="sscott" >
+<attribute name="Alias" >1475867487</attribute>
+<attribute name="Created" >2016-10-07T11:46:57-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:46:57-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
+</item>
+<item ID="1475869874" Creator="sscott" >
+<attribute name="Alias" >1475867486</attribute>
+<attribute name="Created" >2016-10-07T11:46:55-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:46:55-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Ypos" >-4.26820507</attribute>
+</item>
+<item ID="1475869885" Creator="sscott" >
+<attribute name="Alias" >1475867498</attribute>
+<attribute name="Created" >2016-10-07T11:48:09-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:48:09-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
+</item>
+<item ID="1475869897" Creator="sscott" >
+<attribute name="Alias" >1470698358</attribute>
+<attribute name="Created" >2016-08-08T16:19:17-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-31T08:36:45-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
+</item>
+<item ID="1475869867" Creator="sscott" >
+<attribute name="Alias" >1475511112</attribute>
+<attribute name="Created" >2016-10-03T08:49:06-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-03T08:49:06-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
+</item>
 <item ID="1475869890" Creator="sscott" >
 <attribute name="Alias" >1475867503</attribute>
 <attribute name="Created" >2016-10-07T11:48:32-08:00</attribute>
@@ -5024,8 +5035,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869864" Creator="sscott" >
 <attribute name="Alias" >1470886838</attribute>
@@ -5068,18 +5079,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
-</item>
-<item ID="1481236055" Creator="sscott" >
-<attribute name="Alias" >1481236041</attribute>
-<attribute name="Created" >2016-12-08T14:27:20-08:00</attribute>
-<attribute name="Height" >1.86</attribute>
-<attribute name="Modified" >2016-12-08T14:27:20-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1481234401" Creator="sscott" >
 <attribute name="Alias" >1481234399</attribute>
@@ -5088,7 +5089,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-12-08T13:59:58-08:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1481234400" Creator="sscott" >
@@ -5134,17 +5135,6 @@ Graded conversation on Gita</text>
 <attribute name="Xpos" >-9.86599525</attribute>
 <attribute name="Ypos" >-1.380033657</attribute>
 </item>
-<item ID="1475869906" Creator="sscott" >
-<attribute name="Alias" >1475867487</attribute>
-<attribute name="Created" >2016-10-07T11:46:57-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:46:57-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >5</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
-<attribute name="Ypos" >6.23179493</attribute>
-</item>
 <item ID="1475869878" Creator="sscott" >
 <attribute name="Alias" >1475867491</attribute>
 <attribute name="Created" >2016-10-07T11:47:14-08:00</attribute>
@@ -5153,7 +5143,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1475869879" Creator="sscott" >
@@ -5373,7 +5363,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1475869883" Creator="sscott" >
@@ -5384,7 +5374,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
 <attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1475869898" Creator="sscott" >
@@ -5493,6 +5483,16 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-10-07T11:48:22-08:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >13.23179493</attribute>
+</item>
+<item ID="1481236055" Creator="sscott" >
+<attribute name="Alias" >1481236041</attribute>
+<attribute name="Created" >2016-12-08T14:27:20-08:00</attribute>
+<attribute name="Height" >1.86</attribute>
+<attribute name="Modified" >2016-12-08T14:27:20-08:00</attribute>
+<attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >16.73179493</attribute>
@@ -13010,7 +13010,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-10-30T20:55:54-08:00</attribute>
 <attribute name="Modified" >2016-10-30T20:55:54-08:00</attribute>
 <attribute name="Name" >Vocabulary</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Sort" >Name</attribute>
 <attribute name="Unit" >5</attribute>
 <attribute name="Xpos" >0</attribute>
