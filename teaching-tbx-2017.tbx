@@ -830,7 +830,7 @@
 <attribute name="HTMLExportExtension" >.opml</attribute>
 <attribute name="MapScrollX" >0</attribute>
 <attribute name="MapScrollY" >0</attribute>
-<attribute name="Name" >teaching-tbx</attribute>
+<attribute name="Name" >teaching-tbx-2017</attribute>
 <item ID="1471009515" Creator="sscott" >
 <attribute name="Created" >2016-08-12T06:45:14-08:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
@@ -856,7 +856,7 @@
 <attribute name="Modified" >2016-08-08T09:59:24-08:00</attribute>
 <attribute name="Name" >ROW</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >119</attribute>
+<attribute name="SelectionCount" >121</attribute>
 <attribute name="Width" >17.24878072</attribute>
 <attribute name="Xpos" >-19.40617737</attribute>
 <attribute name="Year" >2016</attribute>
@@ -866,9 +866,9 @@
 <attribute name="ClassNum" >1</attribute>
 <attribute name="CourseFullName" >Religions of the World</attribute>
 <attribute name="CourseName" >ROW</attribute>
-<attribute name="CourseStartDate" >2016-08-15T14:07:49-08:00</attribute>
+<attribute name="CourseStartDate" >2017-01-05T14:07:49-08:00</attribute>
 <attribute name="Created" >2016-08-08T14:04:39-08:00</attribute>
-<attribute name="EndDate" >2016-08-19T14:34:11-08:00</attribute>
+<attribute name="EndDate" >2017-05-19T14:34:11-08:00</attribute>
 <attribute name="HTMLExportTemplate" >/system/templates/html-map</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="KeyAttributes" >CourseName;CourseFullName;CourseStartDate;Season;Year;Teacher;StartDate;EndDate</attribute>
@@ -878,8 +878,8 @@
 <attribute name="Name" >row-fall-2016</attribute>
 <attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >152</attribute>
-<attribute name="StartDate" >2016-08-15T14:34:07-08:00</attribute>
+<attribute name="SelectionCount" >155</attribute>
+<attribute name="StartDate" >2017-01-05T14:34:07-08:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >-4.673286732</attribute>
@@ -897,14 +897,14 @@
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T13:46:30-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-08-19T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-01-09T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="MapScrollX" >27.25048198</attribute>
 <attribute name="MapScrollY" >8.379059766</attribute>
 <attribute name="Modified" >2016-08-14T20:11:07-08:00</attribute>
 <attribute name="Name" >1</attribute>
 <attribute name="SelectionCount" >89</attribute>
-<attribute name="StartDate" >2016-08-15T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-01-05T14:34:00-08:00</attribute>
 <attribute name="WeekName" >1-8/15/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >7</attribute>
@@ -975,12 +975,12 @@
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T13:47:48-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-08-26T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-01-16T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-08T13:47:48-08:00</attribute>
 <attribute name="Name" >2</attribute>
 <attribute name="SelectionCount" >56</attribute>
-<attribute name="StartDate" >2016-08-22T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-01-12T14:34:00-08:00</attribute>
 <attribute name="WeekName" >2-8/22/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >2</attribute>
 <attribute name="Width" >7</attribute>
@@ -1038,12 +1038,12 @@
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T14:33:39-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-09-02T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-01-23T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-08T14:33:39-08:00</attribute>
 <attribute name="Name" >3</attribute>
 <attribute name="SelectionCount" >30</attribute>
-<attribute name="StartDate" >2016-08-29T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-01-19T14:34:00-08:00</attribute>
 <attribute name="WeekName" >3-8/29/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >3</attribute>
 <attribute name="Width" >7</attribute>
@@ -1126,12 +1126,12 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T16:19:10-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-09-09T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-01-30T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-08T16:19:10-08:00</attribute>
 <attribute name="Name" >4</attribute>
 <attribute name="SelectionCount" >18</attribute>
-<attribute name="StartDate" >2016-09-05T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-01-26T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >4</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1183,12 +1183,12 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T15:22:01-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-09-16T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-02-06T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-09-14T19:56:09-08:00</attribute>
 <attribute name="Name" >5</attribute>
 <attribute name="SelectionCount" >31</attribute>
-<attribute name="StartDate" >2016-09-12T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-02-02T14:34:00-08:00</attribute>
 <attribute name="WeekName" >4-9/5/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >5</attribute>
 <attribute name="Width" >7</attribute>
@@ -1233,12 +1233,12 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T16:07:15-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-09-23T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-02-13T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-09-14T09:06:56-08:00</attribute>
 <attribute name="Name" >6</attribute>
 <attribute name="SelectionCount" >22</attribute>
-<attribute name="StartDate" >2016-09-19T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-02-09T14:34:00-08:00</attribute>
 <attribute name="WeekName" >5-9/12/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >6</attribute>
 <attribute name="Width" >7</attribute>
@@ -1291,12 +1291,12 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-10T20:40:31-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-09-30T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-02-20T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-10T20:40:31-08:00</attribute>
 <attribute name="Name" >7</attribute>
 <attribute name="SelectionCount" >15</attribute>
-<attribute name="StartDate" >2016-09-26T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-02-16T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >7</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1348,12 +1348,12 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:56:34-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-10-07T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-02-27T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-12T13:45:25-08:00</attribute>
 <attribute name="Name" >8</attribute>
 <attribute name="SelectionCount" >18</attribute>
-<attribute name="StartDate" >2016-10-03T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-02-23T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >8</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1414,12 +1414,12 @@ D.  How does the Gita connect to the Hindu terms and vocabulary that we have cov
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:56:38-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-10-14T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-03-06T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:56:38-08:00</attribute>
 <attribute name="Name" >9</attribute>
 <attribute name="SelectionCount" >17</attribute>
-<attribute name="StartDate" >2016-10-10T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-03-02T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >9</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1465,12 +1465,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:56:40-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-10-21T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-03-13T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:56:40-08:00</attribute>
 <attribute name="Name" >10</attribute>
 <attribute name="SelectionCount" >15</attribute>
-<attribute name="StartDate" >2016-10-17T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-03-09T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >10</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1506,12 +1506,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:56:46-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-10-28T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-03-20T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:56:46-08:00</attribute>
 <attribute name="Name" >11</attribute>
 <attribute name="SelectionCount" >16</attribute>
-<attribute name="StartDate" >2016-10-24T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-03-16T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >11</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1560,14 +1560,14 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:01-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-11-04T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-03-27T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="MapScrollX" >8.485137827</attribute>
 <attribute name="MapScrollY" >4.902639123</attribute>
 <attribute name="Modified" >2016-08-11T14:57:01-08:00</attribute>
 <attribute name="Name" >12</attribute>
 <attribute name="SelectionCount" >19</attribute>
-<attribute name="StartDate" >2016-10-31T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-03-23T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >12</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1624,12 +1624,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:09-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-11-11T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-04-03T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:09-08:00</attribute>
 <attribute name="Name" >13</attribute>
 <attribute name="SelectionCount" >16</attribute>
-<attribute name="StartDate" >2016-11-07T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-03-30T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >13</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1665,12 +1665,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:12-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-11-18T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-04-10T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:12-08:00</attribute>
 <attribute name="Name" >14</attribute>
 <attribute name="SelectionCount" >13</attribute>
-<attribute name="StartDate" >2016-11-14T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-04-06T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >14</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1719,12 +1719,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:15-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-11-25T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-04-17T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:15-08:00</attribute>
 <attribute name="Name" >15</attribute>
 <attribute name="SelectionCount" >14</attribute>
-<attribute name="StartDate" >2016-11-21T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-04-13T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >15</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1760,12 +1760,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:18-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-12-02T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-04-24T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:18-08:00</attribute>
 <attribute name="Name" >16</attribute>
 <attribute name="SelectionCount" >15</attribute>
-<attribute name="StartDate" >2016-11-28T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-04-20T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >16</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1814,12 +1814,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:22-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-12-09T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-05-01T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:22-08:00</attribute>
 <attribute name="Name" >17</attribute>
 <attribute name="SelectionCount" >16</attribute>
-<attribute name="StartDate" >2016-12-05T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-04-27T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -1859,12 +1859,12 @@ Graded conversation on Gita</text>
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-11T14:57:24-08:00</attribute>
 <attribute name="DisplayExpression" >$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;</attribute>
-<attribute name="EndDate" >2016-12-16T14:34:00-08:00</attribute>
+<attribute name="EndDate" >2017-05-08T14:34:00-08:00</attribute>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:24-08:00</attribute>
 <attribute name="Name" >18</attribute>
 <attribute name="SelectionCount" >16</attribute>
-<attribute name="StartDate" >2016-12-12T14:34:00-08:00</attribute>
+<attribute name="StartDate" >2017-05-04T14:34:00-08:00</attribute>
 <attribute name="WeekNumber" >18</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >0.7581164417</attribute>
@@ -4983,105 +4983,6 @@ Graded conversation on Gita</text>
 <attribute name="Xpos" >1.277054811</attribute>
 <attribute name="Ypos" >-5.88070507</attribute>
 </adornment>
-<item ID="1475869899" Creator="sscott" >
-<attribute name="Alias" >1470698379</attribute>
-<attribute name="Created" >2016-08-08T16:19:38-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-08T16:19:38-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >5</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
-</item>
-<item ID="1475869868" Creator="sscott" >
-<attribute name="Alias" >1475511113</attribute>
-<attribute name="Created" >2016-10-03T08:49:07-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-03T08:49:07-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
-</item>
-<item ID="1475869906" Creator="sscott" >
-<attribute name="Alias" >1475867487</attribute>
-<attribute name="Created" >2016-10-07T11:46:57-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:46:57-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >5</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
-</item>
-<item ID="1475869874" Creator="sscott" >
-<attribute name="Alias" >1475867486</attribute>
-<attribute name="Created" >2016-10-07T11:46:55-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:46:55-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >-4.26820507</attribute>
-</item>
-<item ID="1475869885" Creator="sscott" >
-<attribute name="Alias" >1475867498</attribute>
-<attribute name="Created" >2016-10-07T11:48:09-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:48:09-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
-</item>
-<item ID="1475869897" Creator="sscott" >
-<attribute name="Alias" >1470698358</attribute>
-<attribute name="Created" >2016-08-08T16:19:17-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-31T08:36:45-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >11</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >-4.880033657</attribute>
-</item>
-<item ID="1475869867" Creator="sscott" >
-<attribute name="Alias" >1475511112</attribute>
-<attribute name="Created" >2016-10-03T08:49:06-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-03T08:49:06-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
-</item>
-<item ID="1475869890" Creator="sscott" >
-<attribute name="Alias" >1475867503</attribute>
-<attribute name="Created" >2016-10-07T11:48:32-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:48:32-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >6.23179493</attribute>
-</item>
-<item ID="1475869864" Creator="sscott" >
-<attribute name="Alias" >1470886838</attribute>
-<attribute name="Created" >2016-08-10T20:40:37-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-10T20:40:37-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
-</item>
 <item ID="1475869895" Creator="sscott" >
 <attribute name="Alias" >1470880485</attribute>
 <attribute name="Created" >2016-08-10T18:54:44-08:00</attribute>
@@ -5090,8 +4991,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
 </item>
 <item ID="1475869872" Creator="sscott" >
 <attribute name="Alias" >1475867484</attribute>
@@ -5101,8 +5002,173 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >5</attribute>
 <attribute name="Width" >3</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Ypos" >-4.26820507</attribute>
+</item>
+<item ID="1475869903" Creator="sscott" >
+<attribute name="Alias" >1470886809</attribute>
+<attribute name="Created" >2016-08-10T20:40:08-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-09-14T19:57:59-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >22</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
+</item>
+<item ID="1475869891" Creator="sscott" >
+<attribute name="Alias" >1470847800</attribute>
+<attribute name="Created" >2016-08-10T09:49:59-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-11T12:47:16-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >23</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >-4.880033657</attribute>
+</item>
+<item ID="1475869892" Creator="sscott" >
+<attribute name="Alias" >1470847705</attribute>
+<attribute name="Created" >2016-08-10T09:48:24-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-14T08:34:44-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >27</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
+</item>
+<item ID="1475869875" Creator="sscott" >
+<attribute name="Alias" >1475867488</attribute>
+<attribute name="Created" >2016-10-07T11:46:58-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:46:58-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Ypos" >13.23179493</attribute>
+</item>
+<item ID="1475869901" Creator="sscott" >
+<attribute name="Alias" >1470698382</attribute>
+<attribute name="Created" >2016-08-08T16:19:41-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-08T16:19:41-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
+</item>
+<item ID="1475869888" Creator="sscott" >
+<attribute name="Alias" >1475867501</attribute>
+<attribute name="Created" >2016-10-07T11:48:22-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:48:22-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Ypos" >13.23179493</attribute>
+</item>
+<item ID="1475869893" Creator="sscott" >
+<attribute name="Alias" >1470689270</attribute>
+<attribute name="Created" >2016-08-08T12:12:33-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-11T07:39:11-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >29</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
+</item>
+<item ID="1475869882" Creator="sscott" >
+<attribute name="Alias" >1475867495</attribute>
+<attribute name="Created" >2016-10-07T11:47:44-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:47:44-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
+</item>
+<item ID="1475869899" Creator="sscott" >
+<attribute name="Alias" >1470698379</attribute>
+<attribute name="Created" >2016-08-08T16:19:38-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-08T16:19:38-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >-1.380033657</attribute>
+</item>
+<item ID="1475869868" Creator="sscott" >
+<attribute name="Alias" >1475511113</attribute>
+<attribute name="Created" >2016-10-03T08:49:07-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-03T08:49:07-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
+</item>
+<item ID="1475869874" Creator="sscott" >
+<attribute name="Alias" >1475867486</attribute>
+<attribute name="Created" >2016-10-07T11:46:55-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:46:55-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
 <attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >-4.26820507</attribute>
+</item>
+<item ID="1475869897" Creator="sscott" >
+<attribute name="Alias" >1470698358</attribute>
+<attribute name="Created" >2016-08-08T16:19:17-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-31T08:36:45-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
+</item>
+<item ID="1475869867" Creator="sscott" >
+<attribute name="Alias" >1475511112</attribute>
+<attribute name="Created" >2016-10-03T08:49:06-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-03T08:49:06-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
+</item>
+<item ID="1475869890" Creator="sscott" >
+<attribute name="Alias" >1475867503</attribute>
+<attribute name="Created" >2016-10-07T11:48:32-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:48:32-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
+</item>
+<item ID="1475869864" Creator="sscott" >
+<attribute name="Alias" >1470886838</attribute>
+<attribute name="Created" >2016-08-10T20:40:37-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-08-10T20:40:37-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
+<attribute name="Ypos" >2.119966343</attribute>
 </item>
 <item ID="1475869880" Creator="sscott" >
 <attribute name="Alias" >1475867493</attribute>
@@ -5112,7 +5178,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1481234401" Creator="sscott" >
@@ -5122,7 +5188,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-12-08T13:59:58-08:00</attribute>
 <attribute name="Name" ></attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1481234400" Creator="sscott" >
@@ -5143,30 +5209,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >-1.380033657</attribute>
-</item>
-<item ID="1475869903" Creator="sscott" >
-<attribute name="Alias" >1470886809</attribute>
-<attribute name="Created" >2016-08-10T20:40:08-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-09-14T19:57:59-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >22</attribute>
-<attribute name="Width" >3</attribute>
 <attribute name="Xpos" >-16.86599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
-</item>
-<item ID="1475869891" Creator="sscott" >
-<attribute name="Alias" >1470847800</attribute>
-<attribute name="Created" >2016-08-10T09:49:59-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-11T12:47:16-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >23</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869878" Creator="sscott" >
 <attribute name="Alias" >1475867491</attribute>
@@ -5176,7 +5220,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
 <attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1475869879" Creator="sscott" >
@@ -5200,17 +5244,6 @@ Graded conversation on Gita</text>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >-0.76820507</attribute>
-</item>
-<item ID="1475869882" Creator="sscott" >
-<attribute name="Alias" >1475867495</attribute>
-<attribute name="Created" >2016-10-07T11:47:44-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:47:44-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869884" Creator="sscott" >
 <attribute name="Alias" >1475867497</attribute>
@@ -5242,19 +5275,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >9.73179493</attribute>
-</item>
-<item ID="1475869889" Creator="sscott" >
-<attribute name="Alias" >1475867502</attribute>
-<attribute name="Created" >2016-10-07T11:48:31-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:48:31-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >-0.76820507</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869902" Creator="sscott" >
 <attribute name="Alias" >1470886805</attribute>
@@ -5264,8 +5286,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869904" Creator="sscott" >
 <attribute name="Alias" >1470886814</attribute>
@@ -5275,8 +5297,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >2.119966343</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
+<attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869905" Creator="sscott" >
 <attribute name="Alias" >1470886826</attribute>
@@ -5286,7 +5308,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
 <attribute name="Ypos" >5.619966343</attribute>
 </item>
 <item ID="1475869862" Creator="sscott" >
@@ -5297,8 +5319,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
-<attribute name="Ypos" >5.619966343</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869876" Creator="sscott" >
 <attribute name="Alias" >1475867489</attribute>
@@ -5308,8 +5330,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >1.777054811</attribute>
-<attribute name="Ypos" >2.73179493</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >-0.76820507</attribute>
 </item>
 <item ID="1475869865" Creator="sscott" >
 <attribute name="Alias" >1470683554</attribute>
@@ -5319,8 +5341,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >123</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >5.619966343</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869869" Creator="sscott" >
 <attribute name="Alias" >1475511114</attribute>
@@ -5330,18 +5352,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >5.619966343</attribute>
-</item>
-<item ID="1475869892" Creator="sscott" >
-<attribute name="Alias" >1470847705</attribute>
-<attribute name="Created" >2016-08-10T09:48:24-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-14T08:34:44-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >27</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
 <attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869873" Creator="sscott" >
@@ -5352,19 +5363,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
-<attribute name="Ypos" >9.73179493</attribute>
-</item>
-<item ID="1475869875" Creator="sscott" >
-<attribute name="Alias" >1475867488</attribute>
-<attribute name="Created" >2016-10-07T11:46:58-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:46:58-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
-<attribute name="Ypos" >13.23179493</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >6.23179493</attribute>
 </item>
 <item ID="1475869883" Creator="sscott" >
 <attribute name="Alias" >1475867496</attribute>
@@ -5374,7 +5374,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
 <attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1475869898" Creator="sscott" >
@@ -5385,7 +5385,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Xpos" >-6.36599525</attribute>
 <attribute name="Ypos" >9.119966343</attribute>
 </item>
 <item ID="1475869870" Creator="sscott" >
@@ -5396,7 +5396,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >16</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >2.73179493</attribute>
 </item>
 <item ID="1475869871" Creator="sscott" >
@@ -5407,7 +5407,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >11</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1475869894" Creator="sscott" >
@@ -5418,8 +5418,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >21</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >9.119966343</attribute>
+<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Ypos" >12.61996634</attribute>
 </item>
 <item ID="1475869877" Creator="sscott" >
 <attribute name="Alias" >1475867490</attribute>
@@ -5429,7 +5429,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
 <attribute name="Ypos" >9.73179493</attribute>
 </item>
 <item ID="1475869896" Creator="sscott" >
@@ -5440,18 +5440,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-6.36599525</attribute>
-<attribute name="Ypos" >9.119966343</attribute>
-</item>
-<item ID="1475869901" Creator="sscott" >
-<attribute name="Alias" >1470698382</attribute>
-<attribute name="Created" >2016-08-08T16:19:41-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-08T16:19:41-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-16.86599525</attribute>
+<attribute name="Xpos" >-13.36599525</attribute>
 <attribute name="Ypos" >12.61996634</attribute>
 </item>
 <item ID="1475869863" Creator="sscott" >
@@ -5462,19 +5451,8 @@ Graded conversation on Gita</text>
 <attribute name="Name" ></attribute>
 <attribute name="SelectionCount" >4</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-13.36599525</attribute>
+<attribute name="Xpos" >-9.86599525</attribute>
 <attribute name="Ypos" >12.61996634</attribute>
-</item>
-<item ID="1475869888" Creator="sscott" >
-<attribute name="Alias" >1475867501</attribute>
-<attribute name="Created" >2016-10-07T11:48:22-08:00</attribute>
-<attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-10-07T11:48:22-08:00</attribute>
-<attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >3</attribute>
-<attribute name="Width" >3</attribute>
-<attribute name="Xpos" >12.27705481</attribute>
-<attribute name="Ypos" >13.23179493</attribute>
 </item>
 <item ID="1481236055" Creator="sscott" >
 <attribute name="Alias" >1481236041</attribute>
@@ -5486,16 +5464,38 @@ Graded conversation on Gita</text>
 <attribute name="Xpos" >1.777054811</attribute>
 <attribute name="Ypos" >16.73179493</attribute>
 </item>
-<item ID="1475869893" Creator="sscott" >
-<attribute name="Alias" >1470689270</attribute>
-<attribute name="Created" >2016-08-08T12:12:33-08:00</attribute>
+<item ID="1475869885" Creator="sscott" >
+<attribute name="Alias" >1475867498</attribute>
+<attribute name="Created" >2016-10-07T11:48:09-08:00</attribute>
 <attribute name="Height" >3</attribute>
-<attribute name="Modified" >2016-08-11T07:39:11-08:00</attribute>
+<attribute name="Modified" >2016-10-07T11:48:09-08:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >29</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Width" >3</attribute>
-<attribute name="Xpos" >-9.86599525</attribute>
-<attribute name="Ypos" >12.61996634</attribute>
+<attribute name="Xpos" >8.777054811</attribute>
+<attribute name="Ypos" >9.73179493</attribute>
+</item>
+<item ID="1475869906" Creator="sscott" >
+<attribute name="Alias" >1475867487</attribute>
+<attribute name="Created" >2016-10-07T11:46:57-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:46:57-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >12.27705481</attribute>
+<attribute name="Ypos" >9.73179493</attribute>
+</item>
+<item ID="1475869889" Creator="sscott" >
+<attribute name="Alias" >1475867502</attribute>
+<attribute name="Created" >2016-10-07T11:48:31-08:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="Modified" >2016-10-07T11:48:31-08:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >5.277054811</attribute>
+<attribute name="Ypos" >2.73179493</attribute>
 </item>
 </agent>
 <agent ID="1470953402" Creator="sscott" proto="pAgent" >
@@ -13010,7 +13010,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-10-30T20:55:54-08:00</attribute>
 <attribute name="Modified" >2016-10-30T20:55:54-08:00</attribute>
 <attribute name="Name" >Vocabulary</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Sort" >Name</attribute>
 <attribute name="Unit" >5</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -25564,7 +25564,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Dropbox/Public/2016</ExportFolder>
+<ExportFolder > ~/Dropbox/Public/2017</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -25593,7 +25593,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1314</InspectorX>
-<InspectorY > 218</InspectorY>
+<InspectorY > 42</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25634,10 +25634,10 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 106 -46 1782 981]" ruler="1" >
+<window bounds="Rect[ 0 0 1676 1027]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1481065373" scrollX="0" scrollY="0" selection="1481065373 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="0" selection="1477886155 " expanded="1470690280 1470952645 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470679051 1470675649 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.462411" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="7" selection="1470690280 " expanded="1470675565 1470690280 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.462411" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
