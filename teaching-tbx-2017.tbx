@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="10" savedBy="6.6.4" >
+<tinderbox version="2" revision="10" savedBy="6.6.5" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -874,11 +874,11 @@
 <attribute name="KeyAttributes" >CourseName;CourseFullName;CourseStartDate;Season;Year;Teacher;StartDate;EndDate</attribute>
 <attribute name="MapScrollX" >9.044256122</attribute>
 <attribute name="MapScrollY" >46.45341167</attribute>
-<attribute name="Modified" >2016-12-12T07:55:50-08:00</attribute>
-<attribute name="Name" >row-fall-2016</attribute>
+<attribute name="Modified" >2016-12-19T17:33:49-08:00</attribute>
+<attribute name="Name" >row-spring-2017</attribute>
 <attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >155</attribute>
+<attribute name="SelectionCount" >160</attribute>
 <attribute name="StartDate" >2017-01-05T14:34:07-08:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
@@ -889,10 +889,10 @@
 
 ^include(ROW Resources)^
 ^include(ROW Glossary)^
-^include(The People of ROW)^
+
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7pAgAAKwAAAAEAAADhAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGljYTtcZjFcZm5pbFxmY2hhcnNldDAgSG9lZmxlclRleHQtUmVndWxhcjt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQwXGdyZWVuMFxibHVlMTk0O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7XGNzZ3JheVxjMTAwMDAwO1xjc2dlbmVyaWNyZ2JcYzBcYzBcYzc2MDc4O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2w0NDhccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvOTE2MTA3L3Jvdy13ZWIvcm93LWNvdmVyLnBuZyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIC8+XApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2w0NDhccGFydGlnaHRlbmZhY3RvcjAKClxmMVxmczI0IFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccGFyZGVmdGFiNzIwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBeaW5jbHVkZShST1cgUmVzb3VyY2VzKV5cCl5pbmNsdWRlKFJPVyBHbG9zc2FyeSleXApeaW5jbHVkZShUaGUgUGVvcGxlIG9mIFJPVyleXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACGyE5YtgEAAAAAAAAAAAAA</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7NAgAAKwAAAAEAAADFAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmc3dpc3NcZmNoYXJzZXQwIEhlbHZldGljYTtcZjFcZm5pbFxmY2hhcnNldDAgSG9lZmxlclRleHQtUmVndWxhcjt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQwXGdyZWVuMFxibHVlMTk0O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7XGNzZ3JheVxjMTAwMDAwO1xjc2dlbmVyaWNyZ2JcYzBcYzBcYzc2MDc4O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2w0NDhccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvOTE2MTA3L3Jvdy13ZWIvcm93LWNvdmVyLnBuZyIgY2xhc3M9ImltZy1yZXNwb25zaXZlIC8+XApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2w0NDhccGFydGlnaHRlbmZhY3RvcjAKClxmMVxmczI0IFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccGFyZGVmdGFiNzIwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBeaW5jbHVkZShST1cgUmVzb3VyY2VzKV5cCl5pbmNsdWRlKFJPVyBHbG9zc2FyeSleXApcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAH2KWFi2AQAAAAAAAAAAAAA=</rtfd>
 <item ID="1470689191" Creator="sscott" proto="pWeek" >
 <attribute name="CourseName" >ROW</attribute>
 <attribute name="Created" >2016-08-08T13:46:30-08:00</attribute>
@@ -903,7 +903,7 @@
 <attribute name="MapScrollY" >8.379059766</attribute>
 <attribute name="Modified" >2016-08-14T20:11:07-08:00</attribute>
 <attribute name="Name" >1</attribute>
-<attribute name="SelectionCount" >89</attribute>
+<attribute name="SelectionCount" >90</attribute>
 <attribute name="StartDate" >2017-01-05T14:34:00-08:00</attribute>
 <attribute name="WeekName" >1-8/15/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >1</attribute>
@@ -921,9 +921,9 @@
 <attribute name="MapImage" >https://dl.dropboxusercontent.com/u/916107/teachdocs/row-01-ordo.png</attribute>
 <attribute name="MapScrollX" >9.582076731</attribute>
 <attribute name="MapScrollY" >8.414954109</attribute>
-<attribute name="Modified" >2016-08-14T07:43:33-08:00</attribute>
+<attribute name="Modified" >2016-12-19T17:51:30-08:00</attribute>
 <attribute name="Name" >Class 1-1</attribute>
-<attribute name="SelectionCount" >119</attribute>
+<attribute name="SelectionCount" >123</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >10</attribute>
@@ -933,7 +933,59 @@
 <text >
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC76AAAAKwAAAAEAAADyAAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACVg7BXtgEAAAAAAAAAAAAA</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4hAQAAKwAAAAEAAAAZAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDtcY3NncmF5XGMxMDAwMDA7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgXApcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACijlhYtgEAAAAAAAAAAAAA</rtfd>
+<item ID="1482199753" Creator="sscott" >
+<attribute name="Created" >2016-12-19T17:51:14-08:00</attribute>
+<attribute name="Modified" >2016-12-19T17:51:24-08:00</attribute>
+<attribute name="Name" >Hafiz</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Stop Being So Religious
+What
+Do sad people have in
+Common?
+
+It seems
+They have all built a shrine
+To the past
+And often go there
+And do a strange wail and
+Worship.
+
+What is the beginning of
+Happiness?
+It is to stop being
+So religious
+Like That.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC45AgAAKwAAAAEAAAAxAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7XGNzZ3JheVxjMTAwMDAwO1xjc3NyZ2JcYzBcYzBcYzA7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczM2IFxjZjIgU3RvcCBCZWluZyBTbyBSZWxpZ2lvdXNcCldoYXRcCkRvIHNhZCBwZW9wbGUgaGF2ZSBpblwKQ29tbW9uP1wKXApJdCBzZWVtc1wKVGhleSBoYXZlIGFsbCBidWlsdCBhIHNocmluZVwKVG8gdGhlIHBhc3RcCkFuZCBvZnRlbiBnbyB0aGVyZVwKQW5kIGRvIGEgc3RyYW5nZSB3YWlsIGFuZFwKV29yc2hpcC5cClwKV2hhdCBpcyB0aGUgYmVnaW5uaW5nIG9mXApIYXBwaW5lc3M/XApJdCBpcyB0byBzdG9wIGJlaW5nXApTbyByZWxpZ2lvdXNcCkxpa2UgVGhhdC59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAVJNYWLYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1482199754" Creator="sscott" >
+<attribute name="Created" >2016-12-19T17:51:36-08:00</attribute>
+<attribute name="Modified" >2016-12-19T17:51:36-08:00</attribute>
+<attribute name="Name" >Prayer</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1482199755" Creator="sscott" >
+<attribute name="Created" >2016-12-19T17:51:45-08:00</attribute>
+<attribute name="Modified" >2016-12-19T17:51:45-08:00</attribute>
+<attribute name="Name" >Syllabus</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >7</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1482199756" Creator="sscott" >
+<attribute name="Created" >2016-12-19T17:51:53-08:00</attribute>
+<attribute name="Modified" >2016-12-19T17:52:02-08:00</attribute>
+<attribute name="Name" >Homework</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >10.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >Read pages 10-15</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5LAQAAKwAAAAEAAABDAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7XGNzZ3JheVxjMTAwMDAwO1xjc3NyZ2JcYzBcYzBcYzA7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczM2IFxjZjIgUmVhZCBwYWdlcyAxMC0xNX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADCjlhYtgEAAAAAAAAAAAAA</rtfd>
+</item>
 </item>
 <item ID="1470847800" Creator="sscott" proto="pDay" >
 <attribute name="ClassName" >1-2</attribute>
@@ -20438,7 +20490,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-11-10T09:04:19-08:00</attribute>
 <attribute name="Name" >html-map</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;pHTML&quot;;$IsTemplate=true;</attribute>
-<attribute name="SelectionCount" >183</attribute>
+<attribute name="SelectionCount" >186</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >2.36</attribute>
 <text >&lt;!DOCTYPE html&gt;
@@ -20571,7 +20623,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:45:22-08:00</attribute>
 <attribute name="Modified" >2016-08-11T22:10:59-08:00</attribute>
 <attribute name="Name" >html-map-week</attribute>
-<attribute name="SelectionCount" >86</attribute>
+<attribute name="SelectionCount" >91</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;container&quot;&gt;
@@ -20622,9 +20674,9 @@ $Unit = Unit(parent);</attribute>
 </item>
 <item ID="1470862132" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-10T13:48:51-08:00</attribute>
-<attribute name="Modified" >2016-08-14T21:11:33-08:00</attribute>
+<attribute name="Modified" >2016-12-19T18:06:23-08:00</attribute>
 <attribute name="Name" >html-map-day</attribute>
-<attribute name="SelectionCount" >95</attribute>
+<attribute name="SelectionCount" >101</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;col-md-12&quot;&gt;
@@ -20634,7 +20686,7 @@ $Unit = Unit(parent);</attribute>
   &lt;/div&gt;
   &lt;div class=&quot;panel-body&quot;&gt;
 &lt;div class=&quot;row&quot;&gt;
-&lt;div class=&quot;col-md-9&quot;&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
 &lt;img src=&quot;https://dl.dropboxusercontent.com/u/916107/teachdocs/^value($CourseName)^-^value($WeekNumber)^-^value($ClassNum)^-ordo.png&quot; class=&quot;img-responsive center-block&quot;&gt;
 
 
@@ -20643,7 +20695,7 @@ $Unit = Unit(parent);</attribute>
 &lt;/div&gt;
 
 
-&lt;div class=&quot;col-md-3&quot;&gt;
+&lt;div class=&quot;col-md-6&quot;&gt;
 
 &lt;p&gt;^text&lt;/p&gt;
 
@@ -20677,16 +20729,16 @@ $Unit = Unit(parent);</attribute>
 
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5FCQAAKwAAAAEAAAA9CQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBIZWx2ZXRpY2FOZXVlLU1lZGl1bTsKfQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzdcZ3JlZW45MVxibHVlMTQxO1xyZWQyNDVcZ3JlZW4yNDVcYmx1ZTI0NztccmVkMzhcZ3JlZW4zOFxibHVlMzg7ClxyZWQ2NVxncmVlbjE0MVxibHVlMTk2O1xyZWQyMDBcZ3JlZW41MVxibHVlNjM7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjYgXGNmMiBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwCjxkaXYgY2xhc3M9ImNvbC1tZC0xMiI+XApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcY2IzIDxkaXZcY2Y0ICBcY2Y1IGNsYXNzPVxjZjYgInBhbmVsIHBhbmVsLWRlZmF1bHQiXGNmMiA+XGNmNCBcCiAgXGNmMiA8ZGl2XGNmNCAgXGNmNSBjbGFzcz1cY2Y2ICJwYW5lbC1oZWFkaW5nIlxjZjIgPlxjZjQgXAogICAgXGNmMiA8aDNcY2Y0ICBcY2Y1IGNsYXNzPVxjZjYgInBhbmVsLXRpdGxlIlxjZjIgPlxjZjQgXGNiMSBedGl0bGVcY2YyIFxjYjMgPC9oMz5cY2Y0IFwKICBcY2YyIDwvZGl2PlxjZjQgXAogIFxjZjIgPGRpdlxjZjQgIFxjZjUgY2xhc3M9XGNmNiAicGFuZWwtYm9keSJcY2YyID5cY2Y0IFwKPGRpdiBjbGFzcz0icm93Ij5cY2IxIFwKPGRpdiBjbGFzcz0iY29sLW1kLTkiPlxjZjIgXAo8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvOTE2MTA3L3RlYWNoZG9jcy9edmFsdWUoJENvdXJzZU5hbWUpXi1edmFsdWUoJFdlZWtOdW1iZXIpXi1edmFsdWUoJENsYXNzTnVtKV4tb3Jkby5wbmciIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBjZW50ZXItYmxvY2siPlwKXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmNCA8L2Rpdj5cClwKXAo8ZGl2IGNsYXNzPSJjb2wtbWQtMyI+XApcCjxwPl50ZXh0PC9wPlwKXApccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIDxvbD5cCl5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC1jaGlsZClcCjwvb2w+ClxmMFxmczI2IFxjZjQgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IDwvZGl2PlwKXAo8L2Rpdj5cClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFxjYjMgXAogXApccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIDwvZGl2PlxjZjQgXApcY2YyIDwvZGl2PlxjZjQgXGNiMSBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXApcClwKXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiA8L2Rpdj5cClwKXApccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjJcZnM2MCBcY2Y0IFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNiBcY2YyIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjQgXApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKXGNmMiBcClwKXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMApcY2Y0IFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAPVAsVe2AQAAAAAAAAAAAAA=</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6qAwAAKwAAAAEAAACiAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTt9CntcKlxleHBhbmRlZGNvbG9ydGJsO1xjc2dyYXlcYzEwMDAwMDtcY3NnZW5lcmljcmdiXGMxNDUxMFxjMzU2ODZcYzU1Mjk0O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPlwKPGRpdiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+XAogIDxkaXYgY2xhc3M9InBhbmVsLWhlYWRpbmciPlwKICAgIDxoMyBjbGFzcz0icGFuZWwtdGl0bGUiPl50aXRsZTwvaDM+XAogIDwvZGl2PlwKICA8ZGl2IGNsYXNzPSJwYW5lbC1ib2R5Ij5cCjxkaXYgY2xhc3M9InJvdyI+XAo8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+XAo8aW1nIHNyYz0iaHR0cHM6Ly9kbC5kcm9wYm94dXNlcmNvbnRlbnQuY29tL3UvOTE2MTA3L3RlYWNoZG9jcy9edmFsdWUoJENvdXJzZU5hbWUpXi1edmFsdWUoJFdlZWtOdW1iZXIpXi1edmFsdWUoJENsYXNzTnVtKV4tb3Jkby5wbmciIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSBjZW50ZXItYmxvY2siPlwKXApcClwKXAo8L2Rpdj5cClwKXAo8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+XApcCjxwPl50ZXh0PC9wPlwKXAo8b2w+XApeY2hpbGRyZW4oL3N5c3RlbS90ZW1wbGF0ZXMvaHRtbC1tYXAvaHRtbC1tYXAtY2hpbGQpXAo8L29sPlwKPC9kaXY+XApcCjwvZGl2PlwKXAogXApcClwKXAo8L2Rpdj5cCjwvZGl2PlwKXApcClwKXApcCjwvZGl2PlwKXApcClwKXApcClwKXApcClwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAH5JYWLYBAAAAAAAAAAAAAA==</rtfd>
 </item>
 <item ID="1470862069" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-10T13:47:48-08:00</attribute>
-<attribute name="Modified" >2016-08-11T22:33:17-08:00</attribute>
+<attribute name="Modified" >2016-12-19T18:10:53-08:00</attribute>
 <attribute name="Name" >html-map-child</attribute>
-<attribute name="SelectionCount" >50</attribute>
+<attribute name="SelectionCount" >55</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >&lt;b&gt;^title^&lt;/b&gt;
+<text >&lt;li&gt;&lt;b&gt;^title^&lt;/b&gt;&lt;/li&gt;
 ^text^
 ^children(/system/templates/html-map/html-map-sub)
 
@@ -20694,13 +20746,13 @@ $Unit = Unit(parent);</attribute>
 
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC62AwAAKwAAAAEAAACuAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzOFxncmVlbjM4XGJsdWUzODt9ClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgPGI+XnRpdGxlXjwvYj5cCl50ZXh0XlwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMSBcY2YwIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sLW1hcC9odG1sLW1hcC1zdWIpClxmMCBcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYyXGZzMjYgXGNmMiBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXApccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAnV+tV7YBAAAAAAAAAAAAAA==</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4JBAAAKwAAAAEAAAABBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO1xmMVxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO1xmMlxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyOwp9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O1xyZWQzOFxncmVlbjM4XGJsdWUzODt9CntcKlxleHBhbmRlZGNvbG9ydGJsO1xjc2dyYXlcYzEwMDAwMDtcY3NnZW5lcmljcmdiXGMxNDkwMlxjMTQ5MDJcYzE0OTAyO30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMCA8bGk+PGI+XnRpdGxlXjwvYj48L2xpPlwKXnRleHReXApccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxIFxjZjAgXmNoaWxkcmVuKC9zeXN0ZW0vdGVtcGxhdGVzL2h0bWwtbWFwL2h0bWwtbWFwLXN1YikKXGYwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHNsMzYwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjJcZnMyNiBcY2YyIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKXApcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAtk1hYtgEAAAAAAAAAAAAA</rtfd>
 </item>
 <item ID="1470979649" Creator="sscott" proto="pHTML" >
 <attribute name="Created" >2016-08-11T22:27:28-08:00</attribute>
 <attribute name="Modified" >2016-08-11T22:27:28-08:00</attribute>
 <attribute name="Name" >html-map-sub</attribute>
-<attribute name="SelectionCount" >48</attribute>
+<attribute name="SelectionCount" >49</attribute>
 <attribute name="Xpos" >14</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;li&gt; ^title^
@@ -25554,7 +25606,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 6.6.4</Version>
+<Version > version 6.6.5</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -25592,8 +25644,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1314</InspectorX>
-<InspectorY > 42</InspectorY>
+<InspectorX > 975</InspectorX>
+<InspectorY > 104</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25634,10 +25686,10 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 0 0 1676 1027]" ruler="1" >
+<window bounds="Rect[ 35 0 1471 877]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1481065373" scrollX="0" scrollY="0" selection="1481065373 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="7" selection="1470690280 " expanded="1470675565 1470690280 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.462411" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1482199753" scrollX="0" scrollY="0" selection="1482199753 " expanded="1470675565 1470690280 1470689191 1470683554 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470679051 1470675649 1470861821 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.566852" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
