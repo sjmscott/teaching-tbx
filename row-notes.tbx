@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="10" savedBy="6.6.4" >
+<tinderbox version="2" revision="12" savedBy="7.0.3" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -56,6 +56,20 @@
 <attrib Name="ShadowDistance" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="5" >
 </attrib>
 <attrib Name="Shape" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Composites" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Associates" parent="Composites" editable="0" visibleInEditor="1" type="8" canInherit="0" default="" >
+</attrib>
+<attrib Name="IsComposite" parent="Composites" editable="0" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="IsMultiple" parent="Composites" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="NeverComposite" parent="Composites" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="OnJoin" parent="Composites" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="Role" parent="Composites" editable="1" visibleInEditor="1" default="" >
 </attrib>
 </attrib>
 <attrib Name="Events" parent="System" editable="0" visibleInEditor="1" default="" >
@@ -129,6 +143,8 @@
 </attrib>
 <attrib Name="HoverExpression" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
 </attrib>
+<attrib Name="HoverImage" parent="General" editable="1" visibleInEditor="1" type="3" default="" >
+</attrib>
 <attrib Name="HoverOpacity" parent="General" editable="1" visibleInEditor="1" type="2" default="0.5" >
 </attrib>
 <attrib Name="ID" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
@@ -146,6 +162,8 @@
 <attrib Name="Name" parent="General" editable="1" visibleInEditor="1" canInherit="0" default="untitled" >
 </attrib>
 <attrib Name="OnAdd" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="OnRemove" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
 </attrib>
 <attrib Name="OutboundLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
 </attrib>
@@ -253,6 +271,10 @@
 </attrib>
 <attrib Name="HTMLFirstParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;p&gt;" >
 </attrib>
+<attrib Name="HTMLFont" parent="HTML" editable="1" visibleInEditor="1" type="11" default="Andale Mono" >
+</attrib>
+<attrib Name="HTMLFontSize" parent="HTML" editable="1" visibleInEditor="1" type="2" default="13" >
+</attrib>
 <attrib Name="HTMLImageEnd" parent="HTML" editable="1" visibleInEditor="1" default="&gt;" >
 </attrib>
 <attrib Name="HTMLImageStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;img" >
@@ -264,6 +286,8 @@
 <attrib Name="HTMLItalicEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/i&gt;" >
 </attrib>
 <attrib Name="HTMLItalicStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;i&gt;" >
+</attrib>
+<attrib Name="HTMLLinkExtension" parent="HTML" editable="1" visibleInEditor="1" default=".html" >
 </attrib>
 <attrib Name="HTMLListEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/ul&gt;" >
 </attrib>
@@ -315,6 +339,8 @@
 </attrib>
 </attrib>
 <attrib Name="Map" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AdornmentFont" parent="Map" editable="1" visibleInEditor="1" type="11" default="RingsideCondensedSSm-Light" >
+</attrib>
 <attrib Name="Base" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
 </attrib>
 <attrib Name="Bend" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
@@ -326,6 +352,8 @@
 <attrib Name="FillOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.75" >
 </attrib>
 <attrib Name="Height" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="1.86" >
+</attrib>
+<attrib Name="HoverFont" parent="Map" editable="1" visibleInEditor="1" type="11" default="RingsideCondensedSSm-Med" >
 </attrib>
 <attrib Name="InteriorScale" parent="Map" editable="1" visibleInEditor="1" kind="20" type="2" default="1.5" >
 </attrib>
@@ -653,7 +681,7 @@
 </attrib>
 <attrib Name="Tabs" parent="TextFormat" editable="1" visibleInEditor="1" default="0.25;0.25;0.25;0.25;" >
 </attrib>
-<attrib Name="TextAlign" parent="TextFormat" editable="1" visibleInEditor="1" kind="22" default="" >
+<attrib Name="TextAlign" parent="TextFormat" editable="1" visibleInEditor="1" kind="22" default="left" >
 </attrib>
 <attrib Name="TextBackgroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="8" type="1" default="#ffffff" >
 </attrib>
@@ -755,23 +783,29 @@
 <linkType name="update" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
 </linkTypes>
 <item ID="1472149114" Creator="sscott" >
-<attribute name="MapScrollX" >0</attribute>
-<attribute name="MapScrollY" >0</attribute>
+<attribute name="Associates" ></attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0.015625</attribute>
+<attribute name="MapScrollY" >-0.00020996</attribute>
 <attribute name="Name" >row-notes</attribute>
 <item ID="1472149209" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:20:08-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >10.4296875</attribute>
 <attribute name="MapScrollY" >-2.5078125</attribute>
 <attribute name="Modified" >2016-08-25T11:20:08-07:00</attribute>
 <attribute name="Name" >Methods of Studying Religion</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="Xpos" >1.915527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472149166" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:19:25-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:26:08-07:00</attribute>
 <attribute name="Name" >Historical-Comparative Method</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
@@ -779,10 +813,12 @@
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5fAQAAKwAAAAEAAABXAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMiBjb21wYXJlcyByZWxpZ2lvbiBiYXNlZCBvbiBoaXN0b3JpY2FsIHJlc2VhcmNoIG9mIHRoZWlyIG1vc3QgaW1wb3J0YW50IHRleHRzIGluIHRoZWlyIGNvbnRleHRzfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEA4v1e2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 <item ID="1472149572" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:26:11-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:29:06-07:00</attribute>
 <attribute name="Name" >Phenomenological Method</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-12.32041992</attribute>
@@ -791,11 +827,13 @@
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5rAQAAKwAAAAEAAABjAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMiBGb2N1c2VzIG9uIGNvbXBhcmF0aXZlIGRlc2NyaXB0aW9uIG9mIHJlbGlnaW91cyBwaGVub21lbmEsIHN1Y2ggYXMgaW1hZ2VzIG9mIEdvZCwgcHJheWVyLCBhbmQgc2NyaXB0dXJlLlwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAPI4v1e2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 <item ID="1472149789" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:29:48-07:00</attribute>
 <attribute name="Height" >1.671601563</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:30:39-07:00</attribute>
 <attribute name="Name" >Confessional Approach</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-9.460419922</attribute>
@@ -803,10 +841,12 @@
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5qAQAAKwAAAAEAAABiAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMiBhc3N1bWVzIHRoZSBmYWl0aCBvZiBvbmUgcGFydGljdWxhciB0cmFkaXRpb24gYW5kIHVuZGVyc2NvcmVzIHRoZSBkaWZmZXJlbmNlcyB3aXRoIG90aGVyIGZhaXRoIHRyYWRpdGlvbnN9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAATzm/V7YBAAAAAAAAAAAAAA==</rtfd>
 </item>
 <item ID="1472149845" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:30:44-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:34:02-07:00</attribute>
 <attribute name="Name" >Empathetic Approach</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Width" >8.8046875</attribute>
 <attribute name="Xpos" >-7.389160156</attribute>
 <attribute name="Ypos" >-6.600419922</attribute>
@@ -815,17 +855,19 @@
 </item>
 </item>
 <item ID="1472150620" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:43:39-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:43:39-07:00</attribute>
 <attribute name="Name" >Outsider Perspective</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >5.415527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472150628" Creator="sscott" >
 <attribute name="Created" >2016-08-25T11:43:47-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:43:47-07:00</attribute>
 <attribute name="Name" >What basic question does this religion try to answer?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >8.915527344</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -833,7 +875,7 @@
 <attribute name="Created" >2016-08-25T11:44:05-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:44:05-07:00</attribute>
 <attribute name="Name" >What is &apos;the way&apos; this religion claims to offer?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >12.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -841,7 +883,7 @@
 <attribute name="Created" >2016-08-25T11:45:36-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:45:36-07:00</attribute>
 <attribute name="Name" >What is the history of the religion?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >15.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -849,7 +891,7 @@
 <attribute name="Created" >2016-08-25T11:46:00-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:46:00-07:00</attribute>
 <attribute name="Name" >What is holy or divine?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >19.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -857,7 +899,7 @@
 <attribute name="Created" >2016-08-25T11:48:17-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:48:17-07:00</attribute>
 <attribute name="Name" >What are the conceptions of human beings?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >22.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -865,7 +907,7 @@
 <attribute name="Created" >2016-08-25T11:52:23-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:52:23-07:00</attribute>
 <attribute name="Name" >what are the typical practices in the religion?</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >26.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
@@ -873,16 +915,18 @@
 <attribute name="Created" >2016-08-25T11:52:52-07:00</attribute>
 <attribute name="Modified" >2016-08-25T11:52:52-07:00</attribute>
 <attribute name="Name" >dialog with Christianity</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >29.91552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 </item>
 </item>
 <item ID="1472151197" Creator="sscott" >
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2016-08-25T11:53:16-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2016-08-25T11:53:16-07:00</attribute>
 <attribute name="Name" >Insider Perspective</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >33.41552734</attribute>
 <attribute name="Ypos" >-15.18041992</attribute>
 <item ID="1472151203" Creator="sscott" >
@@ -914,7 +958,7 @@
 <RightMargin > -2</RightMargin>
 <ParagraphSpacing > 4</ParagraphSpacing>
 <TextFont > HoeflerText-Regular</TextFont>
-<TextSize > 5</TextSize>
+<NewTextSize > 16</NewTextSize>
 <TextJust > 0</TextJust>
 <AlwaysShowTextLinks > 1</AlwaysShowTextLinks>
 <ShowWikiLinks > 1</ShowWikiLinks>
@@ -932,7 +976,7 @@
 <MapShowLinks > 1</MapShowLinks>
 <MapEnacted > 1</MapEnacted>
 <InPlaceEditing > 1</InPlaceEditing>
-<MapLabelSize > 4</MapLabelSize>
+<MapLabelSizeNew > 14</MapLabelSizeNew>
 <MapBackgroundColorString > #f2f2ed</MapBackgroundColorString>
 <MapBackgroundColorString2 > #f2f2ed</MapBackgroundColorString2>
 <OpaqueAdornments > 0</OpaqueAdornments>
@@ -969,7 +1013,7 @@
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 6.6.4</Version>
+<Version > version 7.0.3</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 1</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -1032,6 +1076,7 @@
 <MapBackgroundColor2 > 0 0 0</MapBackgroundColor2>
 <TextColor > 0 0 0</TextColor>
 <TextBackgroundColor > 65535 65535 65535</TextBackgroundColor>
+<TextSize > 5</TextSize>
 <TitleBackgroundColor > 0 0 0</TitleBackgroundColor>
 <TitleForegroundColor > 65535 65535 65535</TitleForegroundColor>
 <ActiveLinkColor > 65535 0 0</ActiveLinkColor>
@@ -1044,14 +1089,15 @@
 <ShowSidebar > 1</ShowSidebar>
 <MapPrototypeColor > 52428 61166 52428</MapPrototypeColor>
 <TextLinkColor > 0 26112 52224</TextLinkColor>
+<MapLabelSize > 4</MapLabelSize>
 <LastVersionString > </LastVersionString>
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 664 137 2005 937]" ruler="0" >
+<window bounds="Rect[ 25 54 1366 854]" ruler="0" >
 <tabs >
-<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="524.75" scrollY="590" selection="1472149209 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.216257" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="0" scrollY="0" selection="1472151197 1472149209 1472149166 1472149572 1472149789 1472149845 1472150620 1472150628 1472150646 1472150737 1472150761 1472150898 1472151144 1472151173 " expanded="1472149209 1472150620 1472151197 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" summaryAttribute="" summaryMethod="" splitRatio="0.499627" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149209" scrollX="1012.06" scrollY="453.117" selection="1472149209 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.216257" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1472149114" scrollX="0" scrollY="0" selection="1472149209 " expanded="1472149209 1472150620 1472151197 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.499627" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>

@@ -858,13 +858,13 @@
 <attribute name="HTMLExportExtension" >.opml</attribute>
 <attribute name="MapScrollX" >0</attribute>
 <attribute name="MapScrollY" >0</attribute>
-<attribute name="Name" >teaching-tbx</attribute>
+<attribute name="Name" >teaching-tbx-spring-17</attribute>
 <item ID="1471009515" Creator="sscott" >
 <attribute name="Created" >2016-08-12T06:45:14-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2016-08-12T06:45:14-07:00</attribute>
 <attribute name="Name" >ROW</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Separator" >true</attribute>
 <attribute name="SortAlsoTransform" ></attribute>
 <attribute name="SortTransform" ></attribute>
@@ -991,7 +991,7 @@
 <attribute name="Created" >2016-08-10T09:48:24-07:00</attribute>
 <attribute name="Modified" >2016-08-14T08:34:44-07:00</attribute>
 <attribute name="Name" >Class 1-3</attribute>
-<attribute name="SelectionCount" >25</attribute>
+<attribute name="SelectionCount" >22</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >10</attribute>
@@ -1070,7 +1070,7 @@
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-08T14:33:39-07:00</attribute>
 <attribute name="Name" >3</attribute>
-<attribute name="SelectionCount" >31</attribute>
+<attribute name="SelectionCount" >30</attribute>
 <attribute name="StartDate" >2016-08-29T14:34:00-07:00</attribute>
 <attribute name="WeekName" >3-8/29/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >3</attribute>
@@ -1085,7 +1085,7 @@
 <attribute name="Created" >2016-08-08T16:19:01-07:00</attribute>
 <attribute name="Modified" >2016-08-28T18:18:07-07:00</attribute>
 <attribute name="Name" >Class 3-1</attribute>
-<attribute name="SelectionCount" >13</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >3</attribute>
 <attribute name="Xpos" >25.36881118</attribute>
@@ -1337,7 +1337,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-08-10T20:40:35-07:00</attribute>
 <attribute name="Modified" >2016-08-10T20:40:35-07:00</attribute>
 <attribute name="Name" >Class 7-1</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >2</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >7</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -1380,7 +1380,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-12T13:45:25-07:00</attribute>
 <attribute name="Name" >8</attribute>
-<attribute name="SelectionCount" >18</attribute>
+<attribute name="SelectionCount" >19</attribute>
 <attribute name="StartDate" >2016-10-03T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >8</attribute>
 <attribute name="Width" >7</attribute>
@@ -1396,7 +1396,7 @@ Joy Harjo, “Eagle Poem” from In Mad Love and War. Copyright © 1990 by Joy H
 <attribute name="Created" >2016-10-03T08:49:06-07:00</attribute>
 <attribute name="Modified" >2016-10-03T08:49:06-07:00</attribute>
 <attribute name="Name" >Class 8-1</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >8</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -1751,7 +1751,7 @@ Graded conversation on Gita</text>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:15-07:00</attribute>
 <attribute name="Name" >15</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >15</attribute>
 <attribute name="StartDate" >2016-11-21T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >15</attribute>
 <attribute name="Width" >7</attribute>
@@ -1765,7 +1765,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-10-07T11:48:06-07:00</attribute>
 <attribute name="Modified" >2016-10-07T11:48:06-07:00</attribute>
 <attribute name="Name" >Class 15-1</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="WeekNumber" >15</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1792,7 +1792,7 @@ Graded conversation on Gita</text>
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-11T14:57:18-07:00</attribute>
 <attribute name="Name" >16</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="StartDate" >2016-11-28T14:34:00-07:00</attribute>
 <attribute name="WeekNumber" >16</attribute>
 <attribute name="Width" >7</attribute>
@@ -1860,7 +1860,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-10-07T11:48:31-07:00</attribute>
 <attribute name="Modified" >2016-12-06T08:06:36-07:00</attribute>
 <attribute name="Name" >Class 17-1</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="WeekNumber" >17</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -1877,7 +1877,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-10-07T11:48:32-07:00</attribute>
 <attribute name="Modified" >2016-12-07T09:04:09-07:00</attribute>
 <attribute name="Name" >Class 17-2</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="WeekNumber" >17</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
@@ -9261,7 +9261,7 @@ focused on Buddha’s sayings</text>
 <attribute name="MapScrollY" >17.60604476</attribute>
 <attribute name="Modified" >2016-08-08T09:59:12-07:00</attribute>
 <attribute name="Name" >ICC</attribute>
-<attribute name="SelectionCount" >62</attribute>
+<attribute name="SelectionCount" >63</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >13.35451802</attribute>
 <attribute name="Xpos" >-1.791316931</attribute>
@@ -16507,7 +16507,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="MapScrollY" >14.34932133</attribute>
 <attribute name="Modified" >2016-12-06T15:02:52-07:00</attribute>
 <attribute name="Name" >Final Exam Vocab</attribute>
-<attribute name="SelectionCount" >101</attribute>
+<attribute name="SelectionCount" >103</attribute>
 <attribute name="Sort" >Unit</attribute>
 <attribute name="SortAlso" >Name</attribute>
 <attribute name="Width" >3</attribute>
@@ -24204,7 +24204,7 @@ Islam
 <attribute name="Height" >5</attribute>
 <attribute name="Modified" >2016-08-08T21:33:33-07:00</attribute>
 <attribute name="Name" >Simplenote</attribute>
-<attribute name="SelectionCount" >17</attribute>
+<attribute name="SelectionCount" >18</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >6.720000023</attribute>
 <attribute name="Ypos" >33.46753224</attribute>
@@ -25223,7 +25223,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Desktop</ExportFolder>
+<ExportFolder > ~/Dropbox/Public/2016</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -25297,8 +25297,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <windows >
 <window bounds="Rect[ 4 0 1440 877]" ruler="1" >
 <tabs >
-<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1481065373" scrollX="0" scrollY="0" selection="1481065373 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="0" selection="1470847705 " expanded="1470675565 1470689191 1470692020 1470694922 1470697636 1470886832 1470952645 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="0" selection="" expanded="1470952595 1470952636 1470952643 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="577" selection="1477085147 " expanded="1470675565 1470692020 1470694922 1470697636 1470952645 1471010817 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>

@@ -858,7 +858,7 @@
 <attribute name="HTMLExportExtension" >.opml</attribute>
 <attribute name="MapScrollX" >0</attribute>
 <attribute name="MapScrollY" >0</attribute>
-<attribute name="Name" >teaching-tbx</attribute>
+<attribute name="Name" >teaching-tbx-2</attribute>
 <item ID="1471009515" Creator="sscott" >
 <attribute name="Created" >2016-08-12T06:45:14-07:00</attribute>
 <attribute name="IsPrototype" >false</attribute>
@@ -894,7 +894,7 @@
 <attribute name="ClassNum" >1</attribute>
 <attribute name="CourseFullName" >Religions of the World</attribute>
 <attribute name="CourseName" >ROW</attribute>
-<attribute name="CourseStartDate" >2016-08-15T14:07:49-07:00</attribute>
+<attribute name="CourseStartDate" >2017-08-14T14:07:00-07:00</attribute>
 <attribute name="Created" >2016-08-08T14:04:39-07:00</attribute>
 <attribute name="EndDate" >2016-08-19T14:34:11-07:00</attribute>
 <attribute name="HTMLExportTemplate" >/system/templates/html-map</attribute>
@@ -903,10 +903,10 @@
 <attribute name="MapScrollX" >9.044256122</attribute>
 <attribute name="MapScrollY" >46.45341167</attribute>
 <attribute name="Modified" >2016-12-12T07:55:50-07:00</attribute>
-<attribute name="Name" >row-fall-2016</attribute>
+<attribute name="Name" >row-fall-2017</attribute>
 <attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >153</attribute>
+<attribute name="SelectionCount" >154</attribute>
 <attribute name="StartDate" >2016-08-15T14:34:07-07:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
@@ -951,7 +951,7 @@
 <attribute name="MapScrollY" >8.414954109</attribute>
 <attribute name="Modified" >2016-08-14T07:43:33-07:00</attribute>
 <attribute name="Name" >Class 1-1</attribute>
-<attribute name="SelectionCount" >119</attribute>
+<attribute name="SelectionCount" >120</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >10</attribute>
@@ -991,7 +991,7 @@
 <attribute name="Created" >2016-08-10T09:48:24-07:00</attribute>
 <attribute name="Modified" >2016-08-14T08:34:44-07:00</attribute>
 <attribute name="Name" >Class 1-3</attribute>
-<attribute name="SelectionCount" >25</attribute>
+<attribute name="SelectionCount" >27</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >10</attribute>
@@ -1007,7 +1007,7 @@
 <attribute name="Height" >3</attribute>
 <attribute name="Modified" >2016-08-08T13:47:48-07:00</attribute>
 <attribute name="Name" >2</attribute>
-<attribute name="SelectionCount" >56</attribute>
+<attribute name="SelectionCount" >57</attribute>
 <attribute name="StartDate" >2016-08-22T14:34:00-07:00</attribute>
 <attribute name="WeekName" >2-8/22/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >2</attribute>
@@ -9261,7 +9261,7 @@ focused on Buddha’s sayings</text>
 <attribute name="MapScrollY" >17.60604476</attribute>
 <attribute name="Modified" >2016-08-08T09:59:12-07:00</attribute>
 <attribute name="Name" >ICC</attribute>
-<attribute name="SelectionCount" >62</attribute>
+<attribute name="SelectionCount" >63</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >13.35451802</attribute>
 <attribute name="Xpos" >-1.791316931</attribute>
@@ -16507,7 +16507,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="MapScrollY" >14.34932133</attribute>
 <attribute name="Modified" >2016-12-06T15:02:52-07:00</attribute>
 <attribute name="Name" >Final Exam Vocab</attribute>
-<attribute name="SelectionCount" >101</attribute>
+<attribute name="SelectionCount" >103</attribute>
 <attribute name="Sort" >Unit</attribute>
 <attribute name="SortAlso" >Name</attribute>
 <attribute name="Width" >3</attribute>
@@ -25223,7 +25223,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Desktop</ExportFolder>
+<ExportFolder > ~/Desktop/tbx2</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -25297,8 +25297,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <windows >
 <window bounds="Rect[ 4 0 1440 877]" ruler="1" >
 <tabs >
-<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1481065373" scrollX="0" scrollY="0" selection="1481065373 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="0" selection="1470847705 " expanded="1470675565 1470689191 1470692020 1470694922 1470697636 1470886832 1470952645 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="0" selection="1470683554 " expanded="1470675565 1470690280 1470689191 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="0" selection="1470847705 " expanded="1470675565 1470689191 1470692020 1470694922 1470697636 1470886832 1470952645 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>

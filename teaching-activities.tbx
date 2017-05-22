@@ -1,0 +1,3786 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tinderbox version="2" revision="12" savedBy="7.0.3" >
+<attrib Name="anything" editable="0" visibleInEditor="1" default="" >
+<attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
+<attrib Name="AgentAction" parent="Agent" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="AgentCaseSensitive" parent="Agent" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="AgentPriority" parent="Agent" editable="1" visibleInEditor="1" type="2" canInherit="0" default="1" >
+</attrib>
+<attrib Name="AgentQuery" parent="Agent" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Appearance" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Badge" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="BadgeMonochrome" parent="Appearance" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="BadgeSize" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Border" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="2" >
+</attrib>
+<attrib Name="BorderBevel" parent="Appearance" editable="1" visibleInEditor="1" default="automatic" >
+</attrib>
+<attrib Name="BorderColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="BorderDash" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="CaptionAlignment" parent="Appearance" editable="1" visibleInEditor="1" default="left" >
+</attrib>
+<attrib Name="CaptionColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="blue" >
+</attrib>
+<attrib Name="CaptionFont" parent="Appearance" editable="1" visibleInEditor="1" type="11" default="SketchnoteSquare" >
+</attrib>
+<attrib Name="CaptionOpacity" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="CaptionSize" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="Color" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="warm gray dark" >
+</attrib>
+<attrib Name="Color2" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="dark warm gray dark" >
+</attrib>
+<attrib Name="Opacity" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="Pattern" parent="Appearance" editable="1" visibleInEditor="1" default="plain" >
+</attrib>
+<attrib Name="PlotColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="light green" >
+</attrib>
+<attrib Name="Shadow" parent="Appearance" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="ShadowBlur" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="10" >
+</attrib>
+<attrib Name="ShadowColor" parent="Appearance" editable="1" visibleInEditor="1" type="1" default="black" >
+</attrib>
+<attrib Name="ShadowDistance" parent="Appearance" editable="1" visibleInEditor="1" type="2" default="5" >
+</attrib>
+<attrib Name="Shape" parent="Appearance" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Composites" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Associates" parent="Composites" editable="0" visibleInEditor="1" type="8" canInherit="0" default="" >
+</attrib>
+<attrib Name="IsComposite" parent="Composites" editable="0" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="IsMultiple" parent="Composites" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="NeverComposite" parent="Composites" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="OnJoin" parent="Composites" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="Role" parent="Composites" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Events" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="DueDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="EndDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="StartDate" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="TimelineAliases" parent="Events" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="TimelineBand" parent="Events" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="TimelineBandLabelColor" parent="Events" editable="1" visibleInEditor="1" type="1" default="black" >
+</attrib>
+<attrib Name="TimelineBandLabelOpacity" parent="Events" editable="1" visibleInEditor="1" type="2" default="25" >
+</attrib>
+<attrib Name="TimelineBandLabels" parent="Events" editable="1" visibleInEditor="1" type="10" default="" >
+</attrib>
+<attrib Name="TimelineColor" parent="Events" editable="1" visibleInEditor="1" type="1" default="lighter warm gray" >
+</attrib>
+<attrib Name="TimelineDescendants" parent="Events" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="TimelineEnd" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="TimelineEndAttribute" parent="Events" editable="1" visibleInEditor="1" default="EndDate" >
+</attrib>
+<attrib Name="TimelineGridColor" parent="Events" editable="1" visibleInEditor="1" type="1" default="#009090" >
+</attrib>
+<attrib Name="TimelineMarker" parent="Events" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="TimelineScaleColor" parent="Events" editable="1" visibleInEditor="1" type="1" default="cool gray" >
+</attrib>
+<attrib Name="TimelineScaleColor2" parent="Events" editable="1" visibleInEditor="1" type="1" default="" >
+</attrib>
+<attrib Name="TimelineStart" parent="Events" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="TimelineStartAttribute" parent="Events" editable="1" visibleInEditor="1" default="StartDate" >
+</attrib>
+</attrib>
+<attrib Name="General" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AdornmentCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Caption" parent="General" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Checked" parent="General" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="ChildCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="CleanupAction" parent="General" editable="1" visibleInEditor="1" default="grid" >
+</attrib>
+<attrib Name="Container" parent="General" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Created" parent="General" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="Creator" parent="General" editable="0" visibleInEditor="1" kind="1" canInherit="0" default="Steve Scott" >
+</attrib>
+<attrib Name="DescendantCount" parent="General" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="DisplayExpression" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="DisplayExpressionDisabled" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="DisplayName" parent="General" editable="0" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Edict" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="EdictDisabled" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="File" parent="General" editable="1" visibleInEditor="1" type="3" default="" >
+</attrib>
+<attrib Name="HoverExpression" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="HoverImage" parent="General" editable="1" visibleInEditor="1" type="3" default="" >
+</attrib>
+<attrib Name="HoverOpacity" parent="General" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="ID" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="InboundLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="IsAdornment" parent="General" editable="0" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="IsAlias" parent="General" editable="0" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="IsPrototype" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="Modified" parent="General" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="Name" parent="General" editable="1" visibleInEditor="1" canInherit="0" default="untitled" >
+</attrib>
+<attrib Name="OnAdd" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="OnRemove" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="OutboundLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="OutlineDepth" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="OutlineOrder" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Path" parent="General" editable="0" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PlainLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Private" parent="General" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Prototype" parent="General" editable="1" visibleInEditor="1" canInherit="0" default="" >
+</attrib>
+<attrib Name="PrototypeBequeathsChildren" parent="General" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="ReadCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Rule" parent="General" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="RuleDisabled" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="false" >
+</attrib>
+<attrib Name="Searchable" parent="General" editable="1" visibleInEditor="1" type="4" canInherit="0" default="true" >
+</attrib>
+<attrib Name="SelectionCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="SiblingOrder" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Subtitle" parent="General" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="TextLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="WebLinkCount" parent="General" editable="0" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Grid" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="GridColor" parent="Grid" editable="1" visibleInEditor="1" type="1" default="#ffffff" >
+</attrib>
+<attrib Name="GridColumns" parent="Grid" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="GridLabelFont" parent="Grid" editable="1" visibleInEditor="1" type="11" default="IdealSansSSm-Book" >
+</attrib>
+<attrib Name="GridLabelSize" parent="Grid" editable="1" visibleInEditor="1" type="2" default="10" >
+</attrib>
+<attrib Name="GridLabels" parent="Grid" editable="1" visibleInEditor="1" type="10" default="" >
+</attrib>
+<attrib Name="GridOpacity" parent="Grid" editable="1" visibleInEditor="1" type="2" default="75" >
+</attrib>
+<attrib Name="GridRows" parent="Grid" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="HTML" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="HTMLBoldEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/b&gt;" >
+</attrib>
+<attrib Name="HTMLBoldStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;b&gt;" >
+</attrib>
+<attrib Name="HTMLCloud1End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud1Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 0.75em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud2End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud2Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 1em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud3End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud3Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 1.4em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud4End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud4Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 2em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLCloud5End" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/span&gt;" >
+</attrib>
+<attrib Name="HTMLCloud5Start" parent="HTML" editable="1" visibleInEditor="1" default="&lt;span style=&quot;font-size: 2.8em&quot; &gt;" >
+</attrib>
+<attrib Name="HTMLDontExport" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLEntities" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLExportAfter" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportBefore" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportChildren" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLExportCommand" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportExtension" parent="HTML" editable="1" visibleInEditor="1" kind="9" default=".html" >
+</attrib>
+<attrib Name="HTMLExportFileName" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportFileNameSpacer" parent="HTML" editable="1" visibleInEditor="1" default="_" >
+</attrib>
+<attrib Name="HTMLExportPath" parent="HTML" editable="0" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLExportTemplate" parent="HTML" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="HTMLFileNameLowerCase" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLFileNameMaxLength" parent="HTML" editable="1" visibleInEditor="1" type="2" default="24" >
+</attrib>
+<attrib Name="HTMLFirstParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/p&gt;" >
+</attrib>
+<attrib Name="HTMLFirstParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;p&gt;" >
+</attrib>
+<attrib Name="HTMLFont" parent="HTML" editable="1" visibleInEditor="1" type="11" default="Andale Mono" >
+</attrib>
+<attrib Name="HTMLFontSize" parent="HTML" editable="1" visibleInEditor="1" type="2" default="13" >
+</attrib>
+<attrib Name="HTMLImageEnd" parent="HTML" editable="1" visibleInEditor="1" default="&gt;" >
+</attrib>
+<attrib Name="HTMLImageStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;img" >
+</attrib>
+<attrib Name="HTMLIndentedParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/blockquote&gt;" >
+</attrib>
+<attrib Name="HTMLIndentedParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;blockquote&gt;" >
+</attrib>
+<attrib Name="HTMLItalicEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/i&gt;" >
+</attrib>
+<attrib Name="HTMLItalicStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;i&gt;" >
+</attrib>
+<attrib Name="HTMLLinkExtension" parent="HTML" editable="1" visibleInEditor="1" default=".html" >
+</attrib>
+<attrib Name="HTMLListEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/ul&gt;" >
+</attrib>
+<attrib Name="HTMLListItemEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/li&gt;" >
+</attrib>
+<attrib Name="HTMLListItemStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;li&gt;" >
+</attrib>
+<attrib Name="HTMLListStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;ul&gt;" >
+</attrib>
+<attrib Name="HTMLMarkupText" parent="HTML" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="HTMLOrderedListEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/ol&gt;" >
+</attrib>
+<attrib Name="HTMLOrderedListStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;ol&gt;" >
+</attrib>
+<attrib Name="HTMLOverwriteImages" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLParagraphEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/p&gt;" >
+</attrib>
+<attrib Name="HTMLParagraphStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;p&gt;" >
+</attrib>
+<attrib Name="HTMLQuoteHTML" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="HTMLStrikeEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/strike&gt;" >
+</attrib>
+<attrib Name="HTMLStrikeStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;strike&gt;" >
+</attrib>
+<attrib Name="HTMLUnderlineEnd" parent="HTML" editable="1" visibleInEditor="1" default="&lt;/u&gt;" >
+</attrib>
+<attrib Name="HTMLUnderlineStart" parent="HTML" editable="1" visibleInEditor="1" default="&lt;u&gt;" >
+</attrib>
+<attrib Name="IsTemplate" parent="HTML" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="Internal" parent="System" editable="0" visibleInEditor="0" default="" >
+<attrib Name="Alias" parent="Internal" editable="0" visibleInEditor="0" type="6" default="0" >
+</attrib>
+<attrib Name="EntryScript" parent="Internal" editable="0" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ExitScript" parent="Internal" editable="0" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="WindowPlace" parent="Internal" editable="0" visibleInEditor="0" kind="21" type="100" canInherit="0" default="Rect[ 50 50 750 1150]" >
+</attrib>
+</attrib>
+<attrib Name="Iris" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="IrisAngle" parent="Iris" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="IrisRadius" parent="Iris" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+</attrib>
+<attrib Name="Map" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AdornmentFont" parent="Map" editable="1" visibleInEditor="1" type="11" default="RingsideCondensedSSm-Light" >
+</attrib>
+<attrib Name="Base" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="Bend" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Direction" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Fill" parent="Map" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="FillOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.75" >
+</attrib>
+<attrib Name="Height" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="1.86" >
+</attrib>
+<attrib Name="HoverFont" parent="Map" editable="1" visibleInEditor="1" type="11" default="RingsideCondensedSSm-Med" >
+</attrib>
+<attrib Name="InteriorScale" parent="Map" editable="1" visibleInEditor="1" kind="20" type="2" default="1.5" >
+</attrib>
+<attrib Name="LeafBase" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="LeafBend" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="LeafDirection" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="LeafTip" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="Lock" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="MapBackgroundColor" parent="Map" editable="1" visibleInEditor="1" kind="3" type="1" default="#fefbf1" >
+</attrib>
+<attrib Name="MapBackgroundColor2" parent="Map" editable="1" visibleInEditor="1" kind="24" type="1" default="#9f9b8e" >
+</attrib>
+<attrib Name="MapBackgroundFill" parent="Map" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="MapBackgroundFillOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.1" >
+</attrib>
+<attrib Name="MapBackgroundPattern" parent="Map" editable="1" visibleInEditor="1" kind="25" default="normal" >
+</attrib>
+<attrib Name="MapBackgroundShadow" parent="Map" editable="1" visibleInEditor="1" type="4" default="true" >
+</attrib>
+<attrib Name="MapBodyTextColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="MapBodyTextSize" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="MapScrollX" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="MapScrollY" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="MapTextSize" parent="Map" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="NameAlignment" parent="Map" editable="1" visibleInEditor="1" default="left" >
+</attrib>
+<attrib Name="NameBold" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="NameColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="NameFont" parent="Map" editable="1" visibleInEditor="1" kind="2" type="11" default="Gill Sans" >
+</attrib>
+<attrib Name="NameLeading" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="NameStrike" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="PlotBackgroundColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="white" >
+</attrib>
+<attrib Name="PlotBackgroundOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="50" >
+</attrib>
+<attrib Name="PlotColorList" parent="Map" editable="1" visibleInEditor="1" type="10" default="2;7;3;8;4;9;0;5;1;6" >
+</attrib>
+<attrib Name="Sticky" parent="Map" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="SubtitleColor" parent="Map" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="SubtitleOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="50" >
+</attrib>
+<attrib Name="SubtitleSize" parent="Map" editable="1" visibleInEditor="1" type="2" default="75" >
+</attrib>
+<attrib Name="TableExpression" parent="Map" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="TableHeading" parent="Map" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Tip" parent="Map" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="TitleHeight" parent="Map" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="TitleOpacity" parent="Map" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="Width" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="3" >
+</attrib>
+<attrib Name="Xpos" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+<attrib Name="Ypos" parent="Map" editable="1" visibleInEditor="1" type="2" canInherit="0" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Net" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AutoFetch" parent="Net" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="AutoFetchCommand" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="LastFetched" parent="Net" editable="0" visibleInEditor="1" type="5" canInherit="0" default="never" >
+</attrib>
+<attrib Name="NoteURL" parent="Net" editable="0" visibleInEditor="1" default="RSSItem" >
+</attrib>
+<attrib Name="RSSChannelTemplate" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="RSSItemLimit" parent="Net" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="RSSItemTemplate" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="RawData" parent="Net" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="URL" parent="Net" editable="1" visibleInEditor="1" type="9" default="" >
+</attrib>
+<attrib Name="ViewInBrowser" parent="Net" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="Outline" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="OutlineBackgroundColor" parent="Outline" editable="1" visibleInEditor="1" type="1" default="automatic" >
+</attrib>
+<attrib Name="OutlineColorSwatch" parent="Outline" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="OutlineTextSize" parent="Outline" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="PrototypeHighlightColor" parent="Outline" editable="1" visibleInEditor="1" kind="13" type="1" default="#cceecc" >
+</attrib>
+<attrib Name="Separator" parent="Outline" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+</attrib>
+<attrib Name="People" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AIM" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Address" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="City" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Country" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="District" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Email" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="FormattedAddress" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="FullName" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="GeocodedAddress" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Latitude" parent="People" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Longitude" parent="People" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Organization" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PostalCode" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="State" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Telephone" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Twitter" parent="People" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="References" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="AccessDate" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ArticleTitle" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Author2" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Author3" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Author4" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Authors" parent="References" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="BookTitle" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="CallNumber" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="DOI" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Edition" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ISBN" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Issue" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Journal" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Pages" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PublicationCity" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="PublicationYear" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Publisher" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="RefFormat" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="RefKeywords" parent="References" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="RefType" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ReferenceRIS" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ReferenceTitle" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ReferenceURL" parent="References" editable="1" visibleInEditor="1" type="9" default="" >
+</attrib>
+<attrib Name="Tags" parent="References" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="UUID" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Volume" parent="References" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Sandbox" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="MyBoolean" parent="Sandbox" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="MyColor" parent="Sandbox" editable="1" visibleInEditor="1" type="1" default="" >
+</attrib>
+<attrib Name="MyDate" parent="Sandbox" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="MyInterval" parent="Sandbox" editable="1" visibleInEditor="1" type="12" default="00:00" >
+</attrib>
+<attrib Name="MyList" parent="Sandbox" editable="1" visibleInEditor="1" type="10" default="" >
+</attrib>
+<attrib Name="MyNumber" parent="Sandbox" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="MySet" parent="Sandbox" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="MyString" parent="Sandbox" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Scrivener" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="ScrivenerCompileAsIs" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerFileExtension" parent="Scrivener" editable="1" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ScrivenerFreeformFlag" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerID" parent="Scrivener" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ScrivenerIconFileName" parent="Scrivener" editable="1" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ScrivenerIgnoresTitlePrefixAndSuffix" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerIncludeInCompile" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerIndexCardFileExension" parent="Scrivener" editable="1" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ScrivenerKeywords" parent="Scrivener" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="ScrivenerLabel" parent="Scrivener" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ScrivenerLabelID" parent="Scrivener" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="ScrivenerNote" parent="Scrivener" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ScrivenerNoteRTF" parent="Scrivener" editable="1" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ScrivenerPageBreakBefore" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerPreferredExternalApplication" parent="Scrivener" editable="1" visibleInEditor="0" default="" >
+</attrib>
+<attrib Name="ScrivenerShowSynopsisImage" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerStatus" parent="Scrivener" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="ScrivenerStatusID" parent="Scrivener" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="ScrivenerTemplateFolder" parent="Scrivener" editable="1" visibleInEditor="0" type="4" default="false" >
+</attrib>
+<attrib Name="ScrivenerType" parent="Scrivener" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<attrib Name="Simplenote" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="SimplenoteKey" parent="Simplenote" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SimplenoteModified" parent="Simplenote" editable="1" visibleInEditor="1" type="5" default="never" >
+</attrib>
+<attrib Name="SimplenoteSync" parent="Simplenote" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="SimplenoteTags" parent="Simplenote" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="SimplenoteVersion" parent="Simplenote" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Sorting" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="Sort" parent="Sorting" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SortAlso" parent="Sorting" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="SortAlsoTransform" parent="Sorting" editable="1" visibleInEditor="1" default="case-sensitive" >
+</attrib>
+<attrib Name="SortBackward" parent="Sorting" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="SortBackwardAlso" parent="Sorting" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="SortTransform" parent="Sorting" editable="1" visibleInEditor="1" default="case-sensitive" >
+</attrib>
+</attrib>
+<attrib Name="Storyspace" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="BeforeVisit" parent="Storyspace" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="ChosenWord" parent="Storyspace" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="Deck" parent="Storyspace" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="OnVisit" parent="Storyspace" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="Requirements" parent="Storyspace" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="ResetAction" parent="Storyspace" editable="1" visibleInEditor="1" type="7" default="" >
+</attrib>
+<attrib Name="Visits" parent="Storyspace" editable="1" visibleInEditor="1" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="TextFormat" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="HideKeyAttributes" parent="TextFormat" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="KeyAttributeDateFormat" parent="TextFormat" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="KeyAttributeFont" parent="TextFormat" editable="1" visibleInEditor="1" type="11" default="IdealSansSSm-Book" >
+</attrib>
+<attrib Name="KeyAttributes" parent="TextFormat" editable="1" visibleInEditor="1" type="8" default="" >
+</attrib>
+<attrib Name="LeftMargin" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="2" >
+</attrib>
+<attrib Name="LineSpacing" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="100" >
+</attrib>
+<attrib Name="NoSpelling" parent="TextFormat" editable="1" visibleInEditor="1" kind="27" type="4" default="true" >
+</attrib>
+<attrib Name="ParagraphSpacing" parent="TextFormat" editable="1" visibleInEditor="1" kind="14" type="2" default="8" >
+</attrib>
+<attrib Name="RightMargin" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="2" >
+</attrib>
+<attrib Name="ShowTitle" parent="TextFormat" editable="1" visibleInEditor="1" kind="5" type="4" default="false" >
+</attrib>
+<attrib Name="SmartQuotes" parent="TextFormat" editable="1" visibleInEditor="1" kind="26" type="4" default="true" >
+</attrib>
+<attrib Name="Tabs" parent="TextFormat" editable="1" visibleInEditor="1" default="0.25;0.25;0.25;0.25;" >
+</attrib>
+<attrib Name="TextAlign" parent="TextFormat" editable="1" visibleInEditor="1" kind="22" default="left" >
+</attrib>
+<attrib Name="TextBackgroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="8" type="1" default="#ffffff" >
+</attrib>
+<attrib Name="TextColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="7" type="1" default="#000000" >
+</attrib>
+<attrib Name="TextFont" parent="TextFormat" editable="1" visibleInEditor="1" kind="18" type="11" default="Gill Sans" >
+</attrib>
+<attrib Name="TextFontSize" parent="TextFormat" editable="1" visibleInEditor="1" kind="19" type="2" default="14" >
+</attrib>
+<attrib Name="TextPaneRatio" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="0.5" >
+</attrib>
+<attrib Name="TextPaneWidth" parent="TextFormat" editable="1" visibleInEditor="1" type="2" default="-1" >
+</attrib>
+<attrib Name="TextSidebar" parent="TextFormat" editable="1" visibleInEditor="1" kind="17" type="4" default="false" >
+</attrib>
+<attrib Name="TitleBackgroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="12" type="1" default="#000000" >
+</attrib>
+<attrib Name="TitleFont" parent="TextFormat" editable="1" visibleInEditor="1" kind="4" type="11" default="HelveticaNeue" >
+</attrib>
+<attrib Name="TitleForegroundColor" parent="TextFormat" editable="1" visibleInEditor="1" kind="11" type="1" default="#ffffff" >
+</attrib>
+</attrib>
+<attrib Name="Textual" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="ImageCount" parent="Textual" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="ReadOnly" parent="Textual" editable="1" visibleInEditor="1" type="4" default="false" >
+</attrib>
+<attrib Name="Text" parent="Textual" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="TextExportTemplate" parent="Textual" editable="1" visibleInEditor="1" kind="10" default="outline" >
+</attrib>
+<attrib Name="TextLength" parent="Textual" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="WordCount" parent="Textual" editable="0" visibleInEditor="1" type="2" default="0" >
+</attrib>
+<attrib Name="Wordcount" parent="Textual" editable="0" visibleInEditor="0" type="2" default="0" >
+</attrib>
+</attrib>
+<attrib Name="Weblog" parent="System" editable="0" visibleInEditor="1" default="" >
+<attrib Name="WeblogPostID" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="mt_allow_comments" parent="Weblog" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+<attrib Name="mt_allow_pings" parent="Weblog" editable="1" visibleInEditor="1" type="2" default="1" >
+</attrib>
+<attrib Name="mt_convert_breaks" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+<attrib Name="mt_keywords" parent="Weblog" editable="1" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+</attrib>
+<attrib Name="User" parent="anything" editable="0" visibleInEditor="1" default="" >
+</attrib>
+</attrib>
+<colors >
+<color name="0" color="#6a797a" hidden="0"  />
+<color name="1" color="#8c9fa1" hidden="0"  />
+<color name="2" color="#a0b5b8" hidden="0"  />
+<color name="3" color="#adc5c7" hidden="0"  />
+<color name="4" color="#b8d1d4" hidden="0"  />
+<color name="5" color="#c1dbde" hidden="0"  />
+<color name="6" color="#c8e3e6" hidden="0"  />
+<color name="7" color="#cfeaee" hidden="0"  />
+<color name="8" color="#d4f1f4" hidden="0"  />
+<color name="9" color="#daf7fa" hidden="0"  />
+<color name="black" color="#000000" hidden="0"  />
+<color name="blue" color="#268bd2" hidden="0"  />
+<color name="bright blue" color="#0000ff" hidden="0"  />
+<color name="bright green" color="#00ff00" hidden="0"  />
+<color name="bright red" color="#ff0000" hidden="0"  />
+<color name="cool gray" color="#607080" hidden="0"  />
+<color name="cool gray dark" color="#505860" hidden="0"  />
+<color name="cyan" color="#2aa198" hidden="0"  />
+<color name="green" color="#859900" hidden="0"  />
+<color name="lightBackground" color="#fdf6e3" hidden="0"  />
+<color name="lightBackground2" color="#eee8d5" hidden="0"  />
+<color name="lightContent" color="#839496" hidden="0"  />
+<color name="lightContent2" color="#93a1a1" hidden="0"  />
+<color name="magenta" color="#d33682" hidden="0"  />
+<color name="normal" color="#dc490b" hidden="0"  />
+<color name="orange" color="#cb4b16" hidden="0"  />
+<color name="poppy" color="#ffcc66" hidden="0"  />
+<color name="red" color="#dc322f" hidden="0"  />
+<color name="violet" color="#6c71c4" hidden="0"  />
+<color name="warm gray" color="#93a1a1" hidden="0"  />
+<color name="warm gray dark" color="#839496" hidden="0"  />
+<color name="white" color="#ffffff" hidden="0"  />
+<color name="yellow" color="#b58900" hidden="0"  />
+</colors>
+<menu name="Value" kind="stamps" >
+<stamp name="1x7" >$Width=&quot;7&quot;; $Height=&quot;1&quot;</stamp>
+</menu>
+<linkTypes >
+<linkType name="*untitled" label="" visible="1" showLabel="0" required="1" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="agree" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="clarify" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="disagree" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="example" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="exception" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="note" visible="1" showLabel="1" required="1" color="#666666" colorString="#666666" style="0" arrowType="0"  />
+<linkType name="note+" visible="1" showLabel="1" required="1" color="#444444" colorString="#444444" style="0" arrowType="0"  />
+<linkType name="prototype" visible="0" showLabel="1" required="1" color="#993333" colorString="#993333" style="0" arrowType="0"  />
+<linkType name="response" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+<linkType name="update" visible="1" showLabel="1" required="0" color="#000000" colorString="#000000" style="0" arrowType="0"  />
+</linkTypes>
+<item ID="1495486251" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >11.890625</attribute>
+<attribute name="MapScrollY" >10.5625</attribute>
+<attribute name="Name" >teaching-activities</attribute>
+<item ID="1495486252" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T11:58:28-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0.0078125</attribute>
+<attribute name="MapScrollY" >-0.56625</attribute>
+<attribute name="Modified" >2017-05-22T11:58:28-07:00</attribute>
+<attribute name="Name" >Activities</attribute>
+<attribute name="SelectionCount" >28</attribute>
+<attribute name="Xpos" >-0.8656005859</attribute>
+<attribute name="Ypos" >1.901000977</attribute>
+<item ID="1495486975" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:10:08-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:10:08-07:00</attribute>
+<attribute name="Name" >Hare</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+</item>
+<item ID="1495486610" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="File" >~/Desktop/row-2017-spring.opml</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="LastFetched" >2017-05-22T12:01:39-07:00</attribute>
+<attribute name="MapScrollX" >7.6640625</attribute>
+<attribute name="MapScrollY" >4.60625</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Harvest</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Xpos" >2.634399414</attribute>
+<attribute name="Ypos" >1.901000977</attribute>
+<item ID="1495486614" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >10.28781128</attribute>
+<attribute name="MapScrollY" >17.546875</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda for Class 1-1</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Xpos" >14.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="1495486627" Creator="Steve Scott" proto="pAssignment" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Answer the reflection questions on the Class 1-1 Handout</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >13.70385742</attribute>
+<attribute name="Xpos" >8.375732422</attribute>
+<attribute name="Ypos" >11.16491699</attribute>
+</item>
+<item ID="1495486628" Creator="Steve Scott" proto="pAssignment" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Get a 3-Ring Binder for this Class and put this handout in it.</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >12.56176758</attribute>
+<attribute name="Ypos" >5.72</attribute>
+</item>
+<item ID="1495486629" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Nostra Aetate</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >5.72</attribute>
+<text >List the strengths of each religion mentioned.What is your most important highlight for each section.  Why?</text>
+</item>
+<item ID="1495486630" Creator="Steve Scott" proto="pAssignment" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Type a 200 word NOW.  </attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >12.56176758</attribute>
+<attribute name="Ypos" >7.22</attribute>
+<text >What is your most important nugget of wisdom from Class todayKeep your response in Notability or pages.  We will post it to the grade book discussion at the beginning of next class.</text>
+</item>
+<item ID="1495486988" Creator="Steve Scott" proto="pAssignment" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:15:47-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:17:24-07:00</attribute>
+<attribute name="Name" >Make Index Cards</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >12.56176758</attribute>
+<attribute name="Ypos" >8.72</attribute>
+<text >	1.	1. First Last
+	2.	What religion class did you take last semester?  What was your biggest take away
+	3.	What are you involved in at AMHS?
+	4.	What is your favorite TV show or Movie?
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC66AwAAKwAAAAEAAACyAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30Ke1wqXGxpc3R0YWJsZXtcbGlzdFxsaXN0dGVtcGxhdGVpZDFcbGlzdGh5YnJpZHtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbGZvbGxvdzBcbGV2ZWxzdGFydGF0MVxsZXZlbHNwYWNlMzYwXGxldmVsaW5kZW50MHtcKlxsZXZlbG1hcmtlciBce2RlY2ltYWxcfS59e1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMVwnMDJcJzAwLjt9e1xsZXZlbG51bWJlcnNcJzAxO31cZmktMzYwXGxpNzIwXGxpbjcyMCB9e1xsaXN0bmFtZSA7fVxsaXN0aWQxfX0Ke1wqXGxpc3RvdmVycmlkZXRhYmxle1xsaXN0b3ZlcnJpZGVcbGlzdGlkMVxsaXN0b3ZlcnJpZGVjb3VudDBcbHMxfX0KXHBhcmRcdHgyMjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxsaTcyMFxmaS03MjBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKXGxzMVxpbHZsMApcZjBcZnMyOCBcY2YwIHtcbGlzdHRleHQJMS4JfTEuIEZpcnN0IExhc3RcCntcbGlzdHRleHQJMi4JfVdoYXQgcmVsaWdpb24gY2xhc3MgZGlkIHlvdSB0YWtlIGxhc3Qgc2VtZXN0ZXI/ICBXaGF0IHdhcyB5b3VyIGJpZ2dlc3QgdGFrZSBhd2F5XAp7XGxpc3R0ZXh0CTMuCX1XaGF0IGFyZSB5b3UgaW52b2x2ZWQgaW4gYXQgQU1IUz9cCntcbGlzdHRleHQJNC4JfVdoYXQgaXMgeW91ciBmYXZvcml0ZSBUViBzaG93IG9yIE1vdmllP1wKXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEQ5I1m2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495486615" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >12.6640625</attribute>
+<attribute name="MapScrollY" >11.5625</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Introductions</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-1.375732422</attribute>
+<attribute name="Ypos" >2.919433594</attribute>
+</item>
+<item ID="1495486621" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Introduction to NOW</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >8.227661133</attribute>
+<attribute name="Ypos" >14.69299316</attribute>
+</item>
+<item ID="1495486622" Creator="Steve Scott" proto="pSpiritualExercise" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Multi-Faith Prayer</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-2.321655273</attribute>
+<attribute name="Ypos" >10.48071289</attribute>
+</item>
+<item ID="1495486623" Creator="Steve Scott" proto="pResource" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Review Course Syllabus</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >8.227661133</attribute>
+<attribute name="Ypos" >16.85925293</attribute>
+</item>
+<item ID="1495486624" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Why study the Religions of the World?</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >24.3</attribute>
+</item>
+<item ID="1495486625" Creator="Steve Scott" proto="pResource" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Nostra Aetate</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >8.227661133</attribute>
+<attribute name="Ypos" >18.35925293</attribute>
+</item>
+</item>
+<item ID="1495486631" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >02 Jan 12 </attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >0.5</attribute>
+<text >B Week</text>
+<item ID="1495486632" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >2-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486633" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486634" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486635" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Pope Francis on Inter-Religious Dialogue</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >https://youtu.be/Nq7us5Lf5IU</text>
+</item>
+<item ID="1495486636" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Which life philosphy works better for you?</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486637" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Basic &quot;God&quot; Vocabulary</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486638" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >The Challenge of Defining Religion</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+<item ID="1495486639" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Seven Dimensions of Religion</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486640" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486641" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Type a 200 word NOW.  </attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >1. What is your most important nugget of wisdom for Class 2-1?  Why?2. Upload to On Campus before the beginning of next class</text>
+</item>
+</item>
+</item>
+<item ID="1495486642" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >2-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486643" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486644" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486645" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Glance at Explosion of Ideas</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486646" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Vocabulary Review</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486647" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >7 Dimensions of Christianity</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486648" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >A Story about Bob</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486649" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Developing New Ideas and Paradigms</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486650" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Dawkins Scale</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486651" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486652" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Type a 200 word NOW. </attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >1. What is your most important nugget of wisdom from class today?  Why?2. Copy-Paste to On Campus before the beginning of next class</text>
+</item>
+<item ID="1495486653" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Complete 7 Dimensions of Christianity</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >This doesn’t need to be exhaustive.  I want you to understand the Smart’s model and apply it to a topic that you have studied for at least three years.</text>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486654" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >03 Jan 19</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >0.5</attribute>
+<text >B Week</text>
+<item ID="1495486655" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >3-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486656" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486657" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486658" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Religious Literacy Quiz</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486659" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >What is the the Real Terrorist Threat in America?</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486660" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Highlight</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486661" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Discuss</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486662" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486663" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Everything is a Remix Part t</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >https://vimeo.com/14912890</text>
+</item>
+</item>
+<item ID="1495486664" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486665" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >200 Word NOW</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486666" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >3-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486667" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Unit 2: Primal Religion</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486668" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486669" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Announcements</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486670" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Grateful Garment Project</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486671" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >STAND</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >http://www.mitty.com/campus-ministry/stand</text>
+</item>
+<item ID="1495486672" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Showbie Codes</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >https://my.mitty.com/mod/page/view.php?id=249471</text>
+</item>
+</item>
+<item ID="1495486673" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Introduction to Primal Religion</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486674" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Project A Gathering of Primal People</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486675" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Redfern Prayer</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486676" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Stand and Read</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486677" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Discuss</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486678" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Gods Must Be Crazy</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+<item ID="1495486679" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Watch movie clip</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486680" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Answer Questions</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486681" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Discuss</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486682" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486683" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Write a NOW for Class 3-2.  Keep it on your iPad for future upload.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486684" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >04 Jan 26</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >0.5</attribute>
+<text >A Week</text>
+<item ID="1495486685" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >4-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486686" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486687" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486688" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Gods Must Be Crazy Discussion</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486689" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Explain Project: A Gathering of Primal People</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >due date Class 5-1</text>
+</item>
+<item ID="1495486690" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prayers p.18</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486691" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Huston Smith Reading</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486692" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments </attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486693" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >A Gathering of Indigenous People</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >due date TBA</text>
+</item>
+<item ID="1495486694" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read and highlight Primal Religion by Huston Smith p. 7-9.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486695" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Create a Visual NOW</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486696" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >4-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486697" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486698" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read Prayers p. 18-27</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486699" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read Joy Harjo’s Sacred Connection to the Sun p.17</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486700" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read and highlight Huston Smith p. 10-12</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486701" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Work on speech will will be due Week 5, Day 2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486702" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486703" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read and highlight Huston Smith p. 10-12</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486704" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >4-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486705" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486706" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prayer: Read Prayers</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486707" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Share Visual NOWs</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486708" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Meditation on Food</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486709" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Huston Smith pages 10-11</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486710" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486711" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read and highlight Huston Smith p. 12-14</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486712" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prepare Speech for Class 5-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486713" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >05 Feb 2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<text >A Week</text>
+<item ID="1495486714" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >5-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486715" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486716" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW review from class 4-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486717" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Visual Meditation</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >Time Lapse Video</text>
+</item>
+<item ID="1495486718" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Graded conversation on Huston Smith</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486719" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Pope and Indigenous People</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >http://thepopevideo.org/en/video/indigenous-peoples.html</text>
+</item>
+<item ID="1495486720" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >UN Declaration on the Rights of Indigenous Peoples </attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+<text >What are your three most important take aways from the UNDRIP document?</text>
+</item>
+<item ID="1495486721" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prepare Speeches</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486722" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486723" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prepare Speeches day 2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486724" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Bring Book to class on Class 5-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486725" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >5-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486726" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486727" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Gathering of Primal People Speeches</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486728" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486729" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW for Class 5-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >Write a 2-3 sentences response to our speeches today.</text>
+</item>
+<item ID="1495486730" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Bring Book to class on Class 5-3</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486731" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read World Religions in Dialogue [WRID 17-22]</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486732" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >5-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486733" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Unit 3 Judaism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486734" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486735" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >7 Dimensions of Judaism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486736" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Dabru Emet</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486737" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read together and fill out 7 Dimensions of religion</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486738" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read pages 17-22 together</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486739" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486740" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read World Religions in Dialogue [WRID 22-26]</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486741" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >06 Feb 09</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<text >B Week</text>
+<item ID="1495486742" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >6-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486743" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486744" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Guest Speaker: Mitch Slomiak</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486745" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486746" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW “Dear Mitch”</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486747" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read World Religions in Dialogue [WRID 26-29]</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486748" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >6-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486749" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486750" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486751" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Complete worksheet on Judaism: An Outsider’s Perspective</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486752" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >The Lady in #6</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486753" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486754" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >NOW Reaction to Lady in #6</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >What are three things from the movie that you can incorporate into your life?</text>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486755" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >07 Feb 16</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<text >B Week</text>
+<item ID="1495486756" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >7-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486757" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486758" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Video: Passover Funk</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486759" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Video: The Heart of the Jewish People</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486760" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Video Israeli Settlements</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >https://www.youtube.com/watch?v=E0uLbeQlwjw&amp;feature=youtu.behttps://youtu.be/1sib5HbdEV4</text>
+</item>
+<item ID="1495486761" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Announcement: Test on Unit 1 Terms and Judaism on Class 8-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >See myMitty for link to study guide</text>
+</item>
+<item ID="1495486762" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >7 Dimensions of Judaism Worksheet</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486763" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Join ROW Quizlet</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >See myMitty for link to join class</text>
+</item>
+<item ID="1495486764" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Spend :05 minutes studying Judaism Quizlet</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+<item ID="1495486765" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Quizlet Live</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+<text >https://quizlet.com/149572722/judaism-vocabulary-flash-cards/</text>
+</item>
+<item ID="1495486766" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Work on finishing Outsider’s Reading Guide Notes</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486767" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486768" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Study Quizlet</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486769" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Finish Outsider’s Reading Guide Notes</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486770" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Study for test on Judaism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486771" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >7-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486772" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486773" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Quizlet live</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486774" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Video: Rosh Hashanah: Can’t Stop the Feeling</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486775" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Prepare for Judaism Test</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >You are allowed to bring a 1 page note sheet</text>
+</item>
+<item ID="1495486776" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >If you haven’t done so, finish Outsider’s Reading Guide Notes</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486777" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486778" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Study for test on Judaism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486779" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >08 Feb 23</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >2.86</attribute>
+<text >B Week</text>
+<item ID="1495486780" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >8-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486781" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486782" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Test on Unit 1 Terms and Judaism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >People on Kairos— your test will be on Week 9, Day 1</text>
+</item>
+</item>
+<item ID="1495486783" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486784" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Begin Hinduism: Read WRID pages 133-140</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486785" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >8-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486786" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Unit 4: Hinduism</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486787" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486788" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Namaste Video</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >https://drive.google.com/file/d/0B_bmjMiJbgqxcEZSRVNvejloM00/view?usp=sharing</text>
+</item>
+<item ID="1495486789" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Lecture Key Hindu Concepts</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486790" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486791" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read WRID pages 133-140 and Reading Guide questions 1-24</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >Note: Most of you started this after the test.</text>
+</item>
+<item ID="1495486792" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Bring Headphones  to class 9-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486793" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >09 Mar 02</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+<text >B Week</text>
+<item ID="1495486794" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >9-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486795" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486796" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Lecture on Hindu History</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486797" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Create Hindu FAQ Doodlecasts</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486798" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Hinduism FAQ Doodlecasts</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486799" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Finish reading guide</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486800" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Kairos Test Make-Up</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486801" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486802" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read WRID pages 140-145 and Reading Guide questions 25-38</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486803" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Upload Doodlecasts</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486804" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Bring headphones to class on 9-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486805" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >9-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486806" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486807" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Reconciliation</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486808" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >10 Mar 09</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.22</attribute>
+<text >A Week</text>
+<item ID="1495486809" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >10-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486810" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486811" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Announcement. Test on Hinduism is on 11-2.  The study guide is on myMItty.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486812" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Operation Rice Bowl</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486813" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Lecture on Gita</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486814" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Open up note page</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486815" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Lecture</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486816" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >The Guru Amma</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486817" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Pass out Amma Handout</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486818" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma Biography</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >https://vimeo.com/89793015</text>
+</item>
+<item ID="1495486819" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma Promotional Video</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >https://vimeo.com/89792808</text>
+</item>
+<item ID="1495486820" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma on NPR</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >https://drive.google.com/open?id=0B_bmjMiJbgqxajFZTUc1MlNBYkE</text>
+</item>
+<item ID="1495486821" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma on Nightline</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >￼</text>
+</item>
+<item ID="1495486822" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma Quotes</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486823" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Amma Website</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+<item ID="1495486824" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >work on for Amma NOW</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486825" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486826" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Write a 4 sentence NOW on Amma</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486827" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read your assigned Hindu Sacred reading</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486828" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >10-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486829" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486830" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Take notes on 4 Hindu FAQ Videos</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >These videos have been shared via Google Drive.  You can find the links on MyMitty.</text>
+</item>
+<item ID="1495486831" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read Chapter 2 &amp; 3 of the Gita</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >This was distributed on Class 10-1.  If you don’t have a copy, you put resource 13 in notability.  </text>
+</item>
+</item>
+<item ID="1495486832" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486833" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Finish reading Chapters 2-3 of the Bhagavad Gita.  Be ready for a graded conversation on class 10-3.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486834" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >10-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486835" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486836" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Graded conversation on the Bhagavad Gita</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486837" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Divide out Hinduism Sacred Readings</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >Group #1= Selections from the Rig Veda, the Upanishads, and the Bhagavad Gita p. 157-158Group #2= From the Chandogya Upanishad p. 161-162Group #3: From the Mundaka Upanishad p. 164Group #4: From the Ramayana p. 166Group #5: From the Laws of Manu p.169-170</text>
+</item>
+<item ID="1495486838" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Small Groups: Discuss the Hindu Sacred Readings</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<text >Discuss HIndu Sacred readings from Class 10-1.Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning of your passage</text>
+</item>
+<item ID="1495486839" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Types of Yoga</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486840" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Quizlet on Hindu Terms (see myMitty)</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+<item ID="1495486841" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Start reading All Men are Brothers</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486842" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486843" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read All Men are Brothers for 20 minutes.  Write 4 bullet points about what you learned about Gandhi through the readings.  Use textual evidence in your answers. Turn in your response to showbie.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486844" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Quizlet  on Hindu Terms</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486845" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Review Study Guide</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486846" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >11 Mar 16</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >5.22</attribute>
+<text >B Week</text>
+<item ID="1495486847" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >11-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486848" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486849" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Discuss Current Event and come up with a plan of action</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486850" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Read All Men are Brothers</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486851" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486852" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Highlight 2-3 quotes from Gandhi’s, “All Men are Brothers” and be ready to talk about them</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486853" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >11-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486854" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486855" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Announcement: Test on Hinduism moved to Week 12-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486856" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Work on Religious Acceptance Project</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486857" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Watch Gandhi movie clips</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486858" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Create note sheet</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486859" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Study Guide</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+</item>
+</item>
+<item ID="1495486860" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486861" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Create a note sheet on Hinduism for test on Class 12-2. Use the study guide.</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<text >Study Guide</text>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486862" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >12 Mar 23</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >5.22</attribute>
+<text >A Week</text>
+<item ID="1495486863" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >12-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486864" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486865" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486866" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Gandhi Clips</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486867" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Coexist Project</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486868" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Test Review</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486869" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >12-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486870" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486871" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Hinduism Test</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486872" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Log Christian Service Hours</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486873" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+</item>
+<item ID="1495486874" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >12-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486875" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486876" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Kumare</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486877" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486878" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486879" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >13 Mar 30</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
+<text >B Week</text>
+<item ID="1495486880" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >13-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486881" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486882" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Finish Kumare</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486883" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486884" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Upload Kumare worksheet to Showbie</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486885" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >13-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486886" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486887" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Unit 5: Buddhism</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486888" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486889" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+</item>
+<item ID="1495486890" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >5.9175</attribute>
+<item ID="1495486891" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486892" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >14 Apr 06</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >7.58</attribute>
+<text >SS Week</text>
+<item ID="1495486893" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >14-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486894" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486895" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486896" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486897" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >14-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486898" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486899" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486900" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486901" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >14-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486902" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486903" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486904" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486905" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >15 Apr 13</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >7.58</attribute>
+<text >B Week</text>
+<item ID="1495486906" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >15-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486907" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486908" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486909" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486910" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >15-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486911" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486912" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486913" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486914" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >16 Apr 20</attribute>
+<attribute name="Xpos" >11</attribute>
+<attribute name="Ypos" >7.58</attribute>
+<text >B Week</text>
+<item ID="1495486915" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >16-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486916" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486917" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Senior Class Mass</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486918" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486919" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486920" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >16-2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486921" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486922" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486923" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486924" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >17 Apr 27</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
+<text >A Week</text>
+<item ID="1495486925" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >17-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486926" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486927" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486928" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486929" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >17-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486930" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486931" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486932" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486933" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >17-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486934" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486935" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486936" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486937" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >18 May 04</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >9.94</attribute>
+<text >A Week</text>
+<item ID="1495486938" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >18-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486939" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486940" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486941" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486942" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >18-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486943" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486944" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486945" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486946" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >18-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486947" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486948" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Senior Panel</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+<item ID="1495486949" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486950" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486951" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >19 May 15</attribute>
+<attribute name="Xpos" >7.5</attribute>
+<attribute name="Ypos" >9.94</attribute>
+<text >SS  Week</text>
+<item ID="1495486952" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >19-1</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486953" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486954" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486955" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486956" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >19-2</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+<item ID="1495486957" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486958" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486959" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+<item ID="1495486960" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >19-3</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486961" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Agenda</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+<item ID="1495486962" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" >Assignments</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >3.5575</attribute>
+<item ID="1495486963" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Modified" >2017-05-22T12:01:52-07:00</attribute>
+<attribute name="Name" ></attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >1.1975</attribute>
+</item>
+</item>
+</item>
+</item>
+</item>
+<item ID="1495486976" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:10:35-07:00</attribute>
+<attribute name="HTMLDontExport" >true</attribute>
+<attribute name="HTMLExportChildren" >false</attribute>
+<attribute name="Height" >4</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >5.6171875</attribute>
+<attribute name="MapScrollY" >13.0315625</attribute>
+<attribute name="Modified" >2017-05-22T12:10:35-07:00</attribute>
+<attribute name="Name" >Prototypes</attribute>
+<attribute name="OnAdd" >$IsPrototype=true</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >6.134399414</attribute>
+<attribute name="Ypos" >1.901000977</attribute>
+<item ID="1495486977" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >toolbox</attribute>
+<attribute name="BadgeMonochrome" >true</attribute>
+<attribute name="BorderColor" >dark cool gray</attribute>
+<attribute name="Color" >#dc322f</attribute>
+<attribute name="Color2" >dark cool gray</attribute>
+<attribute name="Created" >2017-05-22T12:10:35-07:00</attribute>
+<attribute name="DisplayExpression" >if($ChildCount){$Name+&quot; (&quot;+$ChildCount+&quot;)&quot;}else{$Name}</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="KeyAttributes" >DueDate;Checked</attribute>
+<attribute name="Modified" >2017-05-22T12:10:35-07:00</attribute>
+<attribute name="Name" >pAssignment</attribute>
+<attribute name="OnAdd" >Prototype|=&quot;Task&quot;</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="Shape" >tag</attribute>
+<attribute name="Width" >5.427246094</attribute>
+<attribute name="Xpos" >-1.927246094</attribute>
+<attribute name="Ypos" >2</attribute>
+</item>
+<item ID="1495486989" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >beaker</attribute>
+<attribute name="BadgeMonochrome" >true</attribute>
+<attribute name="Color" >#268bd2</attribute>
+<attribute name="Created" >2017-05-22T12:24:19-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:24:19-07:00</attribute>
+<attribute name="Name" >pSpiritualExercise</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Xpos" >8.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1495486991" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >document2</attribute>
+<attribute name="BadgeMonochrome" >true</attribute>
+<attribute name="Color" >#859901</attribute>
+<attribute name="Created" >2017-05-22T12:27:48-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:27:48-07:00</attribute>
+<attribute name="Name" >pResource</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >12.07275391</attribute>
+<attribute name="Ypos" >2</attribute>
+</item>
+<item ID="1495486978" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Badge" >person</attribute>
+<attribute name="Color" >green</attribute>
+<attribute name="Created" >2017-05-22T12:10:48-07:00</attribute>
+<attribute name="HoverExpression" >$Organization+&quot;\r&quot;+$Email+&quot; &quot;+$Telephone</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="KeyAttributes" >FullName;Organization;Address;Email;Telephone;Twitter;URL</attribute>
+<attribute name="Modified" >2017-05-22T12:10:48-07:00</attribute>
+<attribute name="Name" >Person</attribute>
+<attribute name="Pattern" ></attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Shape" >lozenge</attribute>
+<attribute name="Width" >4</attribute>
+<attribute name="Xpos" >4</attribute>
+<attribute name="Ypos" >2</attribute>
+</item>
+</item>
+<item ID="1495486980" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >4</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >21.1640625</attribute>
+<attribute name="MapScrollY" >9.625</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >Composites</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >16.63439941</attribute>
+<attribute name="Ypos" >1.901000977</attribute>
+<composites>
+<composite nodes="1495486981 1495486982 1495486983 1495486984 1495486985 1495486986 1495486987 " name="lecture" instantiates="" >
+</composite>
+</composites>
+<item ID="1495486981" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="Color" >9</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >1.25</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >where</attribute>
+<attribute name="Role" >place and time</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >9</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1495486982" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="Color" >0</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >3</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >Class 1.1</attribute>
+<attribute name="Role" >title</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >6</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >1.25</attribute>
+</item>
+<item ID="1495486983" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="Color" >2</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >1.5</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="MapTextSize" >80</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >author</attribute>
+<attribute name="Role" >author</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >16</attribute>
+<attribute name="Ypos" >1.25</attribute>
+</item>
+<item ID="1495486984" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="Color" >3</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >1.5</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="MapTextSize" >80</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >author 2</attribute>
+<attribute name="Role" >author</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >3</attribute>
+<attribute name="Xpos" >16</attribute>
+<attribute name="Ypos" >2.75</attribute>
+</item>
+<item ID="1495486985" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="Color" >2</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >3.75</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >abstract</attribute>
+<attribute name="Role" >abstract</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >9</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >4.25</attribute>
+</item>
+<item ID="1495486986" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="BorderColor" >4</attribute>
+<attribute name="Color" >0</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >2</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="IsMultiple" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >note</attribute>
+<attribute name="OnJoin" >$Shape=;$Color=&apos;0&apos;;$BorderColor=&apos;4&apos;;$Height=2;$Xpos=$Xpos(that);$OnJoin=$OnJoin(that)</attribute>
+<attribute name="Role" >observation</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Width" >6</attribute>
+<attribute name="Xpos" >10</attribute>
+<attribute name="Ypos" >8</attribute>
+</item>
+<item ID="1495486987" Creator="Steve Scott" >
+<attribute name="Associates" >note;question;where;Class 1.1;author 2;author;abstract</attribute>
+<attribute name="BorderColor" >4</attribute>
+<attribute name="Color" >7</attribute>
+<attribute name="Created" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Height" >2</attribute>
+<attribute name="IsComposite" >true</attribute>
+<attribute name="IsMultiple" >true</attribute>
+<attribute name="Modified" >2017-05-22T12:11:00-07:00</attribute>
+<attribute name="Name" >question</attribute>
+<attribute name="OnJoin" >$Shape=&apos;tag&apos;;$Color=&apos;7&apos;;$Height=2;$Ypos=$Ypos(that);$BorderColor=&apos;4&apos;;$OnJoin=$OnJoin(that)</attribute>
+<attribute name="Role" >question</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Shape" >tag</attribute>
+<attribute name="Width" >4</attribute>
+<attribute name="Xpos" >16</attribute>
+<attribute name="Ypos" >8</attribute>
+</item>
+</item>
+</item>
+<links >
+<link name="prototype" sourceid="1495486977" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486988" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486977" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486630" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486977" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486628" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486977" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486627" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486989" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486622" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486991" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486625" destcreator="Steve Scott" color="normal"  />
+<link name="prototype" sourceid="1495486991" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486623" destcreator="Steve Scott" color="normal"  />
+</links>
+<macros >
+</macros>
+<preferences >
+<Creator > Steve Scott</Creator>
+<ToolbarVisible > 1</ToolbarVisible>
+<OpenTextImmediately > 0</OpenTextImmediately>
+<Tinderbox5Wizard > 1</Tinderbox5Wizard>
+<DynamicSpelling > 0</DynamicSpelling>
+<AutoOpen > 1</AutoOpen>
+<AutomaticBackup > 1</AutomaticBackup>
+<ReopenLastDocument > 0</ReopenLastDocument>
+<Autosave > 0</Autosave>
+<KeepWindowsOpen > 1</KeepWindowsOpen>
+<LeftMargin > 2</LeftMargin>
+<RightMargin > -2</RightMargin>
+<ParagraphSpacing > 4</ParagraphSpacing>
+<TextFont > Gill Sans</TextFont>
+<NewTextSize > 14</NewTextSize>
+<TextJust > 0</TextJust>
+<AlwaysShowTextLinks > 1</AlwaysShowTextLinks>
+<ShowWikiLinks > 1</ShowWikiLinks>
+<TextLinkFrames > 1</TextLinkFrames>
+<TextLinkColorString > #0066cc</TextLinkColorString>
+<TextBackgroundColorString > white</TextBackgroundColorString>
+<SmartQuotes > 1</SmartQuotes>
+<TextWindowWidth > 6</TextWindowWidth>
+<TextWindowHeight > 6</TextWindowHeight>
+<AutoIndentLists > 1</AutoIndentLists>
+<ShowTitle > 0</ShowTitle>
+<TitleFont > HelveticaNeue</TitleFont>
+<TitleSize > 2</TitleSize>
+<TitleJust > 2</TitleJust>
+<MapShowLinks > 1</MapShowLinks>
+<MapEnacted > 1</MapEnacted>
+<InPlaceEditing > 1</InPlaceEditing>
+<MapLabelSizeNew > 14</MapLabelSizeNew>
+<MapBackgroundColorString > light lightBackground</MapBackgroundColorString>
+<MapBackgroundColorString2 > dark lightBackground2</MapBackgroundColorString2>
+<OpaqueAdornments > 0</OpaqueAdornments>
+<MapBackgroundPattern > normal</MapBackgroundPattern>
+<PrototypeHighlightColorString > #cceecc</PrototypeHighlightColorString>
+<MapFont > Gill Sans</MapFont>
+<DarkenOutlineColors > 1</DarkenOutlineColors>
+<BlackOutlineText > 0</BlackOutlineText>
+<UnderlineAliases > 0</UnderlineAliases>
+<AutomaticLinkDetection > 1</AutomaticLinkDetection>
+<HiddenTabBar > 0</HiddenTabBar>
+<TextPaneSelectorHidden > 1</TextPaneSelectorHidden>
+<OutlineLeading > 0</OutlineLeading>
+<InteriorScale > 1</InteriorScale>
+<InteriorScaleNew > 1.5</InteriorScaleNew>
+<ExpandMode > 1</ExpandMode>
+<AfterLinkingSelect > 2</AfterLinkingSelect>
+<ExportImageFormat > 1</ExportImageFormat>
+<ExportURL > http://</ExportURL>
+<ExportHTMLHelper > Safari</ExportHTMLHelper>
+<ExportHTMLExtension > 1</ExportHTMLExtension>
+<HTMLParagraphStyle > 1</HTMLParagraphStyle>
+<HTMLViewFont > Lucide Grande</HTMLViewFont>
+<HTMLViewFontSize > 2</HTMLViewFontSize>
+<ExportTemplatePath > plain</ExportTemplatePath>
+<RoadmapWindowWidth > 0</RoadmapWindowWidth>
+<RoadmapWindowHeight > 0</RoadmapWindowHeight>
+<TextExportViewFont > Lucide Grande</TextExportViewFont>
+<TextExportViewFontSize > 2</TextExportViewFontSize>
+<ExportTextTemplatePath > outline</ExportTextTemplatePath>
+<ExportTextHelper > TextEdit</ExportTextHelper>
+<AskToDelete > 2</AskToDelete>
+<DailyTip > 1</DailyTip>
+<WarnEditingDefault > 1</WarnEditingDefault>
+<WarnDuplicateName > 1</WarnDuplicateName>
+<RunScriptsAutomatically > 1</RunScriptsAutomatically>
+<Version > version 7.0.3</Version>
+<PreferencePane > 0</PreferencePane>
+<LastBadgeFamily > 4</LastBadgeFamily>
+<TipWindowX > 300</TipWindowX>
+<TipWindowY > 50</TipWindowY>
+<RegUserName > Steve Scott</RegUserName>
+<RegUserOrg > </RegUserOrg>
+<CurrentAttributeClass > </CurrentAttributeClass>
+<CurrentAttribute > </CurrentAttribute>
+<FindCaseSensitive > 1</FindCaseSensitive>
+<ExportFolder > ~/Desktop</ExportFolder>
+<ReadOnly > 0</ReadOnly>
+<InfoWindowHeight > 0</InfoWindowHeight>
+<InfoWindowWidth > 0</InfoWindowWidth>
+<RecentFiles > </RecentFiles>
+<PingServer > http://rpc.weblogs.com/RPC2</PingServer>
+<PingMethod > weblogUpdates.ping</PingMethod>
+<PingTitle > your weblog name</PingTitle>
+<PingURL > weblog URL</PingURL>
+<PingTechnorati > 1</PingTechnorati>
+<PingWeblogsCom > 1</PingWeblogsCom>
+<PingGoogle > 1</PingGoogle>
+<PingFeedURL > </PingFeedURL>
+<WeblogServer > http://your_host/cgi-bin/mt/mt-xmlrpc.cgi</WeblogServer>
+<WeblogUser > </WeblogUser>
+<WeblogPassword > </WeblogPassword>
+<WeblogID > 1</WeblogID>
+<WeblogKind > 2</WeblogKind>
+<ToolbarKind > 28502</ToolbarKind>
+<ReadingReminders > 0</ReadingReminders>
+<AllowViews > 1</AllowViews>
+<AutomaticAgentUpdate > 1</AutomaticAgentUpdate>
+<ToolbarX > 0</ToolbarX>
+<ToolbarY > 0</ToolbarY>
+<FindWindowX > 600</FindWindowX>
+<FindWindowY > 100</FindWindowY>
+<RenameWindowX > -1</RenameWindowX>
+<RenameWindowY > -1</RenameWindowY>
+<InspectorX > 1153</InspectorX>
+<InspectorY > 368</InspectorY>
+<EnterKeyAction > 0</EnterKeyAction>
+<UpdateViewShown > </UpdateViewShown>
+<TimelineScale > 1000</TimelineScale>
+<TimelineLabelSize > 0</TimelineLabelSize>
+<GetInfoPane > </GetInfoPane>
+<GetInfoCategory > </GetInfoCategory>
+<GetInfoSelection > </GetInfoSelection>
+<LastLinkName > *untitled</LastLinkName>
+<UsingGuides > 1</UsingGuides>
+<SystemAttributesCategory > </SystemAttributesCategory>
+<SystemAttributesSelection > </SystemAttributesSelection>
+<CheckMail > 0</CheckMail>
+<MailHost > </MailHost>
+<MailUser > </MailUser>
+<MailPassword > </MailPassword>
+<CheckSimplenote > 0</CheckSimplenote>
+<SimplenoteEmail > </SimplenoteEmail>
+<SimplenotePassword > </SimplenotePassword>
+<SimplenoteTag > </SimplenoteTag>
+<MapBackgroundColor > 0 0 0</MapBackgroundColor>
+<MapBackgroundColor2 > 0 0 0</MapBackgroundColor2>
+<TextColor > 0 0 0</TextColor>
+<TextBackgroundColor > 65535 65535 65535</TextBackgroundColor>
+<TextSize > 5</TextSize>
+<TitleBackgroundColor > 0 0 0</TitleBackgroundColor>
+<TitleForegroundColor > 65535 65535 65535</TitleForegroundColor>
+<ActiveLinkColor > 65535 0 0</ActiveLinkColor>
+<VisitedLinkColor > 26112 0 52224</VisitedLinkColor>
+<MagnifyFonts > 1</MagnifyFonts>
+<MagnifyPictures > 1</MagnifyPictures>
+<RememberWindowPositions > 1</RememberWindowPositions>
+<ExportHTMLCreator > 1</ExportHTMLCreator>
+<ExportTextCreator > 1</ExportTextCreator>
+<ShowSidebar > 1</ShowSidebar>
+<MapPrototypeColor > 52428 61166 52428</MapPrototypeColor>
+<TextLinkColor > 0 26112 52224</TextLinkColor>
+<MapLabelSize > 3</MapLabelSize>
+<LastVersionString > b256</LastVersionString>
+<ExplodeDelimiter > </ExplodeDelimiter>
+</preferences>
+<windows >
+<window bounds="Rect[ 4 -0 1151 877]" ruler="1" >
+<tabs >
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495486614" scrollX="798" scrollY="974" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.182214" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495486251" scrollX="0" scrollY="0" selection="1495486991 " expanded="1495486614 1495486976 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.386225" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+</tabs>
+</window>
+</windows>
+<utilityWindows >
+</utilityWindows>
+<searches >
+</searches>
+</tinderbox>
