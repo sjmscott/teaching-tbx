@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="12" savedBy="7.0.3" >
+<tinderbox version="2" revision="12" savedBy="7.0.1" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -790,8 +790,8 @@
 <item ID="1495486251" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >14.5162695</attribute>
-<attribute name="MapScrollY" >7.489213597</attribute>
+<attribute name="MapScrollX" >0</attribute>
+<attribute name="MapScrollY" >-5.97285e-05</attribute>
 <attribute name="Name" >teaching-activities</attribute>
 <item ID="1495486976" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -1347,7 +1347,7 @@ intuition</text>
 <attribute name="MapScrollY" >-2.941674312</attribute>
 <attribute name="Modified" >2017-05-23T14:06:12-07:00</attribute>
 <attribute name="Name" >Class 1.1</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >43</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1495573879" Creator="Steve Scott" >
@@ -1508,7 +1508,8 @@ intuition</text>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >5.72</attribute>
-<text >List the strengths of each religion mentioned.What is your most important highlight for each section.  Why?</text>
+<text >List the strengths of each religion mentioned.
+What is your most important highlight for each section.  Why?</text>
 </item>
 <item ID="1495486630" Creator="Steve Scott" proto="pAssignment" >
 <attribute name="Associates" ></attribute>
@@ -1521,7 +1522,8 @@ intuition</text>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >12.56176758</attribute>
 <attribute name="Ypos" >7.22</attribute>
-<text >What is your most important nugget of wisdom from Class todayKeep your response in Notability or pages.  We will post it to the grade book discussion at the beginning of next class.</text>
+<text >What is your most important nugget of wisdom from Class today
+Keep your response in Notability or pages.  We will post it to the grade book discussion at the beginning of next class.</text>
 </item>
 <item ID="1495486988" Creator="Steve Scott" proto="pAssignment" >
 <attribute name="Associates" ></attribute>
@@ -1694,7 +1696,8 @@ intuition</text>
 <attribute name="Name" >Type a 200 word NOW.  </attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >1.1975</attribute>
-<text >1. What is your most important nugget of wisdom for Class 2-1?  Why?2. Upload to On Campus before the beginning of next class</text>
+<text >1. What is your most important nugget of wisdom for Class 2-1?  Why?
+2. Upload to On Campus before the beginning of next class</text>
 </item>
 </item>
 </item>
@@ -1772,7 +1775,8 @@ intuition</text>
 <attribute name="Name" >Type a 200 word NOW. </attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >1.1975</attribute>
-<text >1. What is your most important nugget of wisdom from class today?  Why?2. Copy-Paste to On Campus before the beginning of next class</text>
+<text >1. What is your most important nugget of wisdom from class today?  Why?
+2. Copy-Paste to On Campus before the beginning of next class</text>
 </item>
 <item ID="1495486653" Creator="Steve Scott" >
 <attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
@@ -2555,7 +2559,9 @@ intuition</text>
 <attribute name="Name" >Video Israeli Settlements</attribute>
 <attribute name="Xpos" >7.5</attribute>
 <attribute name="Ypos" >1.1975</attribute>
-<text >https://www.youtube.com/watch?v=E0uLbeQlwjw&amp;feature=youtu.behttps://youtu.be/1sib5HbdEV4</text>
+<text >https://www.youtube.com/watch?v=E0uLbeQlwjw&amp;feature=youtu.be
+
+https://youtu.be/1sib5HbdEV4</text>
 </item>
 <item ID="1495486761" Creator="Steve Scott" >
 <attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
@@ -3117,7 +3123,11 @@ intuition</text>
 <attribute name="Name" >Divide out Hinduism Sacred Readings</attribute>
 <attribute name="Xpos" >4</attribute>
 <attribute name="Ypos" >1.1975</attribute>
-<text >Group #1= Selections from the Rig Veda, the Upanishads, and the Bhagavad Gita p. 157-158Group #2= From the Chandogya Upanishad p. 161-162Group #3: From the Mundaka Upanishad p. 164Group #4: From the Ramayana p. 166Group #5: From the Laws of Manu p.169-170</text>
+<text >Group #1= Selections from the Rig Veda, the Upanishads, and the Bhagavad Gita p. 157-158
+Group #2= From the Chandogya Upanishad p. 161-162
+Group #3: From the Mundaka Upanishad p. 164
+Group #4: From the Ramayana p. 166
+Group #5: From the Laws of Manu p.169-170</text>
 </item>
 <item ID="1495486838" Creator="Steve Scott" >
 <attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
@@ -3125,7 +3135,8 @@ intuition</text>
 <attribute name="Name" >Small Groups: Discuss the Hindu Sacred Readings</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >3.5575</attribute>
-<text >Discuss HIndu Sacred readings from Class 10-1.Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning of your passage</text>
+<text >Discuss HIndu Sacred readings from Class 10-1.
+Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning of your passage</text>
 </item>
 <item ID="1495486839" Creator="Steve Scott" >
 <attribute name="Created" >2017-05-22T12:01:52-07:00</attribute>
@@ -4360,7 +4371,7 @@ intuition</text>
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 7.0.3</Version>
+<Version > version 7.0.1</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -4398,8 +4409,8 @@ intuition</text>
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1120</InspectorX>
-<InspectorY > 548</InspectorY>
+<InspectorX > 1372</InspectorX>
+<InspectorY > 527</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -4441,10 +4452,10 @@ intuition</text>
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 4 -0 1151 877]" ruler="1" >
+<window bounds="Rect[ 10 127 1157 1004]" ruler="1" >
 <tabs >
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="53.7915" ID="1495570610" scrollX="0" scrollY="0" selection="" expanded="1495572341 1495570610 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.345248" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495486251" scrollX="1480" scrollY="740" selection="1495573573 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.168265" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495486251" scrollX="476" scrollY="449.002" selection="1495573573 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.168265" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
