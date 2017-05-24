@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="12" savedBy="7.0.1" >
+<tinderbox version="2" revision="12" savedBy="7.0.3" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -790,8 +790,8 @@
 <item ID="1495486251" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >0</attribute>
-<attribute name="MapScrollY" >-5.97285e-05</attribute>
+<attribute name="MapScrollX" >8.1875</attribute>
+<attribute name="MapScrollY" >0.7499402715</attribute>
 <attribute name="Name" >teaching-activities</attribute>
 <item ID="1495486976" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -805,7 +805,7 @@
 <attribute name="Modified" >2017-05-22T12:10:35-07:00</attribute>
 <attribute name="Name" >Prototypes</attribute>
 <attribute name="OnAdd" >$IsPrototype=true</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >5.634399414</attribute>
 <attribute name="Ypos" >4.532654947</attribute>
@@ -827,7 +827,7 @@
 <attribute name="SelectionCount" >12</attribute>
 <attribute name="Shape" >tag</attribute>
 <attribute name="Width" >5.427246094</attribute>
-<attribute name="Xpos" >-1.927246094</attribute>
+<attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >2</attribute>
 </item>
 <item ID="1495486989" Creator="Steve Scott" >
@@ -841,8 +841,8 @@
 <attribute name="Modified" >2017-05-22T12:24:19-07:00</attribute>
 <attribute name="Name" >pSpiritualExercise</attribute>
 <attribute name="SelectionCount" >7</attribute>
-<attribute name="Xpos" >8.5</attribute>
-<attribute name="Ypos" >0</attribute>
+<attribute name="Xpos" >6.427246094</attribute>
+<attribute name="Ypos" >2</attribute>
 </item>
 <item ID="1495486991" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -856,8 +856,8 @@
 <attribute name="Modified" >2017-05-22T12:27:48-07:00</attribute>
 <attribute name="Name" >pResource</attribute>
 <attribute name="SelectionCount" >10</attribute>
-<attribute name="Xpos" >12.07275391</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Xpos" >0.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
 </item>
 <item ID="1495486978" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -875,7 +875,16 @@
 <attribute name="Shape" >lozenge</attribute>
 <attribute name="Width" >4</attribute>
 <attribute name="Xpos" >4</attribute>
-<attribute name="Ypos" >2</attribute>
+<attribute name="Ypos" >4.36</attribute>
+</item>
+<item ID="1495584364" Creator="Steve Scott" >
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="IsPrototype" >true</attribute>
+<attribute name="KeyAttributes" >ChildCount</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >Exploded Notes</attribute>
+<attribute name="Xpos" >8.5</attribute>
+<attribute name="Ypos" >4.36</attribute>
 </item>
 </item>
 <item ID="1495572336" Creator="Steve Scott" >
@@ -896,7 +905,7 @@
 </composite>
 <composite nodes="1495572748 1495572749 " name="list" instantiates="" >
 </composite>
-<composite nodes="1495574150 1495574157 " name="" instantiates="" >
+<composite nodes="1495574157 1495574150 " name="" instantiates="" >
 </composite>
 </composites>
 <item ID="1495572337" Creator="Steve Scott" >
@@ -1220,7 +1229,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T13:16:49-07:00</attribute>
 <attribute name="Name" >Ideas for ROW</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Xpos" >36</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1495570616" Creator="Steve Scott" >
@@ -1347,7 +1356,7 @@ intuition</text>
 <attribute name="MapScrollY" >-2.941674312</attribute>
 <attribute name="Modified" >2017-05-23T14:06:12-07:00</attribute>
 <attribute name="Name" >Class 1.1</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Xpos" >43</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1495573879" Creator="Steve Scott" >
@@ -1436,18 +1445,614 @@ intuition</text>
 <attribute name="Ypos" >-14.66603103</attribute>
 </adornment>
 </item>
+<item ID="1495584338" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:16:36-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >11.47223701</attribute>
+<attribute name="MapScrollY" >2.843771933</attribute>
+<attribute name="Modified" >2017-05-23T16:16:36-07:00</attribute>
+<attribute name="Name" >Religion Chart</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Xpos" >50.13439941</attribute>
+<attribute name="Ypos" >1.901000977</attribute>
+<item ID="1495584339" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:17:43-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >13.93422355</attribute>
+<attribute name="MapScrollY" >10.39025918</attribute>
+<attribute name="Modified" >2017-05-23T16:17:43-07:00</attribute>
+<attribute name="Name" >Buddhism</attribute>
+<attribute name="SelectionCount" >19</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="1495584368" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the meaning, the aim of our life</attribute>
+<attribute name="SelectionCount" >14</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >10.72872849</attribute>
+<text >What is the meaning, the aim of our life?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5TAQAAKwAAAAEAAABLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIG1lYW5pbmcsIHRoZSBhaW0gb2Ygb3VyIGxpZmU/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584365" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >The Questions of Nostra Aetate</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >-3.371422641</attribute>
+<text >The Questions of Nostra Aetate</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5IAQAAKwAAAAEAAABAAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFRoZSBRdWVzdGlvbnMgb2YgTm9zdHJhIEFldGF0ZX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584366" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the meaning, the aim of our life</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >-1.021397453</attribute>
+<text >What is the meaning, the aim of our life?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5TAQAAKwAAAAEAAABLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIG1lYW5pbmcsIHRoZSBhaW0gb2Ygb3VyIGxpZmU/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584369" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What are death, judgment and retribution after death</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >1.328627735</attribute>
+<text >What are death, judgment and retribution after death?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5fAQAAKwAAAAEAAABXAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgYXJlIGRlYXRoLCBqdWRnbWVudCBhbmQgcmV0cmlidXRpb24gYWZ0ZXIgZGVhdGg/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584370" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the ultimate inexpressible mystery which encompasses our existence</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >6.028678111</attribute>
+<text >What is the ultimate inexpressible mystery which encompasses our existence?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC51AQAAKwAAAAEAAABtAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIHVsdGltYXRlIGluZXhwcmVzc2libGUgbXlzdGVyeSB3aGljaCBlbmNvbXBhc3NlcyBvdXIgZXhpc3RlbmNlP30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584371" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is suffering and what purpose does it serve</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >8.378703299</attribute>
+<text >What is suffering and what purpose does it serve?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5bAQAAKwAAAAEAAABTAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgc3VmZmVyaW5nIGFuZCB3aGF0IHB1cnBvc2UgZG9lcyBpdCBzZXJ2ZT99AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAPcYkWbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1495584372" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is moral good, what is sin</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >3.678652923</attribute>
+<text >What is moral good, what is sin?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5KAQAAKwAAAAEAAABCAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgbW9yYWwgZ29vZCwgd2hhdCBpcyBzaW4/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584354" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:27:15-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0.008054464482</attribute>
+<attribute name="MapScrollY" >0.008054464482</attribute>
+<attribute name="Modified" >2017-05-23T16:27:15-07:00</attribute>
+<attribute name="Name" >Siddhartha Gautama</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Width" >8.188680248</attribute>
+<attribute name="Xpos" >19.6125384</attribute>
+<attribute name="Ypos" >17.99824684</attribute>
+</item>
+<item ID="1495584350" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:24:46-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:24:46-07:00</attribute>
+<attribute name="Name" >Emotional and Experiential</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >0.3564490506</attribute>
+</item>
+<item ID="1495584349" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:33-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:33-07:00</attribute>
+<attribute name="Name" >Narratives and Myths</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >3.216449051</attribute>
+</item>
+<item ID="1495584348" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:30-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:30-07:00</attribute>
+<attribute name="Name" >Ritual</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >6.076449051</attribute>
+</item>
+<item ID="1495584347" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:14-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:14-07:00</attribute>
+<attribute name="Name" >Ethics</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >8.936449051</attribute>
+</item>
+<item ID="1495584352" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:25:11-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:25:11-07:00</attribute>
+<attribute name="Name" >Material</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >11.79644905</attribute>
+</item>
+<item ID="1495584351" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:24:55-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0.004647574431</attribute>
+<attribute name="MapScrollY" >0.004647574431</attribute>
+<attribute name="Modified" >2017-05-23T16:24:55-07:00</attribute>
+<attribute name="Name" >Social</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >14.65644905</attribute>
+</item>
+<item ID="1495584346" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:06-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:06-07:00</attribute>
+<attribute name="Name" >Doctrine and Philosophy</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >1.379719315</attribute>
+<attribute name="Ypos" >17.51644905</attribute>
+</item>
+<item ID="1495584355" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:28:21-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:28:21-07:00</attribute>
+<attribute name="Name" >Nirvana</attribute>
+<attribute name="SelectionCount" >1</attribute>
+<attribute name="Xpos" >14.56044902</attribute>
+<attribute name="Ypos" >6.214624261</attribute>
+</item>
+<item ID="1495584356" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:28:54-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:29:04-07:00</attribute>
+<attribute name="Name" >Dalai Lama</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Xpos" >15.38464726</attribute>
+<attribute name="Ypos" >14.74996544</attribute>
+<text >
+Freedom in Exile: The Autobiography of the Dalai Lama
+By Tenzin Gyatso
+
+When I was not quite three years old, a search party that had been sent out by the Government to find the new incarnation of the Dalai Lama arrived at Kumbum monastery.  It had been led there by a number of signs. One of these concerned the embalmed body of my predecessor, Thupten Gyatso, the Thirteenth Dalai Lama, who had died aged fifty-seven in 1933. During his period of sitting in state, the head was discovered to have turned from facing south to north-east. Shortly after that the Regent, himself a senior lama, had a vision. Looking into the waters of the sacred lake, Lahamoi Lhatso, in southern Tibet, he clearly saw the Tibetan letters Ah, Ka, and  Ma float into view. These were followed by the image of a monastery with a turquoise and gold roof and a path running from it to a hill. Finally, he saw a small house with strangely shaped guttering. He was sure that the letter Ah referred to Amado, the north-eastern province, so it was there that the search party was sent.
+By the time they reached Kumbum, the members of the search party felt that they were on the right track. It seemed likely that if the letter Ah referred to Amado, the Ka must indicate the monastery at Kumbum- which was indeed three storied and turquoise roofed. They now only needed to locate a hill and a house with peculiar guttering. So they began to search the neighbouring villages. When saw the gnarled branches of juniper wood on the roof of my parents’ house, they were certain the new Dalai Lama would not be far away. Nevertheless, rather than reveal the purpose of their visit, the group asked only to stay the night. The leader of the party, Kewtsang Rinpoche, then pretended to be a servant and spent much of the evening observing and playing with the youngest child in the house.
+The child recognized him and called out “Sera Lama, Sera Lama.” Sera was Kewtsang Rinpoche’s monastery. Next day they left- only to return a few days later as a formal deputation. This time they brought with them a number of things that had belonged to my predecessor, together with several items that did not. In every case, the infant correctly identified those belonging to the Thirteenth Dalai Lama saying, “It’s mine. It’s mine.” This more or less convinced the search party that they had found the new incarnation. However, there was another candidate to be seen before a final decision could be reached. But it was not long before the boy from Taktser was acknowledged to be the new Dalai Lama. I was that child. . . .
+Actually the business of identifying tulkus is more logical than it may at first appear. Given the Buddhist belief that the principle of rebirth is fact, and given that the whole purpose of reincarnation is to enable a being to continue its efforts on behalf of all suffering sentient beings, it stands to reason that it should be possible to identify individual cases. This enables them to be educated and placed in the world so that they can continue their work as soon as possible.
+	Mistakes in this identification process can certainly be made, but the lives of the great majority of tulkus (of whom there are presently a few hundred know, although in Tibet before the Chinese invasion there were probably a few thousand) are adequate testimony to its efficacy.
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6/DgAAKwAAAAEAAAC3DgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzTmV3Um9tYW5QU01UO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxxY1xwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjQgXGNmMCBcdWwgXHVsYzAgXApGcmVlZG9tIGluIEV4aWxlOiBUaGUgQXV0b2Jpb2dyYXBoeSBvZiB0aGUgRGFsYWkgTGFtYVx1bG5vbmUgXApCeSBUZW56aW4gR3lhdHNvXApcClxwYXJkXHR4NzIwXHBhcmRlZnRhYjcyMFxmaTcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFdoZW4gSSB3YXMgbm90IHF1aXRlIHRocmVlIHllYXJzIG9sZCwgYSBzZWFyY2ggcGFydHkgdGhhdCBoYWQgYmVlbiBzZW50IG91dCBieSB0aGUgR292ZXJubWVudCB0byBmaW5kIHRoZSBuZXcgaW5jYXJuYXRpb24gb2YgdGhlIERhbGFpIExhbWEgYXJyaXZlZCBhdCAKXGIgS3VtYnVtIG1vbmFzdGVyeS4gClxiMCAgSXQgaGFkIGJlZW4gbGVkIHRoZXJlIGJ5IGEgbnVtYmVyIG9mIHNpZ25zLiBPbmUgb2YgdGhlc2UgY29uY2VybmVkIHRoZSBlbWJhbG1lZCBib2R5IG9mIG15IHByZWRlY2Vzc29yLCBUaHVwdGVuIEd5YXRzbywgdGhlIFRoaXJ0ZWVudGggRGFsYWkgTGFtYSwgd2hvIGhhZCBkaWVkIGFnZWQgZmlmdHktc2V2ZW4gaW4gMTkzMy4gRHVyaW5nIGhpcyBwZXJpb2Qgb2Ygc2l0dGluZyBpbiBzdGF0ZSwgdGhlIGhlYWQgd2FzIGRpc2NvdmVyZWQgdG8gaGF2ZSB0dXJuZWQgZnJvbSBmYWNpbmcgc291dGggdG8gbm9ydGgtZWFzdC4gU2hvcnRseSBhZnRlciB0aGF0IHRoZSBSZWdlbnQsIGhpbXNlbGYgYSBzZW5pb3IgbGFtYSwgaGFkIGEgdmlzaW9uLiBMb29raW5nIGludG8gdGhlIHdhdGVycyBvZiB0aGUgc2FjcmVkIGxha2UsIExhaGFtb2kgTGhhdHNvLCBpbiBzb3V0aGVybiBUaWJldCwgaGUgY2xlYXJseSBzYXcgdGhlIFRpYmV0YW4gbGV0dGVycyAKXGkgQWgsIEthLCAKXGkwIGFuZCAKXGkgIE1hClxpMCAgZmxvYXQgaW50byB2aWV3LiBUaGVzZSB3ZXJlIGZvbGxvd2VkIGJ5IHRoZSBpbWFnZSBvZiBhIG1vbmFzdGVyeSB3aXRoIGEgdHVycXVvaXNlIGFuZCBnb2xkIHJvb2YgYW5kIGEgcGF0aCBydW5uaW5nIGZyb20gaXQgdG8gYSBoaWxsLiBGaW5hbGx5LCBoZSBzYXcgYSBzbWFsbCBob3VzZSB3aXRoIHN0cmFuZ2VseSBzaGFwZWQgZ3V0dGVyaW5nLiBIZSB3YXMgc3VyZSB0aGF0IHRoZSBsZXR0ZXIgClxpIEFoClxpMCAgcmVmZXJyZWQgdG8gQW1hZG8sIHRoZSBub3J0aC1lYXN0ZXJuIHByb3ZpbmNlLCBzbyBpdCB3YXMgdGhlcmUgdGhhdCB0aGUgc2VhcmNoIHBhcnR5IHdhcyBzZW50LlwKQnkgdGhlIHRpbWUgdGhleSByZWFjaGVkIEt1bWJ1bSwgdGhlIG1lbWJlcnMgb2YgdGhlIHNlYXJjaCBwYXJ0eSBmZWx0IHRoYXQgdGhleSB3ZXJlIG9uIHRoZSByaWdodCB0cmFjay4gSXQgc2VlbWVkIGxpa2VseSB0aGF0IGlmIHRoZSBsZXR0ZXIgClxpIEFoIApcaTAgcmVmZXJyZWQgdG8gQW1hZG8sIHRoZSAKXGkgS2EKXGkwICBtdXN0IGluZGljYXRlIHRoZSBtb25hc3RlcnkgYXQgS3VtYnVtLSB3aGljaCB3YXMgaW5kZWVkIHRocmVlIHN0b3JpZWQgYW5kIHR1cnF1b2lzZSByb29mZWQuIFRoZXkgbm93IG9ubHkgbmVlZGVkIHRvIGxvY2F0ZSBhIGhpbGwgYW5kIGEgaG91c2Ugd2l0aCBwZWN1bGlhciBndXR0ZXJpbmcuIFNvIHRoZXkgYmVnYW4gdG8gc2VhcmNoIHRoZSBuZWlnaGJvdXJpbmcgdmlsbGFnZXMuIFdoZW4gc2F3IHRoZSBnbmFybGVkIGJyYW5jaGVzIG9mIGp1bmlwZXIgd29vZCBvbiB0aGUgcm9vZiBvZiBteSBwYXJlbnRzXCc5MiBob3VzZSwgdGhleSB3ZXJlIGNlcnRhaW4gdGhlIG5ldyBEYWxhaSBMYW1hIHdvdWxkIG5vdCBiZSBmYXIgYXdheS4gTmV2ZXJ0aGVsZXNzLCByYXRoZXIgdGhhbiByZXZlYWwgdGhlIHB1cnBvc2Ugb2YgdGhlaXIgdmlzaXQsIHRoZSBncm91cCBhc2tlZCBvbmx5IHRvIHN0YXkgdGhlIG5pZ2h0LiBUaGUgbGVhZGVyIG9mIHRoZSBwYXJ0eSwgS2V3dHNhbmcgUmlucG9jaGUsIHRoZW4gcHJldGVuZGVkIHRvIGJlIGEgc2VydmFudCBhbmQgc3BlbnQgbXVjaCBvZiB0aGUgZXZlbmluZyBvYnNlcnZpbmcgYW5kIHBsYXlpbmcgd2l0aCB0aGUgeW91bmdlc3QgY2hpbGQgaW4gdGhlIGhvdXNlLlwKVGhlIGNoaWxkIHJlY29nbml6ZWQgaGltIGFuZCBjYWxsZWQgb3V0IFwnOTNTZXJhIExhbWEsIFNlcmEgTGFtYS5cJzk0IFNlcmEgd2FzIEtld3RzYW5nIFJpbnBvY2hlXCc5MnMgbW9uYXN0ZXJ5LiBOZXh0IGRheSB0aGV5IGxlZnQtIG9ubHkgdG8gcmV0dXJuIGEgZmV3IGRheXMgbGF0ZXIgYXMgYSBmb3JtYWwgZGVwdXRhdGlvbi4gVGhpcyB0aW1lIHRoZXkgYnJvdWdodCB3aXRoIHRoZW0gYSBudW1iZXIgb2YgdGhpbmdzIHRoYXQgaGFkIGJlbG9uZ2VkIHRvIG15IHByZWRlY2Vzc29yLCB0b2dldGhlciB3aXRoIHNldmVyYWwgaXRlbXMgdGhhdCBkaWQgbm90LiBJbiBldmVyeSBjYXNlLCB0aGUgaW5mYW50IGNvcnJlY3RseSBpZGVudGlmaWVkIHRob3NlIGJlbG9uZ2luZyB0byB0aGUgVGhpcnRlZW50aCBEYWxhaSBMYW1hIHNheWluZywgXCc5M0l0XCc5MnMgbWluZS4gSXRcJzkycyBtaW5lLlwnOTQgVGhpcyBtb3JlIG9yIGxlc3MgY29udmluY2VkIHRoZSBzZWFyY2ggcGFydHkgdGhhdCB0aGV5IGhhZCBmb3VuZCB0aGUgbmV3IGluY2FybmF0aW9uLiBIb3dldmVyLCB0aGVyZSB3YXMgYW5vdGhlciBjYW5kaWRhdGUgdG8gYmUgc2VlbiBiZWZvcmUgYSBmaW5hbCBkZWNpc2lvbiBjb3VsZCBiZSByZWFjaGVkLiBCdXQgaXQgd2FzIG5vdCBsb25nIGJlZm9yZSB0aGUgYm95IGZyb20gVGFrdHNlciB3YXMgYWNrbm93bGVkZ2VkIHRvIGJlIHRoZSBuZXcgRGFsYWkgTGFtYS4gSSB3YXMgdGhhdCBjaGlsZC4gLiAuIC5cCkFjdHVhbGx5IHRoZSBidXNpbmVzcyBvZiBpZGVudGlmeWluZyAKXGkgdHVsa3VzClxpMCAgaXMgbW9yZSBsb2dpY2FsIHRoYW4gaXQgbWF5IGF0IGZpcnN0IGFwcGVhci4gR2l2ZW4gdGhlIEJ1ZGRoaXN0IGJlbGllZiB0aGF0IHRoZSBwcmluY2lwbGUgb2YgcmViaXJ0aCBpcyBmYWN0LCBhbmQgZ2l2ZW4gdGhhdCB0aGUgd2hvbGUgcHVycG9zZSBvZiByZWluY2FybmF0aW9uIGlzIHRvIGVuYWJsZSBhIGJlaW5nIHRvIGNvbnRpbnVlIGl0cyBlZmZvcnRzIG9uIGJlaGFsZiBvZiBhbGwgc3VmZmVyaW5nIHNlbnRpZW50IGJlaW5ncywgaXQgc3RhbmRzIHRvIHJlYXNvbiB0aGF0IGl0IHNob3VsZCBiZSBwb3NzaWJsZSB0byBpZGVudGlmeSBpbmRpdmlkdWFsIGNhc2VzLiBUaGlzIGVuYWJsZXMgdGhlbSB0byBiZSBlZHVjYXRlZCBhbmQgcGxhY2VkIGluIHRoZSB3b3JsZCBzbyB0aGF0IHRoZXkgY2FuIGNvbnRpbnVlIHRoZWlyIHdvcmsgYXMgc29vbiBhcyBwb3NzaWJsZS5cCglNaXN0YWtlcyBpbiB0aGlzIGlkZW50aWZpY2F0aW9uIHByb2Nlc3MgY2FuIGNlcnRhaW5seSBiZSBtYWRlLCBidXQgdGhlIGxpdmVzIG9mIHRoZSBncmVhdCBtYWpvcml0eSBvZiAKXGkgdHVsa3VzClxpMCAgKG9mIHdob20gdGhlcmUgYXJlIHByZXNlbnRseSBhIGZldyBodW5kcmVkIGtub3csIGFsdGhvdWdoIGluIFRpYmV0IGJlZm9yZSB0aGUgQ2hpbmVzZSBpbnZhc2lvbiB0aGVyZSB3ZXJlIHByb2JhYmx5IGEgZmV3IHRob3VzYW5kKSBhcmUgYWRlcXVhdGUgdGVzdGltb255IHRvIGl0cyBlZmZpY2FjeS5cCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADAxSRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584367" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >Which is the road to true happiness</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >31.92890401</attribute>
+<attribute name="Ypos" >12.22872849</attribute>
+<text >Which is the road to true happiness?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5OAQAAKwAAAAEAAABGAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoaWNoIGlzIHRoZSByb2FkIHRvIHRydWUgaGFwcGluZXNzP30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584373" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is man</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >56.80065333</attribute>
+<attribute name="Ypos" >6.214624261</attribute>
+<text >What is man?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC42AQAAKwAAAAEAAAAuAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgbWFuP30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+</item>
+<item ID="1495584341" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:18:37-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:18:37-07:00</attribute>
+<attribute name="Name" >History</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >5.853179637</attribute>
+<attribute name="Ypos" >-4.843498332</attribute>
+</item>
+<item ID="1495584342" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:18:41-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:18:41-07:00</attribute>
+<attribute name="Name" >Gods</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >9.353179637</attribute>
+<attribute name="Ypos" >-4.843498332</attribute>
+</item>
+<item ID="1495584343" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:18:46-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:18:46-07:00</attribute>
+<attribute name="Name" >Meaning of Life</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >12.85317964</attribute>
+<attribute name="Ypos" >-4.843498332</attribute>
+</item>
+<item ID="1495584344" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:18:50-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:18:50-07:00</attribute>
+<attribute name="Name" >Afterlife</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >16.35317964</attribute>
+<attribute name="Ypos" >-4.843498332</attribute>
+</item>
+<item ID="1495584345" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:18:55-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:18:55-07:00</attribute>
+<attribute name="Name" >Practices</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >19.85317964</attribute>
+<attribute name="Ypos" >-4.843498332</attribute>
+</item>
+</item>
 <item ID="1495566576" Creator="Steve Scott" proto="pResource" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T12:09:35-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T12:09:35-07:00</attribute>
 <attribute name="Name" >Misunderstanding Religion</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Tags" >comparative</attribute>
 <attribute name="URL" >https://drive.google.com/file/d/0B_bmjMiJbgqxN3Z3YS1LakM3MVE/view?usp=sharing</attribute>
 <attribute name="Width" >8.523681641</attribute>
 <attribute name="Xpos" >27.13439941</attribute>
 <attribute name="Ypos" >1.901000977</attribute>
+</item>
+<item ID="1495584293" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:14:35-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:14:35-07:00</attribute>
+<attribute name="Name" >Terms</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >46.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<item ID="1495584336" Creator="Steve Scott" >
+<attribute name="Created" >2016-08-08T18:59:10-07:00</attribute>
+<attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
+<attribute name="Name" >Nostra Aetate</attribute>
+<attribute name="SelectionCount" >27</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >under direction of Pope Paul the VI’s, foundational document which sets the tone for religious dialog for the modern era of the Roman Catholic Church.
+
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5wAgAAKwAAAAEAAABoAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDM2MFx0eDcyMFx0eDEwODBcdHgxNDQwXHJpNDAwXHNiMTAwXHNhMTAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI0IFxjZjAgdW5kZXIgZGlyZWN0aW9uIG9mIFBvcGUgUGF1bCB0aGUgVklcJzkycywgZm91bmRhdGlvbmFsIGRvY3VtZW50IHdoaWNoIHNldHMgdGhlIHRvbmUgZm9yIHJlbGlnaW91cyBkaWFsb2cgZm9yIHRoZSBtb2Rlcm4gZXJhIG9mIHRoZSBSb21hbiBDYXRob2xpYyBDaHVyY2guClxmczIwIFwKXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZnMzMiBcY2YwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAImlqle2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584295" Creator="sscott" >
+<attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
+<attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
+<attribute name="Name" >Ecumenism</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >seeks the union of all Christian faiths and eventually the unity of all peoples throughout the world. 
+
+</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC55AQAAKwAAAAEAAABxAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBGdXR1cmEtTWVkaXVtO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YwIHNlZWtzIHRoZSB1bmlvbiBvZiBhbGwgQ2hyaXN0aWFuIGZhaXRocyBhbmQgZXZlbnR1YWxseSB0aGUgdW5pdHkgb2YgYWxsIHBlb3BsZXMgdGhyb3VnaG91dCB0aGUgd29ybGQuIFwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAB6aqV7YBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1495584297" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >John XXIII</attribute>
+<attribute name="SelectionCount" >27</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >5.72</attribute>
+<text >helped Jews escape the Nazis. called the Vatican II He was named a saint 2014. </text>
+</item>
+<item ID="1495584299" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Monotheist</attribute>
+<attribute name="SelectionCount" >22</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >7.72</attribute>
+<text >belief in One God </text>
+</item>
+<item ID="1495584301" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName;thumb_img;Person</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Paul VI</attribute>
+<attribute name="SelectionCount" >23</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >9.72</attribute>
+<text >succeeded John XXIII as Pope and led the Second Vatican Council. Under his leadership the document Nostra Aetate was written. </text>
+</item>
+<item ID="1495584303" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Synod</attribute>
+<attribute name="SelectionCount" >20</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >11.72</attribute>
+<text >A gathering of the church hierarchy to discuss and make decisions regarding the Church and Church practices. </text>
+</item>
+<item ID="1495584305" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Vatican II</attribute>
+<attribute name="SelectionCount" >21</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >13.72</attribute>
+<text >convened in 1962 by Pope John XXIII in an effort to effect an aggorniamento (updating) of the church in the modern world. </text>
+</item>
+<item ID="1495584307" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Agnostic</attribute>
+<attribute name="SelectionCount" >23</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >17.72</attribute>
+<text >impossible to affirm or deny the existence of God </text>
+</item>
+<item ID="1495584309" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Antithesis</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >19.72</attribute>
+<text >an opposing or different idea, concept, viewpoint, paradigm or philosophy </text>
+</item>
+<item ID="1495584311" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Atheist</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >21.72</attribute>
+<text >Denies the existence of God </text>
+</item>
+<item ID="1495584313" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Immanence</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >23.72</attribute>
+<text >stresses that God is within the world </text>
+</item>
+<item ID="1495584315" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Incarnation</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >25.72</attribute>
+<text >God is within the world and beyond the world </text>
+</item>
+<item ID="1495584317" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Monotheist</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >27.72</attribute>
+<text >belief in One God </text>
+</item>
+<item ID="1495584319" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Polytheist</attribute>
+<attribute name="SelectionCount" >19</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >29.72</attribute>
+<text >Belief in many Gods </text>
+</item>
+<item ID="1495584321" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Synthesis</attribute>
+<attribute name="SelectionCount" >17</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >31.72</attribute>
+<text >One of three logical options 1) a new or blended idea, concept, viewpoint, paradigm, or philosophy 2) A reassertion of your original thesis 3) Accepting the Antithesis </text>
+</item>
+<item ID="1495584323" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Theist</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >33.72</attribute>
+<text >affirms the existence of a personal God </text>
+</item>
+<item ID="1495584325" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Thesis</attribute>
+<attribute name="SelectionCount" >18</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >35.72</attribute>
+<text >an established idea, concept, viewpoint, paradigm, or philosophy </text>
+</item>
+<item ID="1495584327" Creator="sscott" >
+<attribute name="Created" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="KeyAttributes" >Religion;CourseName</attribute>
+<attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
+<attribute name="Name" >Pantheism</attribute>
+<attribute name="SelectionCount" >25</attribute>
+<attribute name="Width" >10</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >37.72</attribute>
+<text >All of creation is God. The divine is completely immanent </text>
+</item>
+<item ID="1495584329" Creator="sscott" >
+<attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
+<attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
+<attribute name="Name" >7 Dimensions of Religion</attribute>
+<attribute name="SelectionCount" >11</attribute>
+<attribute name="Xpos" >14</attribute>
+<attribute name="Ypos" >37.72</attribute>
+<text >1) Narratives and Myth, 2) Social 3) Doctrinal and Philosophical, 4) Emotional and Experiential, 5) Ritual, 6) Material 7) Ethical and Legal </text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6iAQAAKwAAAAEAAACaAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpccGFyZFx0eDU2MFx0eDExMjBcdHgxNjgwXHR4MjI0MFx0eDI4MDBcdHgzMzYwXHR4MzkyMFx0eDQ0ODBcdHg1MDQwXHR4NTYwMFx0eDYxNjBcdHg2NzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YwIDEpIE5hcnJhdGl2ZXMgYW5kIE15dGgsIDIpIFNvY2lhbCAzKSBEb2N0cmluYWwgYW5kIFBoaWxvc29waGljYWwsIDQpIEVtb3Rpb25hbCBhbmQgRXhwZXJpZW50aWFsLCA1KSBSaXR1YWwsIDYpIE1hdGVyaWFsIDcpIEV0aGljYWwgYW5kIExlZ2FsIH0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAABTC6pXtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584331" Creator="sscott" >
+<attribute name="Created" >2016-08-17T21:11:08-07:00</attribute>
+<attribute name="Modified" >2016-08-23T19:56:44-07:00</attribute>
+<attribute name="Name" >Pope Francis</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Xpos" >17.5</attribute>
+<attribute name="Ypos" >37.72</attribute>
+<text >Current Pope of the Roman Catholic Church</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4sAQAAKwAAAAEAAAAkAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIEN1cnJlbnQgUG9wZSBvZiB0aGUgUm9tYW4gQ2F0aG9saWMgQ2h1cmNofQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAOwMvVe2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584333" Creator="sscott" >
+<attribute name="Created" >2016-08-23T19:48:00-07:00</attribute>
+<attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
+<attribute name="Name" >Antoni Gaudi</attribute>
+<attribute name="SelectionCount" >9</attribute>
+<attribute name="Xpos" >21</attribute>
+<attribute name="Ypos" >37.72</attribute>
+<text >Architect who dedicated his life to the building of the Sagrada Familia Basilica in Spain.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5jAQAAKwAAAAEAAABbAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDcwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIEFyY2hpdGVjdCB3aG8gZGVkaWNhdGVkIGhpcyBsaWZlIHRvIHRoZSBidWlsZGluZyBvZiB0aGUgU2FncmFkYSBGYW1pbGlhIEJhc2lsaWNhIGluIFNwYWluLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACyC71XtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584335" Creator="sscott" >
+<attribute name="Created" >2016-09-07T10:42:18-07:00</attribute>
+<attribute name="Modified" >2016-09-07T10:43:09-07:00</attribute>
+<attribute name="Name" >Henotheism</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Xpos" >24.5</attribute>
+<attribute name="Ypos" >37.72</attribute>
+<text >A group that worships 1 or more Gods, but does not deny the existence of other gods.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5XAQAAKwAAAAEAAABPAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNDA0XGNvY29hc3VicnRmNDYwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBIb2VmbGVyVGV4dC1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDBcZ3JlZW4wXGJsdWUwO30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjEwMFxzYTEwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyNCBcY2YyIEEgZ3JvdXAgdGhhdCB3b3JzaGlwcyAxIG9yIG1vcmUgR29kcywgYnV0IGRvZXMgbm90IGRlbnkgdGhlIGV4aXN0ZW5jZSBvZiBvdGhlciBnb2RzLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACtUdBXtgEAAAAAAAAAAAAA</rtfd>
+</item>
 </item>
 <item ID="1495486610" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -4287,6 +4892,228 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="Ypos" >17.21746926</attribute>
 </item>
 </item>
+<item ID="1495584390" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:36:50-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >-1.278687346</attribute>
+<attribute name="MapScrollY" >-0.2825750308</attribute>
+<attribute name="Modified" >2017-05-23T16:36:50-07:00</attribute>
+<attribute name="Name" >Core Concepts</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Xpos" >13.92000239</attribute>
+<attribute name="Ypos" >-2.91871459</attribute>
+<item ID="1495584377" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >8.367072331</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >The Questions of Nostra Aetate</attribute>
+<attribute name="SelectionCount" >12</attribute>
+<attribute name="Width" >10.2187805</attribute>
+<attribute name="Xpos" >2.729232187</attribute>
+<attribute name="Ypos" >-14.25295432</attribute>
+<text >The Questions of Nostra Aetate</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5IAQAAKwAAAAEAAABAAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFRoZSBRdWVzdGlvbnMgb2YgTm9zdHJhIEFldGF0ZX0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+<item ID="1495584375" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the meaning, the aim of our life</attribute>
+<attribute name="SelectionCount" >16</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >14.20909195</attribute>
+<text >What is the meaning, the aim of our life?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5TAQAAKwAAAAEAAABLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIG1lYW5pbmcsIHRoZSBhaW0gb2Ygb3VyIGxpZmU/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584379" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the meaning, the aim of our life</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >2.458966004</attribute>
+<text >What is the meaning, the aim of our life?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5TAQAAKwAAAAEAAABLAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIG1lYW5pbmcsIHRoZSBhaW0gb2Ygb3VyIGxpZmU/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584381" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What are death, judgment and retribution after death</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >4.808991192</attribute>
+<text >What are death, judgment and retribution after death?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5fAQAAKwAAAAEAAABXAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgYXJlIGRlYXRoLCBqdWRnbWVudCBhbmQgcmV0cmlidXRpb24gYWZ0ZXIgZGVhdGg/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584383" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is the ultimate inexpressible mystery which encompasses our existence</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >9.509041568</attribute>
+<text >What is the ultimate inexpressible mystery which encompasses our existence?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC51AQAAKwAAAAEAAABtAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgdGhlIHVsdGltYXRlIGluZXhwcmVzc2libGUgbXlzdGVyeSB3aGljaCBlbmNvbXBhc3NlcyBvdXIgZXhpc3RlbmNlP30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+<item ID="1495584385" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is suffering and what purpose does it serve</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >11.85906676</attribute>
+<text >What is suffering and what purpose does it serve?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5bAQAAKwAAAAEAAABTAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgc3VmZmVyaW5nIGFuZCB3aGF0IHB1cnBvc2UgZG9lcyBpdCBzZXJ2ZT99AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAPcYkWbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
+<item ID="1495584387" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >What is moral good, what is sin</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >7.15901638</attribute>
+<text >What is moral good, what is sin?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5KAQAAKwAAAAEAAABCAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoYXQgaXMgbW9yYWwgZ29vZCwgd2hhdCBpcyBzaW4/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAD3GJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495584389" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
+<attribute name="Name" >Which is the road to true happiness</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >-0.02722467465</attribute>
+<attribute name="Ypos" >15.70909195</attribute>
+<text >Which is the road to true happiness?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5OAQAAKwAAAAEAAABGAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMyOCBcY2YwIFdoaWNoIGlzIHRoZSByb2FkIHRvIHRydWUgaGFwcGluZXNzP30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA9xiRZtgEAAAAAAAAAAAAA</rtfd>
+</item>
+</item>
+<item ID="1495584404" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:38:23-07:00</attribute>
+<attribute name="Height" >6.032287466</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:38:23-07:00</attribute>
+<attribute name="Name" >7 Dimensions of Religion</attribute>
+<attribute name="SelectionCount" >4</attribute>
+<attribute name="Width" >15.41062914</attribute>
+<attribute name="Xpos" >-15.99151376</attribute>
+<attribute name="Ypos" >-10.5911934</attribute>
+<item ID="1495584391" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:24:46-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:24:46-07:00</attribute>
+<attribute name="Name" >Emotional and Experiential</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >2.533153785</attribute>
+</item>
+<item ID="1495584393" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:33-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:33-07:00</attribute>
+<attribute name="Name" >Narratives and Myths</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >5.393153785</attribute>
+</item>
+<item ID="1495584395" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:30-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:30-07:00</attribute>
+<attribute name="Name" >Ritual</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >8.253153785</attribute>
+</item>
+<item ID="1495584397" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:14-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:14-07:00</attribute>
+<attribute name="Name" >Ethics</attribute>
+<attribute name="SelectionCount" >7</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >11.11315379</attribute>
+</item>
+<item ID="1495584399" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:25:11-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:25:11-07:00</attribute>
+<attribute name="Name" >Material</attribute>
+<attribute name="SelectionCount" >6</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >13.97315378</attribute>
+</item>
+<item ID="1495584401" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:24:55-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >0.004647574431</attribute>
+<attribute name="MapScrollY" >0.004647574431</attribute>
+<attribute name="Modified" >2017-05-23T16:24:55-07:00</attribute>
+<attribute name="Name" >Social</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >16.83315378</attribute>
+</item>
+<item ID="1495584403" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T16:19:06-07:00</attribute>
+<attribute name="Height" >1</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T16:19:06-07:00</attribute>
+<attribute name="Name" >Doctrine and Philosophy</attribute>
+<attribute name="SelectionCount" >8</attribute>
+<attribute name="Width" >7</attribute>
+<attribute name="Xpos" >0.3646258038</attribute>
+<attribute name="Ypos" >19.69315378</attribute>
+</item>
+</item>
+</item>
 </item>
 <links >
 <link name="prototype" sourceid="1495486977" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495486988" destcreator="Steve Scott" color="normal"  />
@@ -4371,7 +5198,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 7.0.1</Version>
+<Version > version 7.0.3</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -4409,8 +5236,8 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1372</InspectorX>
-<InspectorY > 527</InspectorY>
+<InspectorX > 1120</InspectorX>
+<InspectorY > 201</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -4449,18 +5276,20 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <TextLinkColor > 0 26112 52224</TextLinkColor>
 <MapLabelSize > 3</MapLabelSize>
 <LastVersionString > b256</LastVersionString>
-<ExplodeDelimiter > </ExplodeDelimiter>
+<ExplodeDelimiter > 
+</ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 10 127 1157 1004]" ruler="1" >
+<window bounds="Rect[ 4 -0 1414 877]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="53.7915" ID="1495570610" scrollX="0" scrollY="0" selection="" expanded="1495572341 1495570610 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.345248" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495486251" scrollX="476" scrollY="449.002" selection="1495573573 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.168265" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="31.0387" ID="1495584390" scrollX="642" scrollY="341" selection="" expanded="1495584377 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.104965" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584390" scrollX="567.066" scrollY="541.952" selection="1495584404 1495584377 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.168265" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
 <utilityWindows >
 </utilityWindows>
 <searches >
+<search>buddhism</search>
 </searches>
 </tinderbox>

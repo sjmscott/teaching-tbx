@@ -884,7 +884,7 @@
 <attribute name="Modified" >2016-08-08T09:59:24-07:00</attribute>
 <attribute name="Name" >ROW</attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >119</attribute>
+<attribute name="SelectionCount" >120</attribute>
 <attribute name="Width" >17.24878072</attribute>
 <attribute name="Xpos" >-19.40617737</attribute>
 <attribute name="Year" >2016</attribute>
@@ -1960,7 +1960,7 @@ Graded conversation on Gita</text>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-10T11:26:43-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >197</attribute>
+<attribute name="SelectionCount" >199</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -4433,7 +4433,7 @@ Graded conversation on Gita</text>
 <attribute name="Height" >1.86</attribute>
 <attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
 <attribute name="Name" ></attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >3</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >0.5</attribute>
@@ -6536,7 +6536,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-08-09T20:54:49-07:00</attribute>
 <attribute name="Name" >Nostra Aetate</attribute>
 <attribute name="Religion" >Christian</attribute>
-<attribute name="SelectionCount" >23</attribute>
+<attribute name="SelectionCount" >24</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6552,7 +6552,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-08-09T09:57:21-07:00</attribute>
 <attribute name="Modified" >2016-08-09T20:56:55-07:00</attribute>
 <attribute name="Name" >Ecumenism</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >27.11523956</attribute>
 <attribute name="Ypos" >5.22</attribute>
@@ -6569,7 +6569,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" >John XXIII</attribute>
 <attribute name="Person" >true</attribute>
 <attribute name="Religion" >Christian</attribute>
-<attribute name="SelectionCount" >25</attribute>
+<attribute name="SelectionCount" >26</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6583,7 +6583,7 @@ Graded conversation on Gita</text>
 <attribute name="Height" >1</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Monotheist</attribute>
-<attribute name="SelectionCount" >20</attribute>
+<attribute name="SelectionCount" >21</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6599,7 +6599,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" >Paul VI</attribute>
 <attribute name="Person" >true</attribute>
 <attribute name="Religion" >Christian</attribute>
-<attribute name="SelectionCount" >21</attribute>
+<attribute name="SelectionCount" >22</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6615,7 +6615,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Synod</attribute>
 <attribute name="Religion" >Christian</attribute>
-<attribute name="SelectionCount" >18</attribute>
+<attribute name="SelectionCount" >19</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6630,7 +6630,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Vatican II</attribute>
 <attribute name="Religion" >Christian</attribute>
-<attribute name="SelectionCount" >19</attribute>
+<attribute name="SelectionCount" >20</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6644,7 +6644,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Agnostic</attribute>
-<attribute name="SelectionCount" >21</attribute>
+<attribute name="SelectionCount" >22</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6658,7 +6658,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Antithesis</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6672,7 +6672,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Atheist</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6686,7 +6686,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Immanence</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6700,7 +6700,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Incarnation</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6714,7 +6714,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Monotheist</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6728,7 +6728,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Polytheist</attribute>
-<attribute name="SelectionCount" >17</attribute>
+<attribute name="SelectionCount" >18</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6742,7 +6742,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Synthesis</attribute>
-<attribute name="SelectionCount" >15</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6756,7 +6756,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Theist</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6770,7 +6770,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Thesis</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6784,7 +6784,7 @@ Graded conversation on Gita</text>
 <attribute name="KeyAttributes" >Religion;CourseName</attribute>
 <attribute name="Modified" >2016-07-03T21:22:21-07:00</attribute>
 <attribute name="Name" >Pantheism</attribute>
-<attribute name="SelectionCount" >23</attribute>
+<attribute name="SelectionCount" >24</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >16.61523956</attribute>
@@ -6796,7 +6796,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-08-09T09:56:42-07:00</attribute>
 <attribute name="Modified" >2016-08-09T09:56:51-07:00</attribute>
 <attribute name="Name" >7 Dimensions of Religion</attribute>
-<attribute name="SelectionCount" >9</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >27.11523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
@@ -6810,7 +6810,7 @@ Graded conversation on Gita</text>
 <attribute name="Name" >Pope Francis</attribute>
 <attribute name="Person" >true</attribute>
 <attribute name="ResourceNumber" >20</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >30.61523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
@@ -6824,7 +6824,7 @@ Graded conversation on Gita</text>
 <attribute name="Modified" >2016-08-23T19:51:30-07:00</attribute>
 <attribute name="Name" >Antoni Gaudi</attribute>
 <attribute name="Person" >true</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >34.11523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
@@ -6837,7 +6837,7 @@ Graded conversation on Gita</text>
 <attribute name="Created" >2016-09-07T10:42:18-07:00</attribute>
 <attribute name="Modified" >2016-09-07T10:43:09-07:00</attribute>
 <attribute name="Name" >Henotheism</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Unit" >1</attribute>
 <attribute name="Xpos" >37.61523956</attribute>
 <attribute name="Ypos" >42.94</attribute>
@@ -21782,7 +21782,7 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 </attribute>
 <attribute name="Rule" >
 </attribute>
-<attribute name="SelectionCount" >39</attribute>
+<attribute name="SelectionCount" >40</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >17.31873488</attribute>
@@ -25295,9 +25295,9 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 4 0 1440 877]" ruler="1" >
+<window bounds="Rect[ 715 0 2151 877]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="0" selection="" expanded="1470952595 1470952636 1470952643 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="676" selection="1470710517 " expanded="1470675565 1470952595 1470952636 1470952643 1471227096 1470679051 1470675651 1470767762 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="577" selection="1477085147 " expanded="1470675565 1470692020 1470694922 1470697636 1470952645 1471010817 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
