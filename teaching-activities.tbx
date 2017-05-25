@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="12" savedBy="7.0.3" >
+<tinderbox version="2" revision="12" savedBy="7.0.1" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -790,8 +790,8 @@
 <item ID="1495486251" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >8.1875</attribute>
-<attribute name="MapScrollY" >0.7499402715</attribute>
+<attribute name="MapScrollX" >0</attribute>
+<attribute name="MapScrollY" >0</attribute>
 <attribute name="Name" >teaching-activities</attribute>
 <item ID="1495486976" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -4910,7 +4910,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >The Questions of Nostra Aetate</attribute>
-<attribute name="SelectionCount" >12</attribute>
+<attribute name="SelectionCount" >16</attribute>
 <attribute name="Width" >10.2187805</attribute>
 <attribute name="Xpos" >2.729232187</attribute>
 <attribute name="Ypos" >-14.25295432</attribute>
@@ -5022,7 +5022,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:38:23-07:00</attribute>
 <attribute name="Name" >7 Dimensions of Religion</attribute>
-<attribute name="SelectionCount" >4</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Width" >15.41062914</attribute>
 <attribute name="Xpos" >-15.99151376</attribute>
 <attribute name="Ypos" >-10.5911934</attribute>
@@ -5198,7 +5198,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 7.0.3</Version>
+<Version > version 7.0.1</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -5280,10 +5280,10 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 4 -0 1414 877]" ruler="1" >
+<window bounds="Rect[ 41 148 1188 1025]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="31.0387" ID="1495584390" scrollX="642" scrollY="341" selection="" expanded="1495584377 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.104965" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584390" scrollX="567.066" scrollY="541.952" selection="1495584404 1495584377 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.168265" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584390" scrollX="1054" scrollY="1078" selection="1495584404 1495584377 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.169137" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>

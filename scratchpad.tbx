@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="12" savedBy="7.0.3" >
+<tinderbox version="2" revision="12" savedBy="7.0.1" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -785,102 +785,98 @@
 <item ID="1495584405" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >0.71875</attribute>
-<attribute name="MapScrollY" >-0.8684436625</attribute>
+<attribute name="MapScrollX" >0</attribute>
+<attribute name="MapScrollY" >0</attribute>
 <attribute name="Name" >scratchpad</attribute>
-<composites>
-<composite nodes="1495584442 1495584444 1495584446 1495584448 " name="7 Dimensions of Religion" instantiates="" >
-</composite>
-<composite nodes="1495584450 1495584452 1495584454 " name="7 Dimensions of Religion" instantiates="" >
-</composite>
-</composites>
 <item ID="1495584442" Creator="Steve Scott" >
-<attribute name="Associates" >Ethics;Emotional and Experiential;Ritual;Narratives and Myths</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:24:46-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="MapScrollX" >-0.06958007812</attribute>
+<attribute name="MapScrollY" >2.445922852</attribute>
 <attribute name="Modified" >2017-05-23T16:24:46-07:00</attribute>
 <attribute name="Name" >Emotional and Experiential</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >24</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >-2.554895142</attribute>
+<attribute name="Xpos" >-4.756591797</attribute>
+<attribute name="Ypos" >-6.494574494</attribute>
 </item>
 <item ID="1495584444" Creator="Steve Scott" >
-<attribute name="Associates" >Ethics;Emotional and Experiential;Ritual;Narratives and Myths</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:19:33-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:19:33-07:00</attribute>
 <attribute name="Name" >Narratives and Myths</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >26</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >-1.554895142</attribute>
+<attribute name="Xpos" >-25.74853515</attribute>
+<attribute name="Ypos" >-14.12457938</attribute>
 </item>
 <item ID="1495584446" Creator="Steve Scott" >
-<attribute name="Associates" >Ethics;Emotional and Experiential;Ritual;Narratives and Myths</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:19:30-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:19:30-07:00</attribute>
 <attribute name="Name" >Ritual</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >25</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >-0.5548951425</attribute>
+<attribute name="Xpos" >-21.16711425</attribute>
+<attribute name="Ypos" >-5.630108368</attribute>
 </item>
 <item ID="1495584448" Creator="Steve Scott" >
-<attribute name="Associates" >Ethics;Emotional and Experiential;Ritual;Narratives and Myths</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:19:14-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:19:14-07:00</attribute>
 <attribute name="Name" >Ethics</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >24</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >0.4451048575</attribute>
+<attribute name="Xpos" >-20.022583</attribute>
+<attribute name="Ypos" >-2.854265289</attribute>
 </item>
 <item ID="1495584450" Creator="Steve Scott" >
-<attribute name="Associates" >Social;Material;Doctrine and Philosophy</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:25:11-07:00</attribute>
 <attribute name="Height" >1.213974604</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >0.015625</attribute>
 <attribute name="MapScrollY" >0.0078125</attribute>
 <attribute name="Modified" >2017-05-23T16:25:11-07:00</attribute>
 <attribute name="Name" >Material</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >28</attribute>
 <attribute name="Width" >11.62988281</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >1.231130253</attribute>
+<attribute name="Xpos" >-20.022583</attribute>
+<attribute name="Ypos" >1.094645213</attribute>
 </item>
 <item ID="1495584452" Creator="Steve Scott" >
-<attribute name="Associates" >Social;Material;Doctrine and Philosophy</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:24:55-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >0.004647574431</attribute>
 <attribute name="MapScrollY" >0.004647574431</attribute>
 <attribute name="Modified" >2017-05-23T16:24:55-07:00</attribute>
 <attribute name="Name" >Social</attribute>
-<attribute name="SelectionCount" >19</attribute>
+<attribute name="SelectionCount" >29</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >2.445104858</attribute>
+<attribute name="Xpos" >-17.57763672</attribute>
+<attribute name="Ypos" >-19.34279816</attribute>
 </item>
 <item ID="1495584454" Creator="Steve Scott" >
-<attribute name="Associates" >Social;Material;Doctrine and Philosophy</attribute>
+<attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:19:06-07:00</attribute>
 <attribute name="Height" >1</attribute>
-<attribute name="IsComposite" >true</attribute>
+<attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:19:06-07:00</attribute>
 <attribute name="Name" >Doctrine and Philosophy</attribute>
-<attribute name="SelectionCount" >17</attribute>
+<attribute name="SelectionCount" >27</attribute>
 <attribute name="Width" >7</attribute>
-<attribute name="Xpos" >-19.76745605</attribute>
-<attribute name="Ypos" >3.445104858</attribute>
+<attribute name="Xpos" >-6.003744045</attribute>
+<attribute name="Ypos" >7.30569885</attribute>
 </item>
 <item ID="1495584428" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -987,9 +983,9 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:39:08-07:00</attribute>
 <attribute name="Name" >Religion</attribute>
-<attribute name="SelectionCount" >4</attribute>
-<attribute name="Xpos" >-9.467956543</attribute>
-<attribute name="Ypos" >-8.375236816</attribute>
+<attribute name="SelectionCount" >5</attribute>
+<attribute name="Xpos" >-15.09484863</attribute>
+<attribute name="Ypos" >-11.20470459</attribute>
 </item>
 <item ID="1495584407" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -1018,9 +1014,9 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:47:16-07:00</attribute>
 <attribute name="Name" >Hero</attribute>
-<attribute name="SelectionCount" >6</attribute>
-<attribute name="Xpos" >-10.57763672</attribute>
-<attribute name="Ypos" >-13.94355236</attribute>
+<attribute name="SelectionCount" >10</attribute>
+<attribute name="Xpos" >-7.64998936</attribute>
+<attribute name="Ypos" >-20.60232448</attribute>
 </item>
 <item ID="1495584456" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -1030,7 +1026,7 @@
 <attribute name="MapScrollY" >-0.5546875</attribute>
 <attribute name="Modified" >2017-05-23T16:47:20-07:00</attribute>
 <attribute name="Name" >Poets</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >-0.9817504883</attribute>
 <attribute name="Ypos" >-17.87275158</attribute>
 </item>
@@ -1054,6 +1050,46 @@
 <attribute name="Xpos" >-0.9817504883</attribute>
 <attribute name="Ypos" >-10.74323498</attribute>
 </item>
+<item ID="1495585435" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T17:18:25-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T17:18:25-07:00</attribute>
+<attribute name="Name" >Symbols</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >-23.99291992</attribute>
+<attribute name="Ypos" >3.824078617</attribute>
+</item>
+<item ID="1495585436" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T17:18:31-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T17:18:31-07:00</attribute>
+<attribute name="Name" >Statues</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >-17.61218262</attribute>
+<attribute name="Ypos" >4.496686039</attribute>
+</item>
+<item ID="1495585437" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T17:18:46-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T17:18:46-07:00</attribute>
+<attribute name="Name" >Places of Worship</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >-12.89990234</attribute>
+<attribute name="Ypos" >4.04795557</attribute>
+</item>
+<item ID="1495585438" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-23T17:19:19-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-23T17:19:19-07:00</attribute>
+<attribute name="Name" >Artists</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >-5.356799225</attribute>
+<attribute name="Ypos" >-15.95839255</attribute>
+</item>
 </item>
 <links >
 <link name="*untitled" sourceid="1495584441" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495584430" destcreator="Steve Scott" color="normal"  />
@@ -1066,6 +1102,11 @@
 <link name="*untitled" sourceid="1495584455" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495584456" destcreator="Steve Scott" color="normal"  />
 <link name="*untitled" sourceid="1495584455" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495584457" destcreator="Steve Scott" color="normal"  />
 <link name="*untitled" sourceid="1495584455" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495584458" destcreator="Steve Scott" color="normal"  />
+<link name="*untitled" sourceid="1495584452" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495584455" destcreator="Steve Scott" color="normal"  />
+<link name="*untitled" sourceid="1495584455" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495585438" destcreator="Steve Scott" color="normal"  />
+<link name="*untitled" sourceid="1495584450" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495585435" destcreator="Steve Scott" color="normal"  />
+<link name="*untitled" sourceid="1495584450" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495585436" destcreator="Steve Scott" color="normal"  />
+<link name="*untitled" sourceid="1495584450" sourcecreator="Steve Scott" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1495585437" destcreator="Steve Scott" color="normal"  />
 </links>
 <macros >
 </macros>
@@ -1139,7 +1180,7 @@
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 7.0.3</Version>
+<Version > version 7.0.1</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 1</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -1220,9 +1261,9 @@
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 4 -0 1440 877]" ruler="0" >
+<window bounds="Rect[ 0 0 1680 1050]" ruler="0" >
 <tabs >
-<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584405" scrollX="742" scrollY="341" selection="1495584456 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.0097493" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="43.2728" ID="1495584405" scrollX="687" scrollY="63" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.00892857" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584405" scrollX="0" scrollY="0" selection="1495584407 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
