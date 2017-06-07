@@ -785,8 +785,8 @@
 <item ID="1495584405" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >0</attribute>
-<attribute name="MapScrollY" >0</attribute>
+<attribute name="MapScrollX" >0.003336832388</attribute>
+<attribute name="MapScrollY" >-0.006011475548</attribute>
 <attribute name="Name" >scratchpad</attribute>
 <item ID="1495584442" Creator="Steve Scott" >
 <attribute name="Associates" ></attribute>
@@ -993,7 +993,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:39:31-07:00</attribute>
 <attribute name="Name" >Term</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >-1.609985352</attribute>
 <attribute name="Ypos" >2.066108398</attribute>
 </item>
@@ -1261,10 +1261,10 @@
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 0 0 1680 1050]" ruler="0" >
+<window bounds="Rect[ 0 0 1676 1027]" ruler="0" >
 <tabs >
-<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="43.2728" ID="1495584405" scrollX="687" scrollY="63" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.00892857" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584405" scrollX="0" scrollY="0" selection="1495584407 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="43.2728" ID="1495584405" scrollX="1004.86" scrollY="715.26" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.00656325" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584405" scrollX="0" scrollY="0" selection="1495584407 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>

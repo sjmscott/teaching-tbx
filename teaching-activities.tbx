@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<tinderbox version="2" revision="12" savedBy="7.0.1" >
+<tinderbox version="2" revision="12" savedBy="7.0.3" >
 <attrib Name="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="System" parent="anything" editable="0" visibleInEditor="1" default="" >
 <attrib Name="Agent" parent="System" editable="0" visibleInEditor="1" type="4" default="false" >
@@ -901,7 +901,7 @@
 <attribute name="Xpos" >16.28805795</attribute>
 <attribute name="Ypos" >4.532654947</attribute>
 <composites>
-<composite nodes="1495572337 1495572338 1495572339 1495572340 1495572341 1495572342 1495572343 " name="lecture" instantiates="" >
+<composite nodes="1495572338 1495572339 1495572340 1495572341 1495572342 1495572343 1495572337 " name="lecture" instantiates="" >
 </composite>
 <composite nodes="1495572748 1495572749 " name="list" instantiates="" >
 </composite>
@@ -1098,7 +1098,7 @@
 <attribute name="MapScrollY" >7.942408065</attribute>
 <attribute name="Modified" >2017-05-22T11:58:28-07:00</attribute>
 <attribute name="Name" >Activities</attribute>
-<attribute name="SelectionCount" >32</attribute>
+<attribute name="SelectionCount" >37</attribute>
 <attribute name="Xpos" >-0.8656005859</attribute>
 <attribute name="Ypos" >1.901000977</attribute>
 <composites>
@@ -1238,7 +1238,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T13:16:55-07:00</attribute>
 <attribute name="Name" >use foundation</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -1248,7 +1248,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T13:22:29-07:00</attribute>
 <attribute name="Name" >always have a clipboard and picture page</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >2</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -1268,7 +1268,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T14:23:31-07:00</attribute>
 <attribute name="Name" >market the beautiful life</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >2</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -1288,7 +1288,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T14:36:30-07:00</attribute>
 <attribute name="Name" >Japneet&apos;s grid</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >4</attribute>
 <attribute name="Xpos" >17.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >￼
@@ -1329,13 +1329,45 @@ What is truly important in life
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T14:37:10-07:00</attribute>
 <attribute name="Name" >add evidence to Japneet&apos;s gride</attribute>
-<attribute name="SelectionCount" >1</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >21</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >scripture
 authority
 intuition</text>
 <rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4aAQAAKwAAAAEAAAASAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjggXGNmMCBzY3JpcHR1cmVcCmF1dGhvcml0eVwKaW50dWl0aW9ufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAIarJFm2AQAAAAAAAAAAAAA=</rtfd>
+</item>
+<item ID="1495742033" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-25T11:38:23-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-25T11:38:23-07:00</attribute>
+<attribute name="Name" >I need to specify the students use quotes on the final exam</attribute>
+<attribute name="SelectionCount" >2</attribute>
+<attribute name="Xpos" >24.5</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1495742034" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-25T11:42:46-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-25T11:42:46-07:00</attribute>
+<attribute name="Name" >quizlets and mymitty quizzes</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >28</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1495903982" Creator="Steve Scott" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-05-27T09:53:01-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-05-27T09:53:08-07:00</attribute>
+<attribute name="Name" >ROW Senior Project</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >31.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >announce row senior project and NOW portfolio at the start of the semester</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5LAQAAKwAAAAEAAABDAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBHaWxsU2Fuczt9CntcY29sb3J0Ymw7XHJlZDI1NVxncmVlbjI1NVxibHVlMjU1O30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O30KXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxyaTQwMFxzYjgwXHNhODBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjggXGNmMCBhbm5vdW5jZSByb3cgc2VuaW9yIHByb2plY3QgYW5kIE5PVyBwb3J0Zm9saW8gYXQgdGhlIHN0YXJ0IG9mIHRoZSBzZW1lc3Rlcn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAD0rilZtgEAAAAAAAAAAAAA</rtfd>
 </item>
 </item>
 <item ID="1495571713" Creator="Steve Scott" >
@@ -1344,7 +1376,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T13:35:12-07:00</attribute>
 <attribute name="Name" >Sample Class</attribute>
-<attribute name="SelectionCount" >6</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >39.63439941</attribute>
 <attribute name="Ypos" >1.901000977</attribute>
 </item>
@@ -1453,7 +1485,7 @@ intuition</text>
 <attribute name="MapScrollY" >2.843771933</attribute>
 <attribute name="Modified" >2017-05-23T16:16:36-07:00</attribute>
 <attribute name="Name" >Religion Chart</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >8</attribute>
 <attribute name="Xpos" >50.13439941</attribute>
 <attribute name="Ypos" >1.901000977</attribute>
 <item ID="1495584339" Creator="Steve Scott" >
@@ -1464,7 +1496,7 @@ intuition</text>
 <attribute name="MapScrollY" >10.39025918</attribute>
 <attribute name="Modified" >2017-05-23T16:17:43-07:00</attribute>
 <attribute name="Name" >Buddhism</attribute>
-<attribute name="SelectionCount" >19</attribute>
+<attribute name="SelectionCount" >20</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1495584368" Creator="Steve Scott" >
@@ -1474,7 +1506,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What is the meaning, the aim of our life</attribute>
-<attribute name="SelectionCount" >14</attribute>
+<attribute name="SelectionCount" >23</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >10.72872849</attribute>
@@ -1488,7 +1520,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >The Questions of Nostra Aetate</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >-3.371422641</attribute>
@@ -1502,7 +1534,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What is the meaning, the aim of our life</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >-1.021397453</attribute>
@@ -1516,7 +1548,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What are death, judgment and retribution after death</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >1.328627735</attribute>
@@ -1530,7 +1562,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What is the ultimate inexpressible mystery which encompasses our existence</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >6.028678111</attribute>
@@ -1544,7 +1576,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What is suffering and what purpose does it serve</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >8.378703299</attribute>
@@ -1558,7 +1590,7 @@ intuition</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >What is moral good, what is sin</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >17</attribute>
 <attribute name="Width" >7</attribute>
 <attribute name="Xpos" >31.92890401</attribute>
 <attribute name="Ypos" >3.678652923</attribute>
@@ -4896,11 +4928,11 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-05-23T16:36:50-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="MapScrollX" >-1.278687346</attribute>
-<attribute name="MapScrollY" >-0.2825750308</attribute>
+<attribute name="MapScrollX" >-1.270281908</attribute>
+<attribute name="MapScrollY" >-0.2730114894</attribute>
 <attribute name="Modified" >2017-05-23T16:36:50-07:00</attribute>
 <attribute name="Name" >Core Concepts</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >13.92000239</attribute>
 <attribute name="Ypos" >-2.91871459</attribute>
 <item ID="1495584377" Creator="Steve Scott" >
@@ -4910,7 +4942,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:31:09-07:00</attribute>
 <attribute name="Name" >The Questions of Nostra Aetate</attribute>
-<attribute name="SelectionCount" >16</attribute>
+<attribute name="SelectionCount" >18</attribute>
 <attribute name="Width" >10.2187805</attribute>
 <attribute name="Xpos" >2.729232187</attribute>
 <attribute name="Ypos" >-14.25295432</attribute>
@@ -5022,7 +5054,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-05-23T16:38:23-07:00</attribute>
 <attribute name="Name" >7 Dimensions of Religion</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Width" >15.41062914</attribute>
 <attribute name="Xpos" >-15.99151376</attribute>
 <attribute name="Ypos" >-10.5911934</attribute>
@@ -5198,7 +5230,7 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 <WarnEditingDefault > 1</WarnEditingDefault>
 <WarnDuplicateName > 1</WarnDuplicateName>
 <RunScriptsAutomatically > 1</RunScriptsAutomatically>
-<Version > version 7.0.1</Version>
+<Version > version 7.0.3</Version>
 <PreferencePane > 0</PreferencePane>
 <LastBadgeFamily > 4</LastBadgeFamily>
 <TipWindowX > 300</TipWindowX>
@@ -5280,10 +5312,10 @@ Prepare a short 2-3 minute presentation for Class 11-1 on the essential meaning 
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 41 148 1188 1025]" ruler="1" >
+<window bounds="Rect[ 838 0 1676 1027]" ruler="1" >
 <tabs >
-<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="31.0387" ID="1495584390" scrollX="642" scrollY="341" selection="" expanded="1495584377 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.104965" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584390" scrollX="1054" scrollY="1078" selection="1495584404 1495584377 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.169137" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="31.0387" ID="1495486251" scrollX="0" scrollY="0" selection="1495584368 1495584365 1495584366 1495584369 1495584370 1495584371 1495584372 " expanded="1495570610 1495584338 1495584339 1495584377 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.0167064" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1495584390" scrollX="484.696" scrollY="529.952" selection="1495584404 1495584377 " expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.169137" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
