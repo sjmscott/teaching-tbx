@@ -20304,7 +20304,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:48:51-07:00</attribute>
 <attribute name="Modified" >2016-08-14T21:11:33-07:00</attribute>
 <attribute name="Name" >html-map-day</attribute>
-<attribute name="SelectionCount" >101</attribute>
+<attribute name="SelectionCount" >105</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;col-md-12&quot;&gt;
@@ -25244,7 +25244,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Desktop/teach2</ExportFolder>
+<ExportFolder > ~/Desktop/-test3</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -25272,8 +25272,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1278</InspectorX>
-<InspectorY > 32</InspectorY>
+<InspectorX > 1243</InspectorX>
+<InspectorY > 67</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25316,7 +25316,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 50 150 1519 1027]" ruler="1" >
+<window bounds="Rect[ 94 58 1563 935]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="0" selection="1470843918 " expanded="1470675565 1470689191 1470683554 1470843918 1472312016 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.268106" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="1530" selection="1470862132 " expanded="1470675565 1470690280 1470689191 1470692020 1470694922 1470697636 1470886832 1470952645 1470758011 1480997770 1470843918 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470679051 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.628999" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />

@@ -906,7 +906,7 @@
 <attribute name="Name" >row-fall-2016</attribute>
 <attribute name="OnAdd" ></attribute>
 <attribute name="Season" >Fall</attribute>
-<attribute name="SelectionCount" >153</attribute>
+<attribute name="SelectionCount" >157</attribute>
 <attribute name="StartDate" >2016-08-15T14:34:07-07:00</attribute>
 <attribute name="Teacher" >Mr. Steve Scott</attribute>
 <attribute name="Width" >10</attribute>
@@ -931,7 +931,7 @@
 <attribute name="MapScrollY" >8.379059766</attribute>
 <attribute name="Modified" >2016-08-14T20:11:07-07:00</attribute>
 <attribute name="Name" >1</attribute>
-<attribute name="SelectionCount" >89</attribute>
+<attribute name="SelectionCount" >92</attribute>
 <attribute name="StartDate" >2016-08-15T14:34:00-07:00</attribute>
 <attribute name="WeekName" >1-8/15/16, 2:34 PM</attribute>
 <attribute name="WeekNumber" >1</attribute>
@@ -20097,7 +20097,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-11-10T09:04:19-07:00</attribute>
 <attribute name="Name" >html-map</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;pHTML&quot;;$IsTemplate=true;</attribute>
-<attribute name="SelectionCount" >184</attribute>
+<attribute name="SelectionCount" >185</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >2.36</attribute>
 <text >&lt;!DOCTYPE html&gt;
@@ -20230,7 +20230,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:45:22-07:00</attribute>
 <attribute name="Modified" >2016-08-11T22:10:59-07:00</attribute>
 <attribute name="Name" >html-map-week</attribute>
-<attribute name="SelectionCount" >86</attribute>
+<attribute name="SelectionCount" >91</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;container&quot;&gt;
@@ -21763,7 +21763,7 @@ $Name = &quot;&quot;+$WeekNumber;
 if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.format(&quot;M d&quot;) +&quot;-&quot; +$EndDate.format(&quot;M d&quot;)+&quot;&quot;&apos;;}else{$DisplayExpression=;};                      
 </attribute>
 <attribute name="RuleDisabled" >true</attribute>
-<attribute name="SelectionCount" >76</attribute>
+<attribute name="SelectionCount" >77</attribute>
 <attribute name="StartDate" >never</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
@@ -21782,7 +21782,7 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 </attribute>
 <attribute name="Rule" >
 </attribute>
-<attribute name="SelectionCount" >40</attribute>
+<attribute name="SelectionCount" >42</attribute>
 <attribute name="Width" >10</attribute>
 <attribute name="Xpos" >0.5</attribute>
 <attribute name="Ypos" >17.31873488</attribute>
@@ -24241,7 +24241,7 @@ Islam
 <attribute name="NoSpelling" >true</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;HTML Template&quot;;$IsTemplate=true;</attribute>
 <attribute name="ParagraphSpacing" >0</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="SmartQuotes" >false</attribute>
 <attribute name="TextFont" >Andale Mono</attribute>
 <attribute name="Width" >5</attribute>
@@ -25223,7 +25223,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Dropbox/Public/2016</ExportFolder>
+<ExportFolder > ~/Desktop/-test3</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -25251,8 +25251,8 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1140</InspectorX>
-<InspectorY > 377</InspectorY>
+<InspectorX > 1188</InspectorX>
+<InspectorY > 259</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25295,9 +25295,9 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 715 0 2151 877]" ruler="1" >
+<window bounds="Rect[ 381 129 1557 1006]" ruler="1" >
 <tabs >
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="676" selection="1470710517 " expanded="1470675565 1470952595 1470952636 1470952643 1471227096 1470679051 1470675651 1470767762 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.2679" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="35.7077" ID="1470675520" scrollX="0" scrollY="1677" selection="1470861923 " expanded="1470675565 1470690280 1470952595 1470952636 1470952643 1471227096 1470679051 1470675649 1470861821 1470675651 1470767762 1481222801 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.555738" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="577" selection="1477085147 " expanded="1470675565 1470692020 1470694922 1470697636 1470952645 1471010817 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
