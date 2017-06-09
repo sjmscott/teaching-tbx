@@ -853,18 +853,13 @@
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T20:09:20-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-07T17:57:25-07:00</attribute>
+<attribute name="Modified" >2017-06-09T14:57:47-07:00</attribute>
 <attribute name="Name" >Week 1, Day 1</attribute>
 <attribute name="PublishDate" >2017-06-05T20:23:04-07:00</attribute>
-<attribute name="SelectionCount" >41</attribute>
+<attribute name="SelectionCount" >42</attribute>
 <attribute name="WeekNumber" >Winston Churchill</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >* Prayer
-* Read
-* Nostra Aetate
-* Introductions</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5yAQAAKwAAAAEAAABqAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOztcY3NzcmdiXGMxODQzMVxjNDM1MjlcYzYyMzUzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAoqIFByYXllclwKKiBSZWFkXAoqIE5vc3RyYSBBZXRhdGVcCiogSW50cm9kdWN0aW9uc30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAD1oDhZtgEAAAAAAAAAAAAA</rtfd>
 <item ID="1496859399" Creator="system" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-07T11:10:51-07:00</attribute>
@@ -879,14 +874,14 @@
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-08T09:16:22-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-08T09:26:04-07:00</attribute>
+<attribute name="Modified" >2017-06-09T14:58:17-07:00</attribute>
 <attribute name="Name" >Introductions</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >6</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >About Mr. Scott
-Student Introductions</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4oAQAAKwAAAAEAAAAgAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOzt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgQWJvdXQgTXIuIFNjb3R0XApTdHVkZW50IEludHJvZHVjdGlvbnN9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAnHo5WbYBAAAAAAAAAAAAAA==</rtfd>
+<text >* About Mr. Scott
+* Student Introductions</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4oAQAAKwAAAAEAAAAgAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOzt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMzIgXGNmMCAqIEFib3V0IE1yLiBTY290dFwKKiBTdHVkZW50IEludHJvZHVjdGlvbnN9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA/hk7WbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
 <item ID="1496859400" Creator="system" >
 <attribute name="Associates" ></attribute>
@@ -1217,23 +1212,26 @@ Student Introductions</text>
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T19:14:54-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-09T14:18:26-07:00</attribute>
+<attribute name="Modified" >2017-06-09T14:56:55-07:00</attribute>
 <attribute name="Name" >html_entry</attribute>
 <attribute name="SelectionCount" >62</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >
 
-&lt;div class=&quot;card card&quot; style=&quot;background-color: #333; border-color: #333;&quot;&gt;
+&lt;div class=&quot;card&quot;&gt;
+
+&lt;div class=&quot;card-header&quot;&gt;
+  &lt;h4&gt;^title^&lt;/h4&gt;
+  &lt;/div&gt;
 
  &lt;img class=&quot;rounded mx-auto d-block&quot; src=&quot;https://photos.smugmug.com/Teaching/Row/i-F2StX72/0/7bedf7d2/Th/dalailama2-thumb-Th.png&quot; alt=&quot;Card image cap&quot;&gt;
   &lt;div class=&quot;card-block&quot;&gt;
-&lt;h4 class=&quot;card-title&quot;&gt;  ^title^&lt;/h4&gt;
    
 
 ^text  
 
-&lt;ul class=&quot;list-group&quot;&gt;&lt;ul class=&quot;list-group&quot;&gt;
+ &lt;ul class=&quot;list-group list-group-flush&quot;&gt;
 ^children(/system/templates/html_page/html_detail)
 &lt;/ul&gt;
 
@@ -1245,22 +1243,22 @@ Student Introductions</text>
 &lt;/div&gt;
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6dBgAAKwAAAAEAAACVBgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7XHJlZDIwMFxncmVlbjUxXGJsdWU2MzsKXHJlZDY1XGdyZWVuMTQxXGJsdWUxOTY7XHJlZDMxXGdyZWVuMzJcYmx1ZTMzO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7XGNzc3JnYlxjOTY4NjNcYzk2ODYzXGM5NzY0NztcY3NzcmdiXGM4MzEzN1xjMjg2MjdcYzMxMzczOwpcY3NzcmdiXGMzMDk4MFxjNjIzNTNcYzgxMTc2O1xjc3NyZ2JcYzE2MDc4XGMxNjg2M1xjMTcyNTU7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXAo8ZGl2IGNsYXNzPSJjYXJkIGNhcmQiIHN0eWxlPSJiYWNrZ3JvdW5kLWNvbG9yOiAjMzMzOyBib3JkZXItY29sb3I6ICMzMzM7Ij5cClwKIDxpbWcgY2xhc3M9IlxjZjQgcm91bmRlZCBteC1hdXRvIGQtYmxvY2tcY2YyICIgXGNmNSBzcmM9XGNmNCAiaHR0cHM6Ly9waG90b3Muc211Z211Zy5jb20vVGVhY2hpbmcvUm93L2ktRjJTdFg3Mi8wLzdiZWRmN2QyL1RoL2RhbGFpbGFtYTItdGh1bWItVGgucG5nIiBcY2Y1IGFsdD1cY2Y0ICJDYXJkIGltYWdlIGNhcCJcY2YyID5cCiAgPGRpdiBjbGFzcz0iY2FyZC1ibG9jayI+XAo8aDRcY2Y2ICBcY2Y1IGNsYXNzPVxjZjQgImNhcmQtdGl0bGUiXGNmMiA+XGNmNiAgIFxjZjIgXnRpdGxlXjwvaDQ+XAogICBcClwKXnRleHQgIFwKXAo8dWwgY2xhc3M9Imxpc3QtZ3JvdXAiPjx1bCBjbGFzcz0ibGlzdC1ncm91cCI+XApccGFyZFx0eDU0MFx0eDEwODBcdHgxNjIwXHR4MjE2MFx0eDI3MDBcdHgzMjQwXHR4Mzc4MFx0eDQzMjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMVxmczMyIFxjZjAgXGNiMSBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sX3BhZ2UvaHRtbF9kZXRhaWwpClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIFxjYjMgPC91bD5cClwKPC9kaXY+XApcCjxkaXZcY2Y2ICBcY2Y1IGNsYXNzPVxjZjQgImNhcmQtZm9vdGVyIlxjZjIgPlxjZjYgXAogICAgICBcY2YyIDxzbWFsbFxjZjYgIFxjZjUgY2xhc3M9XGNmNCAidGV4dC1tdXRlZCJcY2YyID5cY2Y2IExhc3QgdXBkYXRlZCAzIG1pbnMgYWdvXGNmMiA8L3NtYWxsPlxjZjYgXAogICAgXGNmMiA8L2Rpdj5cCjwvZGl2PlwKXHBhcmRcdHg1NDBcdHgxMDgwXHR4MTYyMFx0eDIxNjBcdHgyNzAwXHR4MzI0MFx0eDM3ODBcdHg0MzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjFcZnMzMiBcY2YwIFxjYjEgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAACiEDtZtgEAAAAAAAAAAAAA</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5QBgAAKwAAAAEAAABIBgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7XHJlZDIwMFxncmVlbjUxXGJsdWU2MzsKXHJlZDY1XGdyZWVuMTQxXGJsdWUxOTY7XHJlZDMxXGdyZWVuMzJcYmx1ZTMzO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7XGNzc3JnYlxjOTY4NjNcYzk2ODYzXGM5NzY0NztcY3NzcmdiXGM4MzEzN1xjMjg2MjdcYzMxMzczOwpcY3NzcmdiXGMzMDk4MFxjNjIzNTNcYzgxMTc2O1xjc3NyZ2JcYzE2MDc4XGMxNjg2M1xjMTcyNTU7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXAo8ZGl2IGNsYXNzPSJjYXJkIj5cClwKPGRpdiBjbGFzcz0iY2FyZC1oZWFkZXIiPlwKICA8aDQ+XnRpdGxlXjwvaDQ+XAogIDwvZGl2PlwKXAogPGltZyBjbGFzcz0iXGNmNCByb3VuZGVkIG14LWF1dG8gZC1ibG9ja1xjZjIgIiBcY2Y1IHNyYz1cY2Y0ICJodHRwczovL3Bob3Rvcy5zbXVnbXVnLmNvbS9UZWFjaGluZy9Sb3cvaS1GMlN0WDcyLzAvN2JlZGY3ZDIvVGgvZGFsYWlsYW1hMi10aHVtYi1UaC5wbmciIFxjZjUgYWx0PVxjZjQgIkNhcmQgaW1hZ2UgY2FwIlxjZjIgPlwKICA8ZGl2IGNsYXNzPSJjYXJkLWJsb2NrIj5cCiAgIFwKXApedGV4dCAgXApcCiA8dWwgY2xhc3M9Imxpc3QtZ3JvdXAgbGlzdC1ncm91cC1mbHVzaCI+XApccGFyZFx0eDU0MFx0eDEwODBcdHgxNjIwXHR4MjE2MFx0eDI3MDBcdHgzMjQwXHR4Mzc4MFx0eDQzMjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMVxmczMyIFxjZjAgXGNiMSBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIF5jaGlsZHJlbigvc3lzdGVtL3RlbXBsYXRlcy9odG1sX3BhZ2UvaHRtbF9kZXRhaWwpClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YyIDwvdWw+XApcCjwvZGl2PlwKXAo8ZGl2XGNmNiAgXGNmNSBjbGFzcz1cY2Y0ICJjYXJkLWZvb3RlciJcY2YyID5cY2Y2IFwKICAgICAgXGNmMiA8c21hbGxcY2Y2ICBcY2Y1IGNsYXNzPVxjZjQgInRleHQtbXV0ZWQiXGNmMiA+XGNmNiBMYXN0IHVwZGF0ZWQgMyBtaW5zIGFnb1xjZjIgPC9zbWFsbD5cY2Y2IFwKICAgIFxjZjIgPC9kaXY+XAo8L2Rpdj5cClxwYXJkXHR4NTQwXHR4MTA4MFx0eDE2MjBcdHgyMTYwXHR4MjcwMFx0eDMyNDBcdHgzNzgwXHR4NDMyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxXGZzMzIgXGNmMCBcY2IxIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAApxk7WbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
 <item ID="1496808343" Creator="system" proto="HTML Template" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T21:05:42-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-09T14:15:40-07:00</attribute>
+<attribute name="Modified" >2017-06-09T14:59:38-07:00</attribute>
 <attribute name="Name" >html_detail</attribute>
-<attribute name="SelectionCount" >34</attribute>
+<attribute name="SelectionCount" >36</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;li class=&quot;list-group-item&quot;&gt;^title^&lt;/li&gt;
-&lt;li&gt;^text&lt;/li&gt;
+
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6NAgAAKwAAAAEAAACFAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODEwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMTg0MzFcYzQzNTI5XGM2MjM1MztcY3NzcmdiXGM5Njg2M1xjOTY4NjNcYzk3NjQ3O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+XnRpdGxlXjwvbGk+ClxmMVxmczMyIFxjZjAgXGNiMSBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCA8bGk+XnRleHQ8L2xpPlwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAA/A87WbYBAAAAAAAAAAAAAA==</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5/AgAAKwAAAAEAAAB3AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMTg0MzFcYzQzNTI5XGM2MjM1MztcY3NzcmdiXGM5Njg2M1xjOTY4NjNcYzk3NjQ3O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+XnRpdGxlXjwvbGk+ClxmMVxmczMyIFxjZjAgXGNiMSBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAEoaO1m2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 </item>
 <item ID="1496859371" Creator="system" proto="HTML Template" >
@@ -1526,7 +1524,6 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <link name="prototype" sourceid="1496807137" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803236" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496869328" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496869325" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496859368" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496859369" destcreator="system" color="normal"  />
-<link name="*untitled" sourceid="1496807139" sourcecreator="system" sstart="18" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
 <link name="*untitled" sourceid="1496878869" sourcecreator="system" sstart="18" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
 <link name="prototype" sourceid="1496859368" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496878868" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496803249" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496878869" destcreator="system" color="normal"  />
@@ -1618,7 +1615,7 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <CurrentAttributeClass > </CurrentAttributeClass>
 <CurrentAttribute > </CurrentAttribute>
 <FindCaseSensitive > 1</FindCaseSensitive>
-<ExportFolder > ~/Desktop</ExportFolder>
+<ExportFolder > ~/Desktop/-test2</ExportFolder>
 <ReadOnly > 0</ReadOnly>
 <InfoWindowHeight > 0</InfoWindowHeight>
 <InfoWindowWidth > 0</InfoWindowWidth>
@@ -1698,19 +1695,21 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 59 -205 1251 672]" ruler="1" >
+<window bounds="Rect[ 130 150 968 1027]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="347" scrollY="667.25" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="36.8059" ID="1496803234" scrollX="0" scrollY="11" selection="1496808343 " expanded="1496803236 1496869325 1496859369 1496807139 1496963476 1496963502 1496869326 1496807132 1496803242 1496803243 1496803244 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.623322" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="29.4169" ID="1496803234" scrollX="0" scrollY="0" selection="1496938583 " expanded="1496803236 1496869325 1496859369 1496807139 1496963476 1496963502 1496869326 1496807132 1496803242 1496803243 1496803244 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.468974" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
 <utilityWindows >
-<window bounds="Rect[ 412 207 913 835]" ID="1496803246" >
+<window bounds="Rect[ 999 633 1473 905]" ID="1496808343" >
 </window>
-<window bounds="Rect[ 433 528 873 877]" ID="1496859370" >
+<window bounds="Rect[ 1109 179 1524 1022]" ID="1496803243" >
 </window>
-<window bounds="Rect[ 548 29 963 872]" ID="1496803243" >
+<window bounds="Rect[ 1211 55 1651 404]" ID="1496859370" >
+</window>
+<window bounds="Rect[ 994 399 1495 1027]" ID="1496803246" >
 </window>
 </utilityWindows>
 <searches >

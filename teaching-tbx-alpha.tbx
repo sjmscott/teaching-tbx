@@ -959,7 +959,7 @@
 <attribute name="MapScrollY" >11.49156346</attribute>
 <attribute name="Modified" >2016-12-20T12:11:30-07:00</attribute>
 <attribute name="Name" >Class 1-1</attribute>
-<attribute name="SelectionCount" >143</attribute>
+<attribute name="SelectionCount" >145</attribute>
 <attribute name="Status" >true</attribute>
 <attribute name="WeekNumber" >1</attribute>
 <attribute name="Width" >10</attribute>
@@ -19553,7 +19553,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1140</InspectorX>
-<InspectorY > 201</InspectorY>
+<InspectorY > 377</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -19596,7 +19596,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 4 0 1440 877]" ruler="1" >
+<window bounds="Rect[ 80 139 1516 1016]" ruler="1" >
 <tabs >
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="0" selection="1470683554 " expanded="1470675565 1470690280 1470689191 1470683554 1470679051 1470675649 1470861821 1470767762 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.513231" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="34.9387" ID="1470675520" scrollX="654" scrollY="1052" selection="1470675565 " expanded="1470675565 1470690280 1470683554 1470758011 1480997770 1470679051 1470675649 1470861821 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.205432" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
