@@ -4421,7 +4421,7 @@ Graded conversation on Gita</text>
 <attribute name="IsPrototype" >false</attribute>
 <attribute name="Modified" >2016-08-14T19:04:37-07:00</attribute>
 <attribute name="Name" >The People of ROW</attribute>
-<attribute name="SelectionCount" >21</attribute>
+<attribute name="SelectionCount" >22</attribute>
 <attribute name="Sort" >Unit</attribute>
 <attribute name="SortAlso" >Name</attribute>
 <attribute name="Width" >10</attribute>
@@ -20097,7 +20097,11 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Modified" >2016-11-10T09:04:19-07:00</attribute>
 <attribute name="Name" >html-map</attribute>
 <attribute name="OnAdd" >$Prototype=&quot;pHTML&quot;;$IsTemplate=true;</attribute>
+<<<<<<< Updated upstream
 <attribute name="SelectionCount" >185</attribute>
+=======
+<attribute name="SelectionCount" >187</attribute>
+>>>>>>> Stashed changes
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >2.36</attribute>
 <text >&lt;!DOCTYPE html&gt;
@@ -20230,7 +20234,11 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-10T13:45:22-07:00</attribute>
 <attribute name="Modified" >2016-08-11T22:10:59-07:00</attribute>
 <attribute name="Name" >html-map-week</attribute>
+<<<<<<< Updated upstream
 <attribute name="SelectionCount" >91</attribute>
+=======
+<attribute name="SelectionCount" >87</attribute>
+>>>>>>> Stashed changes
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;container&quot;&gt;
@@ -21428,7 +21436,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="HTMLExportTemplate" >/system/templates/body_text_only</attribute>
 <attribute name="Modified" >2016-08-14T20:12:00-07:00</attribute>
 <attribute name="Name" >thumbnail-gallery</attribute>
-<attribute name="SelectionCount" >32</attribute>
+<attribute name="SelectionCount" >33</attribute>
 <attribute name="Xpos" >35</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >&lt;div class=&quot;container&quot;&gt;
@@ -21447,7 +21455,7 @@ $Unit = Unit(parent);</attribute>
 <attribute name="Created" >2016-08-14T19:14:25-07:00</attribute>
 <attribute name="Modified" >2016-08-14T20:40:34-07:00</attribute>
 <attribute name="Name" >thumbnail-row</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >11</attribute>
 <attribute name="Xpos" >49</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >
@@ -25251,8 +25259,13 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
+<<<<<<< Updated upstream
 <InspectorX > 1188</InspectorX>
 <InspectorY > 259</InspectorY>
+=======
+<InspectorX > 1278</InspectorX>
+<InspectorY > 32</InspectorY>
+>>>>>>> Stashed changes
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > </UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -25295,9 +25308,15 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 </ExplodeDelimiter>
 </preferences>
 <windows >
+<<<<<<< Updated upstream
 <window bounds="Rect[ 381 129 1557 1006]" ruler="1" >
 <tabs >
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="35.7077" ID="1470675520" scrollX="0" scrollY="1677" selection="1470861923 " expanded="1470675565 1470690280 1470952595 1470952636 1470952643 1471227096 1470679051 1470675649 1470861821 1470675651 1470767762 1481222801 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.555738" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+=======
+<window bounds="Rect[ 4 0 1440 877]" ruler="1" >
+<tabs >
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="48.2903" ID="1470675520" scrollX="0" scrollY="1299" selection="1471227266 " expanded="1470675565 1470952595 1470952636 1470952643 1471227096 1470679051 1470675649 1470861821 1470675650 1470848203 1470707741 1470877935 1470675651 1470767762 1481222801 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.531337" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+>>>>>>> Stashed changes
 <tab selected="0" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="42.3297" ID="1470675520" scrollX="0" scrollY="577" selection="1477085147 " expanded="1470675565 1470692020 1470694922 1470697636 1470952645 1471010817 1470758011 1480997770 1470701631 1481234418 1472495542 1473788949 1478623711 1470751269 1481058216 1470751293 1481325244 1470675649 1470861821 1470675650 1470685576 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="0" summaryAttribute="" summaryMethod="" splitRatio="0.267409" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
@@ -25305,6 +25324,7 @@ in HTMLView inside Tinderbox, or rename the file in Finder.
 <utilityWindows >
 </utilityWindows>
 <searches >
+<search>thumb</search>
 <search>hosea</search>
 </searches>
 </tinderbox>
