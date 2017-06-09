@@ -803,7 +803,7 @@
 <attribute name="IsComposite" >false</attribute>
 <attribute name="MapScrollX" >0</attribute>
 <attribute name="MapScrollY" >0</attribute>
-<attribute name="Name" >lesson-plan-alpha</attribute>
+<attribute name="Name" >lesson-plan-alpha-1</attribute>
 <item ID="1496803236" Creator="system" proto="pCourseContainer" >
 <attribute name="Associates" ></attribute>
 <attribute name="CourseName" >Religions of the World</attribute>
@@ -1043,7 +1043,7 @@ Student Introductions</text>
 <attribute name="Modified" >2017-06-08T16:11:41-07:00</attribute>
 <attribute name="Name" >Some Key Links to get started</attribute>
 <attribute name="PublishDate" >2017-06-08T16:11:41-07:00</attribute>
-<attribute name="SelectionCount" >7</attribute>
+<attribute name="SelectionCount" >9</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1496963512" Creator="system" >
@@ -1666,8 +1666,8 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <FindWindowY > 100</FindWindowY>
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
-<InspectorX > 1140</InspectorX>
-<InspectorY > 201</InspectorY>
+<InspectorX > 1290</InspectorX>
+<InspectorY > 26</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > 12/26/14, 12:53 PM</UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -1709,7 +1709,7 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 52 0 890 877]" ruler="1" >
+<window bounds="Rect[ 31 104 869 981]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="347" scrollY="667.25" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 <tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="36.8059" ID="1496803234" scrollX="0" scrollY="0" selection="1496963502 " expanded="1496803236 1496869325 1496859369 1496807139 1496963476 1496963502 1496869326 1496807132 1496803242 1496803243 1496803244 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.392601" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
@@ -1717,11 +1717,11 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 </window>
 </windows>
 <utilityWindows >
-<window bounds="Rect[ 888 249 1389 877]" ID="1496803246" >
+<window bounds="Rect[ 548 29 963 872]" ID="1496803243" >
 </window>
 <window bounds="Rect[ 433 528 873 877]" ID="1496859370" >
 </window>
-<window bounds="Rect[ 548 29 963 872]" ID="1496803243" >
+<window bounds="Rect[ 888 249 1389 877]" ID="1496803246" >
 </window>
 </utilityWindows>
 <searches >
