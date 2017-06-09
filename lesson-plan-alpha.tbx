@@ -853,25 +853,20 @@
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T20:09:20-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-07T17:57:25-07:00</attribute>
+<attribute name="Modified" >2017-06-09T08:23:48-07:00</attribute>
 <attribute name="Name" >Week 1, Day 1</attribute>
 <attribute name="PublishDate" >2017-06-05T20:23:04-07:00</attribute>
-<attribute name="SelectionCount" >41</attribute>
+<attribute name="SelectionCount" >43</attribute>
 <attribute name="WeekNumber" >Winston Churchill</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >* Prayer
-* Read
-* Nostra Aetate
-* Introductions</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5yAQAAKwAAAAEAAABqAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOztcY3NzcmdiXGMxODQzMVxjNDM1MjlcYzYyMzUzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAoqIFByYXllclwKKiBSZWFkXAoqIE5vc3RyYSBBZXRhdGVcCiogSW50cm9kdWN0aW9uc30BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAD1oDhZtgEAAAAAAAAAAAAA</rtfd>
 <item ID="1496859399" Creator="system" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-07T11:10:51-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-06-08T09:11:32-07:00</attribute>
 <attribute name="Name" >Prayer</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >10</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 </item>
@@ -879,27 +874,26 @@
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-08T09:16:22-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-08T09:26:04-07:00</attribute>
+<attribute name="Modified" >2017-06-09T08:41:37-07:00</attribute>
 <attribute name="Name" >Introductions</attribute>
-<attribute name="SelectionCount" >5</attribute>
+<attribute name="SelectionCount" >7</attribute>
 <attribute name="Xpos" >7</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >About Mr. Scott
-Student Introductions</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4oAQAAKwAAAAEAAAAgAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOzt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgQWJvdXQgTXIuIFNjb3R0XApTdHVkZW50IEludHJvZHVjdGlvbnN9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAnHo5WbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
 <item ID="1496859400" Creator="system" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-07T11:10:56-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-08T09:29:01-07:00</attribute>
+<attribute name="Modified" >2017-06-09T09:07:57-07:00</attribute>
 <attribute name="Name" >Nostra Aetate</attribute>
-<attribute name="SelectionCount" >8</attribute>
+<attribute name="SelectionCount" >12</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >	1.	Download Nostra Aetate
-	2.	Read document</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5rAwAAKwAAAAEAAABjAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7XGYxXGZuaWxcZmNoYXJzZXQwIE1lbmxvLVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzdcZ3JlZW45MVxibHVlMTQxO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7fQp7XCpcbGlzdHRhYmxle1xsaXN0XGxpc3R0ZW1wbGF0ZWlkMVxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsZm9sbG93MFxsZXZlbHN0YXJ0YXQxXGxldmVsc3BhY2UzNjBcbGV2ZWxpbmRlbnQwe1wqXGxldmVsbWFya2VyIFx7ZGVjaW1hbFx9Ln17XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQxXCcwMlwnMDAuO317XGxldmVsbnVtYmVyc1wnMDE7fVxmaS0zNjBcbGk3MjBcbGluNzIwIH17XGxpc3RuYW1lIDt9XGxpc3RpZDF9fQp7XCpcbGlzdG92ZXJyaWRldGFibGV7XGxpc3RvdmVycmlkZVxsaXN0aWQxXGxpc3RvdmVycmlkZWNvdW50MFxsczF9fQpccGFyZFx0eDIyMFx0eDcyMFx0eDEwODBcdHgxNDQwXGxpNzIwXGZpLTcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwClxsczFcaWx2bDAKXGYwXGZzMzIgXGNmMCB7XGxpc3R0ZXh0CTEuCX1Eb3dubG9hZCBOb3N0cmEgQWV0YXRlClxmMVxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApcClxsczFcaWx2bDAKXGYwXGZzMzIgXGNmMCBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIHtcbGlzdHRleHQJMi4JfVJlYWQgZG9jdW1lbnR9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAATXs5WbYBAAAAAAAAAAAAAA==</rtfd>
+<text >* Download Nostra Aetate
+* Read document
+* Discuss
+What are the major ideas found in the document?</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6NAwAAKwAAAAEAAACFAwAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7XGYxXGZuaWxcZmNoYXJzZXQwIE1lbmxvLVJlZ3VsYXI7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTtccmVkMzdcZ3JlZW45MVxibHVlMTQxO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7fQp7XCpcbGlzdHRhYmxle1xsaXN0XGxpc3R0ZW1wbGF0ZWlkMVxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsZm9sbG93MFxsZXZlbHN0YXJ0YXQxXGxldmVsc3BhY2UzNjBcbGV2ZWxpbmRlbnQwe1wqXGxldmVsbWFya2VyIFx7ZGVjaW1hbFx9Ln17XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQxXCcwMlwnMDAuO317XGxldmVsbnVtYmVyc1wnMDE7fVxmaS0zNjBcbGk3MjBcbGluNzIwIH17XGxpc3RuYW1lIDt9XGxpc3RpZDF9fQp7XCpcbGlzdG92ZXJyaWRldGFibGV7XGxpc3RvdmVycmlkZVxsaXN0aWQxXGxpc3RvdmVycmlkZWNvdW50MFxsczF9fQpccGFyZFx0eDIyMFx0eDcyMFx0eDEwODBcdHgxNDQwXGxpNzIwXGZpLTcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwClxsczFcaWx2bDAKXGYwXGZzMzIgXGNmMCAqIERvd25sb2FkIE5vc3RyYSBBZXRhdGUKXGYxXGZzMjYgXGNmMiBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXGxzMVxpbHZsMApcZjBcZnMzMiBcY2YwIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgKiBSZWFkIGRvY3VtZW50XAoqIERpc2N1c3NcCldoYXQgYXJlIHRoZSBtYWpvciBpZGVhcyBmb3VuZCBpbiB0aGUgZG9jdW1lbnQ/fQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAN3HOlm2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 <item ID="1496939451" Creator="system" >
 <attribute name="Associates" ></attribute>
@@ -907,7 +901,7 @@ Student Introductions</text>
 <attribute name="IsComposite" >false</attribute>
 <attribute name="Modified" >2017-06-08T09:33:41-07:00</attribute>
 <attribute name="Name" >Mindfulness</attribute>
-<attribute name="SelectionCount" >2</attribute>
+<attribute name="SelectionCount" >3</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
 <text >* Religious Acceptance Prayer in Chapel</text>
@@ -918,29 +912,63 @@ Student Introductions</text>
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-07T10:19:25-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-07T17:49:36-07:00</attribute>
+<attribute name="Modified" >2017-06-09T09:14:27-07:00</attribute>
 <attribute name="Name" >Week 1, Day 2</attribute>
 <attribute name="PublishDate" >2017-06-07T10:19:25-07:00</attribute>
-<attribute name="SelectionCount" >10</attribute>
+<attribute name="SelectionCount" >13</attribute>
 <attribute name="Xpos" >10.5</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5QBAAAKwAAAAEAAABIBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzLVJvbWFuO1xmMlxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7Cn0Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7XHJlZDM4XGdyZWVuMzhcYmx1ZTM4Owp9CntcKlxleHBhbmRlZGNvbG9ydGJsOztcY3NzcmdiXGMxODQzMVxjNDM1MjlcYzYyMzUzO1xjc3NyZ2JcYzk2ODYzXGM5Njg2M1xjOTc2NDc7XGNzc3JnYlxjMjAwMDBcYzIwMDAwXGMyMDAwMDsKfQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxzbDM2MFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjYgXGNmMiBcY2IzIFxleHBuZDBcZXhwbmR0dzBca2VybmluZzAKTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2ljaW5nIGVsaXQsIHNlZCBkbyBlaXVzbW9kIHRlbXBvciBpbmNpZGlkdW50IHV0IGxhYm9yZSBldCBkb2xvcmUgbWFnbmEgYWxpcXVhLiBVdCBlbmltIGFkIG1pbmltIHZlbmlhbSwgcXVpcyBub3N0cnVkIGV4ZXJjaXRhdGlvbiB1bGxhbWNvIGxhYm9yaXMgbmlzaSB1dCBhbGlxdWlwIGV4IGVhIGNvbW1vZG8gY29uc2VxdWF0LiBEdWlzIGF1dGUgaXJ1cmUgZG9sb3IgaW4gcmVwcmVoZW5kZXJpdCBpbiB2b2x1cHRhdGUgdmVsaXQgZXNzZSBjaWxsdW0gZG9sb3JlIGV1IGZ1Z2lhdCBudWxsYSBwYXJpYXR1ci4gRXhjZXB0ZXVyIHNpbnQgb2NjYWVjYXQgY3VwaWRhdGF0IG5vbiBwcm9pZGVudCwgc3VudCBpbiBjdWxwYSBxdWkgb2ZmaWNpYSBkZXNlcnVudCBtb2xsaXQgYW5pbSBpZCBlc3QgbGFib3J1bS4KXGYxXGZzNzIgXGNmNCBcY2IxIFwKXHBhcmRcdHgzNjBcdHg3MjBcdHgxMDgwXHR4MTQ0MFxwYXJkZWZ0YWI3MjBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMlxmczMyIFxjZjAgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCAJfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAACCfOFm2AQAAAAAAAAAAAAA=</rtfd>
+<text >Today we are going to focus on building a religous vocabulary.</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC65AQAAKwAAAAEAAACxAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMTg0MzFcYzQzNTI5XGM2MjM1MztcY3NzcmdiXGM5Njg2M1xjOTY4NjNcYzk3NjQ3O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClRvZGF5IHdlIGFyZSBnb2luZyB0byBmb2N1cyBvbiBidWlsZGluZyBhIHJlbGlnb3VzIHZvY2FidWxhcnkufQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAGPJOlm2AQAAAAAAAAAAAAA=</rtfd>
+<item ID="1497027430" Creator="system" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-06-09T09:14:34-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-06-09T09:14:34-07:00</attribute>
+<attribute name="Name" >Basic ROW Vocabulary</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >0</attribute>
+<attribute name="Ypos" >0</attribute>
+</item>
+<item ID="1497027431" Creator="system" >
+<attribute name="Associates" ></attribute>
+<attribute name="Created" >2017-06-09T09:15:06-07:00</attribute>
+<attribute name="IsComposite" >false</attribute>
+<attribute name="Modified" >2017-06-09T09:18:02-07:00</attribute>
+<attribute name="Name" >NOW Review</attribute>
+<attribute name="SelectionCount" >3</attribute>
+<attribute name="Xpos" >3.5</attribute>
+<attribute name="Ypos" >0</attribute>
+<text >&lt;div class=&quot;alert alert-danger&quot; role=&quot;alert&quot;&gt;
+  &lt;strong&gt;Oh snap!&lt;/strong&gt; Change a few things up and try submitting again.
+&lt;/div&gt;</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC6LAQAAKwAAAAEAAACDAQAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZXJjdXJ5U1NtLUJvb2s7fQp7XGNvbG9ydGJsO1xyZWQyNTVcZ3JlZW4yNTVcYmx1ZTI1NTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOzt9ClxwYXJkXHR4MzYwXHR4NzIwXHR4MTA4MFx0eDE0NDBccmk0MDBcc2I4MFxzYTgwXHBhcmRpcm5hdHVyYWxccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczMyIFxjZjAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIiByb2xlPSJhbGVydCI+XAogIDxzdHJvbmc+T2ggc25hcCE8L3N0cm9uZz4gQ2hhbmdlIGEgZmV3IHRoaW5ncyB1cCBhbmQgdHJ5IHN1Ym1pdHRpbmcgYWdhaW4uXAo8L2Rpdj59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAOso6WbYBAAAAAAAAAAAAAA==</rtfd>
+</item>
 </item>
 <item ID="1496803248" Creator="system" proto="pClass" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T19:16:38-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-07T17:49:41-07:00</attribute>
+<attribute name="Modified" >2017-06-09T09:21:28-07:00</attribute>
 <attribute name="Name" >Week 1, Day 3</attribute>
 <attribute name="PublishDate" >2017-06-15T20:22:52-07:00</attribute>
-<attribute name="SelectionCount" >28</attribute>
+<attribute name="SelectionCount" >29</attribute>
 <attribute name="WeekNumber" >Franklin Roosevelt</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC7+AgAAKwAAAAEAAAD2AgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOztcY3NzcmdiXGMxODQzMVxjNDM1MjlcYzYyMzUzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMApMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuIFV0IGVuaW0gYWQgbWluaW0gdmVuaWFtLCBxdWlzIG5vc3RydWQgZXhlcmNpdGF0aW9uIHVsbGFtY28gbGFib3JpcyBuaXNpIHV0IGFsaXF1aXAgZXggZWEgY29tbW9kbyBjb25zZXF1YXQuIER1aXMgYXV0ZSBpcnVyZSBkb2xvciBpbiByZXByZWhlbmRlcml0IGluIHZvbHVwdGF0ZSB2ZWxpdCBlc3NlIGNpbGx1bSBkb2xvcmUgZXUgZnVnaWF0IG51bGxhIHBhcmlhdHVyLiBFeGNlcHRldXIgc2ludCBvY2NhZWNhdCBjdXBpZGF0YXQgbm9uIHByb2lkZW50LCBzdW50IGluIGN1bHBhIHF1aSBvZmZpY2lhIGRlc2VydW50IG1vbGxpdCBhbmltIGlkIGVzdCBsYWJvcnVtLn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAAlnzhZtgEAAAAAAAAAAAAA</rtfd>
+<text >&lt;div class=&quot;alert alert-warning alert-dismissible fade show&quot; role=&quot;alert&quot;&gt;
+  &lt;button type=&quot;button&quot; class=&quot;close&quot; data-dismiss=&quot;alert&quot; aria-label=&quot;Close&quot;&gt;
+    &lt;span aria-hidden=&quot;true&quot;&gt;&amp;times;&lt;/span&gt;
+  &lt;/button&gt;
+  &lt;strong&gt;Holy guacamole!&lt;/strong&gt; You should check in on some of those fields below.
+&lt;/div&gt;
+
+&lt;div class=&quot;alert alert-success&quot; role=&quot;alert&quot;&gt;
+  &lt;h4 class=&quot;alert-heading&quot;&gt;Well done!&lt;/h4&gt;
+  &lt;p&gt;Aww yeah, you successfully read this important alert message. This example text is going to run a bit longer so that you can see how spacing within an alert works with this kind of content.&lt;/p&gt;
+  &lt;p class=&quot;mb-0&quot;&gt;Whenever you need to, be sure to use margin utilities to keep things nice and tidy.&lt;/p&gt;
+&lt;/div&gt;</text>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC4NBAAAKwAAAAEAAAAFBAAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTt9CntcKlxleHBhbmRlZGNvbG9ydGJsOztcY3NzcmdiXGMxODQzMVxjNDM1MjlcYzYyMzUzO30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBcc2wzNjBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI2IFxjZjIgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC13YXJuaW5nIGFsZXJ0LWRpc21pc3NpYmxlIGZhZGUgc2hvdyIgcm9sZT0iYWxlcnQiPlwKICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9ImFsZXJ0IiBhcmlhLWxhYmVsPSJDbG9zZSI+XAogICAgPHNwYW4gYXJpYS1oaWRkZW49InRydWUiPiZ0aW1lczs8L3NwYW4+XAogIDwvYnV0dG9uPlwKICA8c3Ryb25nPkhvbHkgZ3VhY2Ftb2xlITwvc3Ryb25nPiBZb3Ugc2hvdWxkIGNoZWNrIGluIG9uIHNvbWUgb2YgdGhvc2UgZmllbGRzIGJlbG93LlwKPC9kaXY+XApcCjxkaXYgY2xhc3M9ImFsZXJ0IGFsZXJ0LXN1Y2Nlc3MiIHJvbGU9ImFsZXJ0Ij5cCiAgPGg0IGNsYXNzPSJhbGVydC1oZWFkaW5nIj5XZWxsIGRvbmUhPC9oND5cCiAgPHA+QXd3IHllYWgsIHlvdSBzdWNjZXNzZnVsbHkgcmVhZCB0aGlzIGltcG9ydGFudCBhbGVydCBtZXNzYWdlLiBUaGlzIGV4YW1wbGUgdGV4dCBpcyBnb2luZyB0byBydW4gYSBiaXQgbG9uZ2VyIHNvIHRoYXQgeW91IGNhbiBzZWUgaG93IHNwYWNpbmcgd2l0aGluIGFuIGFsZXJ0IHdvcmtzIHdpdGggdGhpcyBraW5kIG9mIGNvbnRlbnQuPC9wPlwKICA8cCBjbGFzcz0ibWItMCI+V2hlbmV2ZXIgeW91IG5lZWQgdG8sIGJlIHN1cmUgdG8gdXNlIG1hcmdpbiB1dGlsaXRpZXMgdG8ga2VlcCB0aGluZ3MgbmljZSBhbmQgdGlkeS48L3A+XAo8L2Rpdj59AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAACMs6WbYBAAAAAAAAAAAAAA==</rtfd>
 </item>
 </item>
 <item ID="1496878868" Creator="system" proto="pWeek" >
@@ -1043,7 +1071,7 @@ Student Introductions</text>
 <attribute name="Modified" >2017-06-08T16:11:41-07:00</attribute>
 <attribute name="Name" >Some Key Links to get started</attribute>
 <attribute name="PublishDate" >2017-06-08T16:11:41-07:00</attribute>
-<attribute name="SelectionCount" >3</attribute>
+<attribute name="SelectionCount" >5</attribute>
 <attribute name="Xpos" >0</attribute>
 <attribute name="Ypos" >0</attribute>
 <item ID="1496963512" Creator="system" >
@@ -1229,7 +1257,7 @@ Student Introductions</text>
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T19:14:54-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-08T09:27:31-07:00</attribute>
+<attribute name="Modified" >2017-06-09T09:13:48-07:00</attribute>
 <attribute name="Name" >html_entry</attribute>
 <attribute name="SelectionCount" >62</attribute>
 <attribute name="Xpos" >0</attribute>
@@ -1256,22 +1284,22 @@ Student Introductions</text>
 &lt;/div&gt;
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5VBgAAKwAAAAEAAABNBgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7XHJlZDY1XGdyZWVuMTQxXGJsdWUxOTY7ClxyZWQyMDBcZ3JlZW41MVxibHVlNjM7XHJlZDMxXGdyZWVuMzJcYmx1ZTMzO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7XGNzc3JnYlxjOTY4NjNcYzk2ODYzXGM5NzY0NztcY3NzcmdiXGMzMDk4MFxjNjIzNTNcYzgxMTc2OwpcY3NzcmdiXGM4MzEzN1xjMjg2MjdcYzMxMzczO1xjc3NyZ2JcYzE2MDc4XGMxNjg2M1xjMTcyNTU7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXAo8ZGl2IGNsYXNzPSJjYXJkIiBcY2Y0IHN0eWxlPVxjZjUgIndpZHRoOiAzMyUiXGNmMiA+XApcCiA8aW1nIGNsYXNzPSJcY2Y1IHJvdW5kZWQgbXgtYXV0byBkLWJsb2NrXGNmMiAiIFxjZjQgc3JjPVxjZjUgImh0dHBzOi8vcGhvdG9zLnNtdWdtdWcuY29tL1RlYWNoaW5nL1Jvdy9pLUYyU3RYNzIvMC83YmVkZjdkMi9UaC9kYWxhaWxhbWEyLXRodW1iLVRoLnBuZyIgXGNmNCBhbHQ9XGNmNSAiQ2FyZCBpbWFnZSBjYXAiXGNmMiA+XAogIDxkaXYgY2xhc3M9ImNhcmQtYmxvY2siPlwKPGg0XGNmNiAgXGNmNCBjbGFzcz1cY2Y1ICJjYXJkLXRpdGxlIlxjZjIgPlxjZjYgICBcY2YyIF50aXRsZV48L2g0PlwKICAgXApcCl50ZXh0ICBcCjxvbD5cClxwYXJkXHR4NTQwXHR4MTA4MFx0eDE2MjBcdHgyMTYwXHR4MjcwMFx0eDMyNDBcdHgzNzgwXHR4NDMyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxXGZzMzIgXGNmMCBcY2IxIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXmNoaWxkcmVuKC9zeXN0ZW0vdGVtcGxhdGVzL2h0bWxfcGFnZS9odG1sX2RldGFpbCkKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgPC9vbD5cClwKPC9kaXY+XApcCjxkaXZcY2Y2ICBcY2Y0IGNsYXNzPVxjZjUgImNhcmQtZm9vdGVyIlxjZjIgPlxjZjYgXAogICAgICBcY2YyIDxzbWFsbFxjZjYgIFxjZjQgY2xhc3M9XGNmNSAidGV4dC1tdXRlZCJcY2YyID5cY2Y2IExhc3QgdXBkYXRlZCAzIG1pbnMgYWdvXGNmMiA8L3NtYWxsPlxjZjYgXAogICAgXGNmMiA8L2Rpdj5cCjwvZGl2PlwKXHBhcmRcdHg1NDBcdHgxMDgwXHR4MTYyMFx0eDIxNjBcdHgyNzAwXHR4MzI0MFx0eDM3ODBcdHg0MzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjFcZnMzMiBcY2YwIFxjYjEgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAADzejlZtgEAAAAAAAAAAAAA</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5VBgAAKwAAAAEAAABNBgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7XHJlZDY1XGdyZWVuMTQxXGJsdWUxOTY7ClxyZWQyMDBcZ3JlZW41MVxibHVlNjM7XHJlZDMxXGdyZWVuMzJcYmx1ZTMzO30Ke1wqXGV4cGFuZGVkY29sb3J0Ymw7O1xjc3NyZ2JcYzE4NDMxXGM0MzUyOVxjNjIzNTM7XGNzc3JnYlxjOTY4NjNcYzk2ODYzXGM5NzY0NztcY3NzcmdiXGMzMDk4MFxjNjIzNTNcYzgxMTc2OwpcY3NzcmdiXGM4MzEzN1xjMjg2MjdcYzMxMzczO1xjc3NyZ2JcYzE2MDc4XGMxNjg2M1xjMTcyNTU7fQpcZGVmdGFiNzIwClxwYXJkXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXAo8ZGl2IGNsYXNzPSJjYXJkIiBcY2Y0IHN0eWxlPVxjZjUgIndpZHRoOiAzMyUiXGNmMiA+XApcCiA8aW1nIGNsYXNzPSJcY2Y1IHJvdW5kZWQgbXgtYXV0byBkLWJsb2NrXGNmMiAiIFxjZjQgc3JjPVxjZjUgImh0dHBzOi8vcGhvdG9zLnNtdWdtdWcuY29tL1RlYWNoaW5nL1Jvdy9pLUYyU3RYNzIvMC83YmVkZjdkMi9UaC9kYWxhaWxhbWEyLXRodW1iLVRoLnBuZyIgXGNmNCBhbHQ9XGNmNSAiQ2FyZCBpbWFnZSBjYXAiXGNmMiA+XAogIDxkaXYgY2xhc3M9ImNhcmQtYmxvY2siPlwKPGg0XGNmNiAgXGNmNCBjbGFzcz1cY2Y1ICJjYXJkLXRpdGxlIlxjZjIgPlxjZjYgICBcY2YyIF50aXRsZV48L2g0PlwKICAgXApcCl50ZXh0ICBcCjxvbD5cClxwYXJkXHR4NTQwXHR4MTA4MFx0eDE2MjBcdHgyMTYwXHR4MjcwMFx0eDMyNDBcdHgzNzgwXHR4NDMyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFyZGlybmF0dXJhbFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYxXGZzMzIgXGNmMCBcY2IxIFxrZXJuaW5nMVxleHBuZDBcZXhwbmR0dzAgXmNoaWxkcmVuKC9zeXN0ZW0vdGVtcGxhdGVzL2h0bWxfcGFnZS9odG1sX2RldGFpbCkKXGYwXGZzMjhcZnNtaWxsaTE0NDAwIFxjZjIgXGNiMyBcZXhwbmQwXGV4cG5kdHcwXGtlcm5pbmcwClwKXHBhcmRccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjIgPC9vbD5cClwKPC9kaXY+XApcCjxkaXZcY2Y2ICBcY2Y0IGNsYXNzPVxjZjUgImNhcmQtZm9vdGVyIlxjZjIgPlxjZjYgXAogICAgICBcY2YyIDxzbWFsbFxjZjYgIFxjZjQgY2xhc3M9XGNmNSAidGV4dC1tdXRlZCJcY2YyID5cY2Y2IExhc3QgdXBkYXRlZCAzIG1pbnMgYWdvXGNmMiA8L3NtYWxsPlxjZjYgXAogICAgXGNmMiA8L2Rpdj5cCjwvZGl2PlwKXHBhcmRcdHg1NDBcdHgxMDgwXHR4MTYyMFx0eDIxNjBcdHgyNzAwXHR4MzI0MFx0eDM3ODBcdHg0MzIwXHBhcmRlZnRhYjcyMFxyaTQwMFxwYXJkaXJuYXR1cmFsXHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjFcZnMzMiBcY2YwIFxjYjEgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcCn0BAAAAIwAAAAEAAAAHAAAAVFhULnJ0ZhAAAAA8yTpZtgEAAAAAAAAAAAAA</rtfd>
 </item>
 <item ID="1496808343" Creator="system" proto="HTML Template" >
 <attribute name="Associates" ></attribute>
 <attribute name="Created" >2017-06-06T21:05:42-07:00</attribute>
 <attribute name="IsComposite" >false</attribute>
-<attribute name="Modified" >2017-06-08T09:34:25-07:00</attribute>
+<attribute name="Modified" >2017-06-09T09:16:15-07:00</attribute>
 <attribute name="Name" >html_detail</attribute>
-<attribute name="SelectionCount" >33</attribute>
+<attribute name="SelectionCount" >34</attribute>
 <attribute name="Xpos" >3.5</attribute>
 <attribute name="Ypos" >0</attribute>
-<text >&lt;li&gt;^title^&lt;/li&gt;
-&lt;li&gt;^text&lt;/li&gt;
+<text >&lt;li&gt;&lt;b&gt;^title^&lt;/b&gt;&lt;/li&gt;
+^text
 
 </text>
-<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC51AgAAKwAAAAEAAABtAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMTg0MzFcYzQzNTI5XGM2MjM1MztcY3NzcmdiXGM5Njg2M1xjOTY4NjNcYzk3NjQ3O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8bGk+XnRpdGxlXjwvbGk+ClxmMVxmczMyIFxjZjAgXGNiMSBca2VybmluZzFcZXhwbmQwXGV4cG5kdHcwIFwKXHBhcmRcdHg1NjBcdHgxMTIwXHR4MTY4MFx0eDIyNDBcdHgyODAwXHR4MzM2MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2MDBcdHg2MTYwXHR4NjcyMFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCA8bGk+XnRleHQ8L2xpPlwKXAp9AQAAACMAAAABAAAABwAAAFRYVC5ydGYQAAAAkXw5WbYBAAAAAAAAAAAAAA==</rtfd>
+<rtfd >cnRmZAAAAAADAAAAAgAAAAcAAABUWFQucnRmAQAAAC5zAgAAKwAAAAEAAABrAgAAe1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTA0XGNvY29hc3VicnRmODMwCntcZm9udHRibFxmMFxmbmlsXGZjaGFyc2V0MCBNZW5sby1SZWd1bGFyO1xmMVxmbmlsXGZjaGFyc2V0MCBBbmRhbGVNb25vO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7XHJlZDM3XGdyZWVuOTFcYmx1ZTE0MTtccmVkMjQ1XGdyZWVuMjQ1XGJsdWUyNDc7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7XGNzc3JnYlxjMTg0MzFcYzQzNTI5XGM2MjM1MztcY3NzcmdiXGM5Njg2M1xjOTY4NjNcYzk3NjQ3O30KXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmk0MDBccGFydGlnaHRlbmZhY3RvcjAKClxmMFxmczI4XGZzbWlsbGkxNDQwMCBcY2YyIFxjYjMgXGV4cG5kMFxleHBuZHR3MFxrZXJuaW5nMAo8bGk+PGI+XnRpdGxlXjwvYj48L2xpPgpcZjFcZnMzMiBcY2YwIFxjYjEgXGtlcm5pbmcxXGV4cG5kMFxleHBuZHR3MCBcClxwYXJkXHR4NTYwXHR4MTEyMFx0eDE2ODBcdHgyMjQwXHR4MjgwMFx0eDMzNjBcdHgzOTIwXHR4NDQ4MFx0eDUwNDBcdHg1NjAwXHR4NjE2MFx0eDY3MjBccGFyZGVmdGFiNzIwXHJpNDAwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjAgXnRleHRcClwKfQEAAAAjAAAAAQAAAAcAAABUWFQucnRmEAAAAM/JOlm2AQAAAAAAAAAAAAA=</rtfd>
 </item>
 </item>
 <item ID="1496859371" Creator="system" proto="HTML Template" >
@@ -1537,12 +1565,11 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <link name="prototype" sourceid="1496807137" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803236" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496869328" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496869325" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496859368" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496859369" destcreator="system" color="normal"  />
-<link name="*untitled" sourceid="1496807139" sourcecreator="system" sstart="18" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
 <link name="*untitled" sourceid="1496878869" sourcecreator="system" sstart="18" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
 <link name="prototype" sourceid="1496859368" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496878868" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496803249" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496878869" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496803249" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496878872" destcreator="system" color="normal"  />
-<link name="*untitled" sourceid="1496859400" sourcecreator="system" sstart="13" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
+<link name="*untitled" sourceid="1496859400" sourcecreator="system" sstart="11" slen="13" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496803234" destcreator="system" color="normal" URL="http://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html"  />
 <link name="prototype" sourceid="1496803249" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496963360" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496859368" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496963476" destcreator="system" color="normal"  />
 <link name="prototype" sourceid="1496803249" sourcecreator="system" sstart="-1" slen="0" style="0" arrowtype="-1" labelx="0" labely="0" linkWidth="1" destid="1496963502" destcreator="system" color="normal"  />
@@ -1667,7 +1694,7 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <RenameWindowX > -1</RenameWindowX>
 <RenameWindowY > -1</RenameWindowY>
 <InspectorX > 1120</InspectorX>
-<InspectorY > 135</InspectorY>
+<InspectorY > 201</InspectorY>
 <EnterKeyAction > 0</EnterKeyAction>
 <UpdateViewShown > 12/26/14, 12:53 PM</UpdateViewShown>
 <TimelineScale > 1000</TimelineScale>
@@ -1709,19 +1736,21 @@ if($StartDate) {$DisplayExpression = &apos;$Name + &quot;-&quot; + $StartDate.fo
 <ExplodeDelimiter > </ExplodeDelimiter>
 </preferences>
 <windows >
-<window bounds="Rect[ 52 0 890 1027]" ruler="1" >
+<window bounds="Rect[ 6 -0 1186 1027]" ruler="1" >
 <tabs >
 <tab selected="0" viewType="0" usingCheckboxes="0" showColumns="0" columnString="" scale="32" ID="1496803234" scrollX="347" scrollY="667.25" selection="" expanded="" textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.5" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
-<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="36.8059" ID="1496803234" scrollX="0" scrollY="0" selection="1496963502 " expanded="1496803236 1496869325 1496859369 1496807139 1496963476 1496963502 1496869326 1496807132 1496803242 1496803243 1496803244 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.392601" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
+<tab selected="1" viewType="1" usingCheckboxes="0" showColumns="0" columnString="" scale="36.8059" ID="1496803234" scrollX="0" scrollY="0" selection="1496803248 " expanded="1496803236 1496869325 1496859369 1496807139 1496855966 1496963476 1496963502 1496869326 1496807132 1496803242 1496803243 1496803244 " textTab="0" attribute="" sortAttribute="" container="" query="" queryLabel="" action="" actionLabel="" bins="10" summaryAttribute="" summaryMethod="" splitRatio="0.410117" treemapExpression="" treemapColorExpression="" treemapBorderColorExpression="$Color" treemapColorStart="#fffef9100" treemapColorEnd="#ccd5bf100"  />
 </tabs>
 </window>
 </windows>
 <utilityWindows >
-<window bounds="Rect[ 888 398 1389 1026]" ID="1496803246" >
+<window bounds="Rect[ 802 185 1276 457]" ID="1496808343" >
 </window>
-<window bounds="Rect[ 433 676 873 1025]" ID="1496859370" >
+<window bounds="Rect[ 845 160 1260 1003]" ID="1496803243" >
 </window>
-<window bounds="Rect[ 548 29 963 872]" ID="1496803243" >
+<window bounds="Rect[ 1261 164 1701 513]" ID="1496859370" >
+</window>
+<window bounds="Rect[ 1277 -0 1676 1027]" ID="1496803246" >
 </window>
 </utilityWindows>
 <searches >
